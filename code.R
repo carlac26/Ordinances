@@ -1,28 +1,27 @@
+## Next Steps
+## Author: Carla Canovi (The New School)
+## Date: Sep 26, 2024
 
-#Libraries------------------------------------------------------------------------------------------------------------
+pacman::p_load(MASS, readxl, tseries, car, tile, simcf, # data refinement
+               survival, spaMM, plm, coda, fields, # data analysis
+               sf, sp, tmap, raster, spdep, rgdal, rgeos,
+               ggplot2, ggpubr, shiny, shinyjs, tmaptools, graph4lg, # spatial 
+               tidyverse)
 
-#load packages
-library(readr)
-library(ggplot2)
-library(dplyr)
-library(plotly)
-library(hrbrthemes)
-library(tidyverse)
-library(lubridate)
-library(ggrepel)
-library(ggtext)
-library(showtext)
-library(viridis)
-font_add_google("Lato")
-showtext_auto()
-
-
-#Oridinance Dataset---------------------------------------------
+#Ordinance Dataset---------------------------------------------
 #import csv , df <- names imported dataset 
 ##read_csv(imports csv input csv name here usually need full path name but file is already in my environment so i dont need it)
 df <- read_csv("ordinances_r.csv")
 #view() shows dataset
-View(df)
+#View(df)
+#add dates from mit dataset in
+mit <- read_csv("solarord_long_revised.csv") 
+
+mit <- mit %>%
+ # rename(County = county_name, State = state_name) 
+  select(County,State, year, Name)
+  
+
 
 #using package lubridate names Date as a date column, ymd is format date is in
 #need to use this exact notation of dataframe$columnname so it changes the column in the data set
@@ -30,18 +29,78 @@ df$Date <- ymd(df$Date)
 
 #manipulate dataset into time series formate - remove "dummy" variables
 ##name new set time_series
-ordinancesdf <- df %>%
+df <- df %>%
 #recognize year column as date column in the year format 
-  mutate(year = lubridate::year(Date)) %>%
+  mutate(year = lubridate::year(Date)) 
+
+
+revised_df <- df %>%
+  left_join( mit, join_by(State, County, Name) )%>%
+  mutate(year = ifelse(
+    Source == "NREL" & !is.na(year.y), year.y, year.x),
+    year.x = NULL, year.y = NULL , Year = NULL, Date = NULL) %>%
+  distinct()
+    
+
+#write_csv(revised_df, "updatedyearordinance.csv")
+
+ordinancesdf <- revised_df %>%
 #select only specific columns needed for data visualization, the ":" means select all columns between x:y 
-  select(year, Setback:"visual impact" ) %>%
+  #select(year, Setback:"visual impact" ) %>%
 #filters so only includes years after 2007, not enough before then stretches out graph but can remove filter
-  filter(year > 2007) %>%
+  filter(year > 2008) %>%
   group_by(year) %>%
 #sums across columns based on year grouping , so adds up total setbacks per year, does this same calculation across columns specified
   summarise(
     across(Setback:"visual impact",
            list( n = ~ sum(.x, na.rm = TRUE))))
+
+
+#write_csv(ordinancesdf, "ordinancetypebyyr.csv")
+
+################# Co-occurance Matrix ########################
+
+# Remove the '_n' from the end of column names
+colnames(ordinancesdf) <- gsub("_n$", "", colnames(ordinancesdf))
+
+# Drop the 'year' column as it's not part of the ordinance data
+matrixdata <- ordinancesdf[ , !(names(ordinancesdf) %in% c("year"))]
+
+# Convert the data frame to a matrix
+ordinance_matrix <- as.matrix(matrixdata)
+
+# Create the co-occurrence matrix by multiplying the transposed matrix with the original
+co_occurrence_matrix <- t(ordinance_matrix) %*% ordinance_matrix
+
+# Print the co-occurrence matrix
+print(co_occurrence_matrix)
+#save matrix
+
+#write.csv(co_occurrence_matrix,file= "co-occurance-matrix.csv", row.names = TRUE)
+
+#######histogram######
+
+# Sum the occurrences of each ordinance type across all years
+ordinance_totals <- colSums(ordinancesdf[ , !(names(ordinancesdf) %in% c("year"))])
+
+# Convert the results to a data frame for plotting
+ordinance_df <- data.frame(
+  Ordinance = names(ordinance_totals),
+  Frequency = as.numeric(ordinance_totals)
+)
+
+# Create a histogram using ggplot2
+p <- ggplot(ordinance_df, aes(x = reorder(Ordinance, Frequency), y = Frequency)) +
+  geom_bar(stat = "identity", fill = "steelblue") +
+  coord_flip() +  # Flip the coordinates to make it horizontal
+  labs(title = "Frequency of Each Ordinance Type",
+       x = "Ordinance Type",
+       y = "Frequency") +
+  theme_minimal()
+
+
+ggplotly(p, tooltip = "y")
+
 
 #change dataset into 3 columns with only 2 variables and one grouping column to be able to put into ggplot to graph 
 time_series <-  ordinancesdf %>%
@@ -58,7 +117,7 @@ time_series <-  ordinancesdf %>%
     )
 
 #to export cleaned data
-#write.csv(time_series,"~/R/Solar ordinances/timeseries.csv", row.names = FALSE)
+write.csv(time_series,"timeseries.csv", row.names = FALSE)
 
 #simple line plot using gglpot
 lineplot <-  ggplot(time_series,
@@ -144,6 +203,23 @@ state_df <- df %>%
   summarise( n = n() )
 
 
-write.csv(state_df,"~/R/Solar ordinances/state_df.csv", row.names = FALSE)
+#write.csv(state_df,"~/R/Solar ordinances/state_df.csv", row.names = FALSE)
+
+######### Full County + Year Dataset
+
+
+data <- read_excel("county_list.xlsx")
+
+year <- c(rep(2010,3142), rep(2011,3142), rep(2012,3142),
+          rep(2013,3142), rep(2014,3142), rep(2015,3142),
+          rep(2016,3142), rep(2017,3142), rep(2018,3142),
+          rep(2019,3142), rep(2020,3142), rep(2021,3142),
+          rep(2022,3142), rep(2023,3142), rep(2024, 3142))
+
+fulldata <- rbind(data,data,data,data,data,
+                  data,data,data,data,data,
+                  data,data,data,data,data)
+
+fulldata$year <- year
 
 
