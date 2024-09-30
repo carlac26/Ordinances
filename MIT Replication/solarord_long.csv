@@ -1,0 +1,813 @@
+"","state_name","county_name","year","feature","unit","value","citation","comment"
+"1","Arizona","Cochise",2021,"Property Line","Maximum Structure Height Multiplier","2","Cochise County Ord. § 1824.02","Greater of twice the setback required otherwise required in a zone or equal to the height of the tallest structure"
+"2","Arizona","La Paz",2021,"Property Line","Meter","6.1","La Paz County Ord. § 619.06",NA
+"3","Arizona","La Paz",2021,"Highway","Meter","23","La Paz County Ord. § 619.06",NA
+"4","Arizona","Maricopa",2021,"Highway","Meter","6.1","Maricopa Cnty. Ord. § 1206.2.3;",NA
+"5","Arizona","Pinal",2021,"Moratorium","N/A",NA,"Pinal Cnty. Ord. § 2.210.030(A)","Solar PV is restricted from being the primary use of a property in Pinal County"
+"6","California","Butte",2021,"Height","Meter","4.5","Butte County Code § 24-157(c)","15' maximum height for projects on parcels greater than  10 acres"
+"7","California","Butte",2021,"Property Line","Meter","10.6","Butte County Code § 24-157(c)","20 foot setback plus an additional 15' adjacent to residential zones"
+"8","California","Contra Costa",2021,"Height","Meter","7.62","Contra Costa County Code § 88-30.606","25' Max height"
+"9","California","Glenn",2021,"Property Line","Meter","18.2","Glenn County Code § 15.860.030(g)(4)(a)","60' setback for any facility sited adjacent to residential"
+"10","California","Los Angeles",2021,"Height","Meter","7.62","Los Angeles County Code 22.140.510(E)","25' max height"
+"11","California","Los Angeles",2021,"Property Line","Meter","9.1","Los Angeles County Code 22.140.510(E)","30' setback for agricultural zones"
+"12","California","Los Angeles",2021,"Road","Meter","3","Los Angeles County Code 22.140.510(E)","10' lanscape buffer between facility and public right of way"
+"13","California","Merced",2021,"Property Line","Maximum Structure Height Multiplier","1","Merced County Code § 18-30-030",NA
+"14","California","Merced",2021,"Structure","Maximum Structure Height Multiplier","1","Merced County Code § 18-30-030",NA
+"15","California","Napa",2021,"Height","Meter","4.5","Napa County Code § 18.117.040(c)","Max height 15'"
+"16","California","San Diego",2021,"Property Line","Meter","1","San Diego County Code § 6954(b)(3)","3 foot setback"
+"17","California","San Diego",2021,"Height","Meter","3.65","San Diego County Code § 6954(b)(3)","Max height 12'"
+"18","California","San Luis Obispo",2021,"Property Line","Meter","30.48","San Luis Obispo County Code § 22.32.050","Setback of 100 feet"
+"19","California","San Luis Obispo",2021,"Height","Meter","4.5","San Luis Obispo County Code § 22.32.050","Max Height 15'"
+"20","California","Santa Clara",2021,"Property Line","Meter","9.1","Santa Clara County Code § 4.10.345","Setback of 30 Feet"
+"21","California","Sonoma",2021,"Height","Meter","4.5","Sonoma County Code § 26-88-206","Max Height 15'"
+"22","California","Yolo",2021,"Property Line","Meter","15.24","Yolo County Code § Sec. 8-2.1104(h)","50' setbacks in agricultural zones"
+"23","Colorado","Clear Creek",NA,"Height","Meter","10.667999999999999","Clear Creek Zoning Regulations",NA
+"24","Colorado","El Paso",NA,"Height","Meter","4.5720000000000001","El Paso County Land Development Code 5.1.49",NA
+"25","Colorado","Jefferson",NA,"Height","Meter","7.62","Jefferson County Zoning Resolution § 18 (D)",NA
+"26","Colorado","Lake",NA,"Height","Meter","7.62","Lake County Land Development Code Chapt. 5",NA
+"27","Colorado","Lincoln",NA,"Property Line","Meter","30.48","Lincoln County Zoning Resolution 11-17",NA
+"28","Colorado","Lincoln",NA,"Road","Meter","30.48","Lincoln County Zoning Resolution 11-17",NA
+"29","Colorado","Lincoln",NA,"Structure","Meter","304.8","Lincoln County Zoning Resolution 11-17",NA
+"30","Colorado","Pueblo",NA,"Height","Meter","6.0960000000000001","Pueblo County Zoning § 17.168.050",NA
+"31","Colorado","Pueblo",NA,"Property Line","Meter","45.72","Pueblo County Zoning § 17.168.050",NA
+"32","Colorado","Pueblo",NA,"Structure","Meter","152.4","Pueblo County Zoning § 17.168.050",NA
+"33","Colorado","San Miguel",NA,"Minimum Lot Size","Acre","35","San Miguel County Land Use Code  § III (g)",NA
+"34","Colorado","San Miguel",NA,"Property Line","Meter","60.96","San Miguel County Land Use Code  § III (g)",NA
+"35","Colorado","Washington",NA,"Moratorium","N/A",NA,"Washington County Resolution 64-2020",NA
+"36","Delaware","New Castle",NA,"Structure","Meter","45.72","New Castle County § 40.03.312",NA
+"37","Delaware","New Castle",NA,"Property Line","Meter","15.24","New Castle County § 40.03.312",NA
+"38","Florida","Clay",2021,"Property Line","Meter","7.62","Clay County Land Development Code § 3-2(bo)","25' Setbacks if not adjacent to residential zones"
+"39","Florida","Clay",2021,"Property Line","Meter","30.48","Clay County Land Development Code § 3-2(bo)","100' setback if adjacent to residential zone"
+"40","Florida","Columbia",2021,"Property Line","Meter","15.24","Columbia County Land Development Regs. § 4.2.41","50' setbacks"
+"41","Florida","Gadsen",2021,"Property Line","Meter","15.24","Gadsen County Land Development Code § 5204(D)","50' setbacks"
+"42","Florida","Gadsen",2021,"Road","Meter","30.48","Gadsen County Land Development Code § 5204(D)","100' setbacks from public ROW"
+"43","Florida","Gadsen",2021,"Height","Meter","4.5","Gadsen County Land Development Code § 5204(D)","15' Max height"
+"44","Florida","Gilchrist",2021,"Property Line","Meter","30.48","Gilchrist County Land Dev. Code § 7.26","100' setback"
+"45","Florida","Gilchrist",2021,"Height","Meter","4.5","Gilchrist County Land Dev. Code § 7.26","15' max height"
+"46","Florida","Hillsborough",2021,"Property Line","Meter","15.24","Hillsborough Land Development Code § 6.11.125","50' Setback if zoned in agriculture"
+"47","Florida","Hillsborough",2021,"Height","Meter","4.5","Hillsborough Land Development Code § 6.11.125","15' max height in agricultural zone"
+"48","Florida","Hillsborough",2021,"Road","Meter","30.48","Hillsborough Land Development Code § 6.11.125","100' setbacks from public ROW"
+"49","Florida","Jefferson",2021,"Highway","Meter","30.48","Jefferson County Land Development Code § 2.11.4","100' setbacks from major highways"
+"50","Florida","Jefferson",2021,"Road","Meter","30.48","Jefferson County Land Development Code § 2.11.4","100; setback from public roads"
+"51","Florida","Jefferson",2021,"Property Line","Meter","30.48","Jefferson County Land Development Code § 2.11.4","100' landscape buffer from vacant or nonresidential parcels"
+"52","Florida","Jefferson",2021,"Property Line","Meter","60.96","Jefferson County Land Development Code § 2.11.4","200' landscape buffer for residential parcels"
+"53","Florida","Leon",2021,"Property Line","Meter","22.86/60.96","Leon County Land Development Code § 10-6.820","75' setback if facility is less than 50 acres, 200' if greater than 50 acres"
+"54","Florida","Leon",2021,"Road","Meter","22.86/60.96","Leon County Land Development Code § 10-6.820","See above"
+"55","Florida","Leon",2021,"Structure","Meter","22.86/60.96","Leon County Land Development Code § 10-6.820","See above"
+"56","Florida","Manatee",2021,"Property Line","Meter","15.24","Manatee County Land Dev. Code § 531.54","50' setback"
+"57","Forida","Manatee",2021,"Height","Meter","4.5","Manatee County Land Dev. Code § 531.54","15' height max"
+"58","Florida","Martin",2021,"Property Line","Meter","15.24","Martin County Land Dev. Regs. § 3.100.1","50' setback"
+"59","Florida","Martin",2021,"Height","Meter","4.5","Martin County Land Dev. Regs. § 3.100.1","15' height max"
+"60","Florida","Orange",2021,"Property Line","Meter","60.96","Orange County Code § 38-79(50)","200' setback from residential uses"
+"61","Florida","Palm Beach",2021,"Property Line","Meter","7.62/5","Palm Beach Unified Development Land Code § 7(C)(8)","25 foot setback if lot size is greater than 50 Acres/15' if less than 50 acres"
+"62","Florida","Palm Beach",2021,"Road","Meter","24.384","Palm Beach Unified Development Land Code § 7(C)(8)","80' Setback to ROW"
+"63","Florida","Polk",2021,"Property Line","Meter","15.24","Polk County Ord. 11-033","50' setback"
+"64","Florida","St. Lucie",2021,"Property Line","Meter","15.24","St. Lucie County Land Dev. Code § 7.10.28",NA
+"65","Florida","St. Lucie",2021,"Height","Meter","3.048","St. Lucie County Land Dev. Code § 7.10.28","10' height"
+"66","Florida","Wakulla",2021,"Property Line","Meter","15.24","Wakulla County Code § 6-35","50' setback"
+"67","Florida","Wakulla",2021,"Height","Meter","4.5","Wakulla County Code § 6-35","15' height"
+"68","Georgia","Baldwin",NA,"Height","Meter","5.4863999999999997","Baldwin County Code of Ordinances §17-23",NA
+"69","Georgia","Baldwin",NA,"Structure","Meter","91.44","Baldwin County Code of Ordinances §17-23",NA
+"70","Georgia","Baldwin",NA,"Property Line","Meter","91.44","Baldwin County Code of Ordinances §17-23",NA
+"71","Georgia","Baldwin",NA,"Road","Meter","30.48","Baldwin County Code of Ordinances §17-23",NA
+"72","Georgia","Bartow",NA,"Property Line","Meter","15.24","Bartow County Zoning Ordinance Art. VII § 7.1.9",NA
+"73","Georgia","Bryan",NA,"Minimum Lot Size","Acre","25","Bryan County Unified Development Ordinance § 114-742",NA
+"74","Georgia","Bryan",NA,"Height","Meter","3.048","Bryan County Unified Development Ordinance § 114-742",NA
+"75","Georgia","Bryan",NA,"Sound","dBA","50","Bryan County Unified Development Ordinance § 114-742",NA
+"76","Georgia","Bryan",NA,"Road","Meter","30.48","Bryan County Unified Development Ordinance § 114-742",NA
+"77","Georgia","Bryan",NA,"Structure","Meter","60.96","Bryan County Unified Development Ordinance § 114-742",NA
+"78","Georgia","Burke",NA,"Minimum Lot Size","Acre","5","Burke County Code of Ordinances Part II §26-4.03.26",NA
+"79","Georgia","Burke",NA,"Road","Meter","45.72","Burke County Code of Ordinances Part II §26-4.03.26",NA
+"80","Georgia","Burke",NA,"Property Line","Meter","30.48","Burke County Code of Ordinances Part II §26-4.03.26",NA
+"81","Georgia","Burke",NA,"Structure","Meter","91.44","Burke County Code of Ordinances Part II §26-4.03.26",NA
+"82","Georgia","Catoosa",NA,"Minimum Lot Size","Acre","5","Catoosa County Code of Ordinances §4.09.38",NA
+"83","Georgia","Dawson",NA,"Minimum Lot Size","Acre","5","Land Use Resolution of Dawson County § 318",NA
+"84","Georgia","Dawson",NA,"Height","Meter","6.0960000000000001","Land Use Resolution of Dawson County § 318",NA
+"85","Georgia","Decatur",NA,"Property Line","Meter","4.5720000000000001","Decatur County Solar Energy Systems Regulations §1.04",NA
+"86","Georgia","Decatur",NA,"Structure","Meter","30.48","Decatur County Solar Energy Systems Regulations §1.04",NA
+"87","Georgia","Decatur",NA,"Sound","dBA","40","Decatur County Solar Energy Systems Regulations §1.04",NA
+"88","Georgia","Decatur",NA,"Height","Meter","7.62","Decatur County Solar Energy Systems Regulations §1.04",NA
+"89","Georgia","Evans",NA,"Minimum Lot Size","Acre","10","Evans County Solar Collection Facility Ordinance § 3",NA
+"90","Georgia","Evans",NA,"Height","Meter","6.0960000000000001","Evans County Solar Collection Facility Ordinance § 3",NA
+"91","Georgia","Evans",NA,"Property Line","Meter","15.24","Evans County Solar Collection Facility Ordinance § 3",NA
+"92","Georgia","Greene",NA,"Minimum Lot Size","Acre","25","Greene County Code of Ordinances § 9.22",NA
+"93","Georgia","Greene",NA,"Structure","Meter","152.4","Greene County Code of Ordinances § 9.22",NA
+"94","Georgia","Greene",NA,"Property Line","Meter","106.68","Greene County Code of Ordinances § 9.22",NA
+"95","Georgia","Haralson",NA,"Property Line","Meter","22.86","Haralson County Code of Ordinance § 50-115",NA
+"96","Georgia","Heard",NA,"Structure","Meter","30.48","Heard County Code of Ordinances § 46-273",NA
+"97","Georgia","Heard",NA,"Property Line","Meter","15.24","Heard County Code of Ordinances § 46-273",NA
+"98","Georgia","Heard",NA,"Height","Meter","7.62","Heard County Code of Ordinances § 46-273",NA
+"99","Georgia","Heard",NA,"Sound","dBA","40","Heard County Code of Ordinances § 46-273",NA
+"100","Georgia","Jackson",NA,"Property Line","Meter","15.24","Jackson County Code of Ordinances §3-118",NA
+"101","Georgia","Jackson",NA,"Structure","Meter","30.48","Jackson County Code of Ordinances §3-118",NA
+"102","Georgia","Jackson",NA,"Height","Meter","7.62","Jackson County Code of Ordinances § 3-118",NA
+"103","Georgia","Jefferson",NA,"Minimum Lot Size","Acre","3","Jefferson County Code of Ordinances § 20-1100",NA
+"104","Georgia","Jefferson",NA,"Structure","Meter","15.24","Jefferson County Code of Ordinances § 20-1100",NA
+"105","Georgia","Jefferson",NA,"Road","Meter","19.812000000000001","Jefferson County Code of Ordinances § 20-1100",NA
+"106","Georgia","Jefferson",NA,"Height","Meter","7.62","Jefferson County Code of Ordinances § 20-1100",NA
+"107","Georgia","Jefferson",NA,"Sound","dBA","40","Jefferson County Code of Ordinances  § 20-1100",NA
+"108",NA,"Lee",NA,"Structure","Meter","30.48","Lee County Code of Ordinances § 70-694",NA
+"109","Georgia","Lee",NA,"Property Line","Meter","7.62","Lee County Code of Ordinances § 70-694",NA
+"110","Georgia","Liberty",NA,"Structure","Meter","30.48","Liberty County Code of Ordinances § 13.4",NA
+"111","Georgia","Liberty",NA,"Property Line","Meter","4.5720000000000001","Liberty County Code of Ordinances § 13.4",NA
+"112","Georgia","Liberty",NA,"Road","Meter","6.0960000000000001","Liberty County Code of Ordinances § 13.4",NA
+"113","Georgia","Long",NA,"Height","Meter","6.0960000000000001","Long County Code of Ordinances § 110-293",NA
+"114","Georgia","McDuffie",NA,"Maximum Lot Size","Acre","25","McDuffie County Code of Ordinances § 44-233",NA
+"115","Georgia","McDuffie",NA,"Height","Meter","6.0960000000000001","McDuffie County Code of Ordinances § 44-233",NA
+"116","Georgia","Oconee",NA,"Structure","Meter","30.48","Oconee County Code of Ordinances § 343.05",NA
+"117","Georgia","Oconee",NA,"Property Line","Meter","15.24","Oconee County Code of Ordinances § 343.05",NA
+"118","Georgia","Oconee",NA,"Height","Meter","7.62","Oconee County Code of Ordinances § 343.05",NA
+"119","Georgia","Oglethorpe",NA,"Property Line","Meter","6.0960000000000001","Oglthorpe County Unified Development Code § 712",NA
+"120","Georgia","Pulaski",NA,"Height","Meter","6.0960000000000001","Pulaski County Code of Ordinances § 53-5",NA
+"121","Georgia","Pulaski",NA,"Property Line","Meter","15.24","Pulaski County Code of Ordinances § 53-5",NA
+"122","Georgia","Pulaski",NA,"Structure","Meter","45.72","Pulaski County Code of Ordinances § 53-5",NA
+"123","Georgia","Thomas",NA,"Structure","Meter","152.4","Thomas County Code of Ordinances § 3.269",NA
+"124","Georgia","Thomas",NA,"Property Line","Meter","30.48","Thomas County Code of Ordinances § 3.269",NA
+"125","Illinois","Adams",2021,"Property Line","Meter","15.24","Adams County Code Ord. § 5-7-3(b)","50' Setback"
+"126","Illinois","Adams",2021,"Road","Meter","7.62","Adams County Code Ord. § 5-7-3(b)","25' setback from public road"
+"127","Illinois","Adams",2021,"Height","Meter","10","Adams County Code Ord. § 5-7-3(c)","30' Max Height"
+"128","Illinois","Carroll",2021,"Height","Meter","10","Carroll County Code § 725.1(e)",NA
+"129","Illinois","Carroll",2021,"Road","Meter","18.2","Carroll County Code § 725.1(f)",NA
+"130","Illinois","Carroll",2021,"Highway","Meter","30.48","Carroll County Code § 725.1(f)",NA
+"131","Illinois","Carroll",2021,"Property Line","Meter","6","Carroll County Code § 725.1(f)","20 foot setback unless next to residential zone in which case 100' setback is required"
+"132","Illinois","Champaign",2021,"Road","Meter","18.2","Champaign County Zoning Ord. 6.1.5(D)",NA
+"133","Illinois","Champaign",2021,"Property Line","Meter","73","Champaign County Zoning Ord. 6.1.5(D)","240' setback to property line"
+"134","Illinois","Christian",2021,"Structure","Meter","15.24","Christian County Ord. 02017-ZN-012","50' setback to residence or church"
+"135","Illinois","Clinton",2021,"Height","Meter","5.4","Clinton County Code § 40-5-23(D)","18' max height"
+"136","Illinois","Clinton",2021,"Structure","Meter","229","Clinton County Code § 40-5-23(D)","750' setback to nonparticipating residences"
+"137","Illinois","Clinton",2021,"Property Line","Meter","30.48","Clinton County Code § 40-5-23(D)","100' setback to lot lines"
+"138","Illinois","Clinton",2021,"Road","Meter","60.96","Clinton County Code § 40-5-23(D)","200' setback"
+"139","Illinois","Clinton",2021,"Highway","Meter","60.96","Clinton County Code § 40-5-23(D)",NA
+"140","Illinois","DeKalb",2021,"Property Line","Meter","30.48","DeKalb County Ord. 2018-06",NA
+"141","Illinois","DeKalb",2021,"Road","Meter","30.48","DeKalb County Ord. 2018-06",NA
+"142","Illinois","DeWitt",2021,"Height","Meter","6","DeWitt County Code § 157.08(A)",NA
+"143","Illinois","DeWitt",2021,"Structure","Meter","152","Dewitt County Code § 157.08(A)","500' setback from existing residences"
+"144","Illinois","DeWitt",2021,"Property Line","Meter","30.48","DeWitt County Code § 157.08(A)",NA
+"145","Illinois","Fayette",2021,"Property Line","Meter","15.2","Fayette County Ord. 2018-06-12-B",NA
+"146","Illinois","Fayette",2021,"Road","Meter","15.2","Fayette County Ord. 2018-06-12-B",NA
+"147","Illinois","Grundy",2021,"Height","Meter","6","Grundy County Code § 8-2-5-30(E)","20' height"
+"148","Illinois","Grundy",2021,"Structure","Meter","45.72","Grundy County Code § 8-2-5-30(E)",NA
+"149","Illinois","Grundy",2021,"Road","Meter","45.72","Grundy County Code § 8-2-5-30(E)",NA
+"150","Illinois","Hamilton",2021,"Height","Meter","4.5","Hamilton County Ord, 01-2021(C)(9)","15' Max height"
+"151","Illinois","Hamilton",2021,"Structure","Meter","152","Hamilton County Ord, 01-2021(F)(1)(f)",NA
+"152","Illinois","Hamilton",2021,"Property Line","Meter","9.1","Hamilton County Ord, 01-2021(F)(1)(f)",NA
+"153","Illinois","Hamilton",2021,"Road","Meter","18.2","Hamilton County Ord, 01-2021(F)(1)(f)","60' setback to roads"
+"154","Illinois","Henry",2021,"Structure","Meter","45.72","Henry County Zoning Ord. § 3.07(C)","150' Setback to offsite residences"
+"155","Illinois","Henry",2021,"Height","Meter","6","Henry County Zoning Ord. § 3.07(C)","20' Max height"
+"156","Illinois","Henry",2021,"Property Line","Meter","15.24","Henry County Zoning Ord. § 3.07(C)","50' Setback"
+"157","Illinois","Iroquois",2021,"Height","Meter","9.1","Iroquois County Solar Ord. § 2(A)(b)(5)","30' Max Height"
+"158","Illinois","Iroquois",2021,"Road","Meter","24.34","Iroquois County Solar Ord. § 2(A)(b)(5)","80' Setback to centerline"
+"159","Illinois","Iroquois",2021,"Structure","Meter","45.72","Iroquois County Solar Ord. § 2(A)(b)(5)","150' setback to offsite residences"
+"160","Illinois","Iroquois",2021,"Property Line","Meter","6","Iroquois County Solar Ord. § 2(A)(b)(5)","20' setback to property line"
+"161","Illinois","Jersey",2021,"Property Line","Meter","22.86","Jersey County Ord. 01-19 § 3","75' setback"
+"162","Illinois","Jersey",2021,"Structure","Meter","91.44","Jersey County Ord. 01-19 § 3",NA
+"163","Illinois","Kankakee",2021,"Height","Meter","9.1","Kankakee County Code § 121-99(b)(34)",NA
+"164","Illinois","Kankakee",2021,"Structure","Meter","30.48","Kankakee County Code § 121-99(b)(34)",NA
+"165","Illinois","Kankakee",2021,"Property Line","Meter","15.24","Kankakee County Code § 121-99(b)(34)",NA
+"166","Illinois","Kankakee",2021,"Road","Meter","30.48","Kankakee County Code § 121-99(b)(34)",NA
+"167","Illinois","Knox",2021,"Height","Meter","6","Knox County Solar Ord.",NA
+"168","Illinois","Knox",2021,"Structure","Meter","152","Knox County Solar Ord.","500' setback from existing residences"
+"169","Illinois","Lake",2021,"Height","Meter","3","Lake County Code § 151.112(vv)",NA
+"170","Illinois","Livingston",2021,"Height","Meter","10","Livingston County Code § 56-646(e)",NA
+"171","Illinois","Livingston",2021,"Structure","Meter","30.48","Livingston County Code § 56-646(f)",NA
+"172","Illinois","Livingston",2021,"Property Line","Meter","15.24","Livingston County Code § 56-646(f)",NA
+"173","Illinois","Logan",2021,"Height","Meter","4.5","Logan County Solar Zoning Ord.",NA
+"174","Illinois","Logan",2021,"Property Line","Meter","9.1","Logan County Solar Zoning Ord.",NA
+"175","Illinois","Logan",2021,"Structure","Meter","152","Logan County Solar Zoning Ord.",NA
+"176","Illinois","Logan",2021,"Road","Meter","18.2","Logan County Solar Zoning Ord.",NA
+"177","Illinois","Macon",2021,"Height","Meter","6","Macon County Code § 155.185(4)",NA
+"178","Illinois","Macon",2021,"Structure","Meter","152","Macon County Code § 155.185(5)",NA
+"179","Illinois","Macon",2021,"Property Line","Meter","15.24","Macon County Code § 155.185(5)",NA
+"180","Illinois","McHenry",2021,"Property Line","Meter","15.24","McHenry County Zoning Ord. § 14.3.PP",NA
+"181","Illinois","McLean",2021,"Property Line","Meter","15.24","McLean County Code § 350-43(OO)(3)(a)",NA
+"182","Illinois","Menard",2021,"Property Line","Meter","15.24","Menard County Solar Ord. § 5.01",NA
+"183","Illinois","Menard",2021,"Structure","Meter","152","Menard County Solar Ord. § 5.01","500' setback from existing residences"
+"184","Illinois","Mercer",2021,"Structure","Meter","15.24","Mercer County Zoning Ord. § 20.6.02","50' setback from residence or church"
+"185","Illinois","Monroe",2021,"Structure","Meter","30.48","Monroe County Ord. 18-05 § 2(E)",NA
+"186","Illinois","Monroe",2021,"Height","Meter","4.8","Monroe County Ord. 18-05 § 2(M)","16' max height"
+"187","Illinois","Monroe",2021,"Property Line","Meter","15.24","Monroe County Ord. 18-05 § 2(E)",NA
+"188","Illinois","Montgomery",2021,"Property Line","Meter","9.1","Montgomery County Ord. 3-12-19 § F(2)(f)",NA
+"189","Illinois","Montgomery",2021,"Road","Meter","18.2","Montgomery County Ord. 3-12-19 § F(2)(f)",NA
+"190","Illinois","Montgomery",2021,"Structure","Meter","152","Montgomery County Ord. 3-12-19 § F(2)(f)","500' setback from existing residences"
+"191","Illinois","Moultrie",2021,"Height","Meter","6","Moultrie County Zoning Ord. § 5.3(31)(A)(5)",NA
+"192","Illinois","Moultrie",2021,"Property Line","Meter","30.48","Moultrie County Zoning Ord. § 5.3(31)(A)(6)",NA
+"193","Illinois","Peoria",2021,"Structure","Meter","22.86","Peoria County Code § 7.17.3(1)(c)","75' setback to residences"
+"194","Illinois","Piatt",2021,"Property Line","Meter","30.48","Piatt County Zoning Ord. Art. X(2)(a)",NA
+"195","Illinois","Putnam",2021,"Height","Meter","9.1","Putnam County Zoning Ord. § 14.11(C)",NA
+"196","Illinois","Putnam",2021,"Road","Meter","18.2","Putnam County Zoning Ord. § 3.12",NA
+"197","Illinois","Putnam",2021,"Highway","Meter","15.24","Putnam County Zoning Ord. § 3.12",NA
+"198","Illinois","Randolph",2021,"Property Line","Meter","15.24","Randolph County Ord. 18-06 § 7(6)",NA
+"199","Illinois","Randolph",2021,"Structure","Meter","152","Randolph County Ord. 18-06 § 7(6)",NA
+"200","Illinois","St. Clair",2021,"Height","Meter","5.4","St. Clair County Code § 40-5-30(C)(3)",NA
+"201","Illinois","St. Clair",2021,"Property Line","Meter","15.24","St. Clair County Code § 40-5-30(C)(3)",NA
+"202","Illinois","Sangamon",2021,"Height","Meter","5.4","Sangamon County Code § 17.37.030(C)",NA
+"203","Illinois","Sangamon",2021,"Property Line","Meter","15.24","Sangamon County Code § 17.37.030(C)",NA
+"204","Illinois","Sangamon",2021,"Structure","Meter","76.2","Sangamon County Code § 17.37.030(C)","250' setback from existing residences"
+"205","Illinois","Stark",2021,"Height","Meter","5.4","Stark County Zoning Ord. § 35.01",NA
+"206","Illinois","Stark",2021,"Property Line","Meter","15.24","Stark County Zoning Ord. § 36.03",NA
+"207","Illinois","Stark",2021,"Structure","Meter","91.44","Stark County Zoning Ord. § 36.03","300' Setback from existing residences"
+"208","Illinois","Stephenson",2021,"Property Line","Meter","15.24","Stephenson County Code § 400-23.3(A)(1)",NA
+"209","Illinois","Stephenson",2021,"Structure","Meter","60.96","Stephenson County Code § 400-23.3(A)(1)","200' Setback from residential structures"
+"210","Illinois","Tazewell",2021,"Property Line","Meter","15.24","Tazewell County Code § 156.06(B)(6)",NA
+"211","Illinois","Tazewell",2021,"Structure","Meter","30.48","Tazewell County Code § 156.06(B)(6)",NA
+"212","Illinois","Whiteside",2021,"Property Line","Meter","15.24","Whiteside County Code § 39-268(e)(2)(h)",NA
+"213","Illinois","Whiteside",2021,"Structure","Meter","152","Whiteside County Code § 39-268(e)(2)(h)",NA
+"214","Illinois","Will",2021,"Height","Meter","7.62","Will County Code § 155-9.245","25' max height"
+"215","Illinois","Will",2021,"Property Line","Meter","7.62","Will County Code § 155-9.245",NA
+"216","Illinois","Winnebago",2021,"Property Line","Meter","15.24","Winnebago County Code § 15.3.28(A)",NA
+"217","Illinois","Woodford",2021,"Height","Meter","5.4","Woodford County Ord. § 154.30.3(C)",NA
+"218","Illinois","Woodford",2021,"Property Line","Meter","15.24","Woodford County Ord. § 154.30.3(C)",NA
+"219","Illinois","Woodford",2021,"Structure","Meter","152","Woodford County Ord. § 154.30.3(C)",NA
+"220","Indiana","Clinton",2022,"Property Line","Meter","15.24","Clinton County Ord. §406.02",NA
+"221","Indiana","Clinton",2022,"Structure","Meter","60.96","Clinton County Ord. §406.02",NA
+"222","Indiana","Clinton",NA,"Height","Meter","6.0960000000000001","Clinton County Ord. §406.02",NA
+"223","Indiana","Blackford",NA,"Minimum Lot Size","Acre","10","Blackford County Zoning Ordinance Art 11  Sec 1105",NA
+"224","Indiana","Blackford",NA,"Property Line","Meter","15.24","Blackford County Zoning Ordinance Art 11  Sec 1105",NA
+"225","Indiana","Blackford",NA,"Road","Meter","15.24","Blackford County Zoning Ordinance Art 11  Sec 1105",NA
+"226","Indiana","Blackford",NA,"Structure","Meter","91.44","Blackford County Zoning Ordinance Art 11  Sec 1105",NA
+"227","Indiana","Clinton",NA,"Property Line","Meter","15.24","Clinton County Ord. §406.02",NA
+"228","Indiana","Clinton",NA,"Structure","Meter","60.96","Clinton County Ord. §406.02",NA
+"229","Indiana","Clinton",NA,"Height","Meter","6.0960000000000001","Clinton County Ord. §406.02",NA
+"230","Indiana","DeKalb",NA,"Structure","Meter","121.92","DeKalb County Ordinance § 3.13",NA
+"231","Indiana","DeKalb",NA,"Sound","dBA","50","DeKalb County Ordinance § 3.13",NA
+"232","Indiana","DeKalb",NA,"Height","Meter","5.49","DeKalb County Ordinance § 3.13",NA
+"233","Indiana","Dearborne",NA,"Height","Meter","6.0960000000000001","Dearborne County Ordinance Art. 19",NA
+"234","Indiana","Dearborne",NA,"Property Line","Meter","45.72","Dearborne County Ordinance Art. 19",NA
+"235","Indiana","Dearborne",NA,"Structure","Meter","60.96","Dearborne County Ordinance Art. 19",NA
+"236","Indiana","Decatur",NA,"Sound","dBA","50","Decatur Zoning Ordinance Art 20 Solar Facilities",NA
+"237","Indiana","Delaware",NA,"Height","Meter","6.0960000000000001","Delware County Code of Ordinances",NA
+"238","Indiana","Delaware",NA,"Road","Meter","15.24","Delware County Code of Ordinances",NA
+"239","Indiana","Delaware",NA,"Property Line","Meter","15.24","Delware County Code of Ordinances",NA
+"240","Indiana","Delaware",NA,"Structure","Meter","76.2","Delware County Code of Ordinances",NA
+"241","Indiana","Delaware",NA,"Sound","dBA","60","Delware County Code of Ordinances",NA
+"242","Indiana","Franklin",NA,"Height","Meter","6.0960000000000001","Franklin County Code of Ordinances § 80.06.06",NA
+"243","Indiana","Franklin",NA,"Sound","dBA","50","Franklin County Code of Ordinances § 80.06.06",NA
+"244","Indiana","Franklin",NA,"Road","Meter","42.67","Franklin County Code of Ordinances § 80.06.06",NA
+"245","Indiana","Franklin",NA,"Minimum Lot Size","Acre","5","Franklin County Code of Ordinances § 80.06.06",NA
+"246","Indiana","Franklin",NA,"Property Line","Meter","30.48","Franklin County Code of Ordinances § 80.06.06",NA
+"247","Indiana","Gibson",NA,"Height","Meter","7.62","Gibson County Ordinance # 2021-03 Solar Energy",NA
+"248","Indiana","Gibson",NA,"Property Line","Meter","7.62","Gibson County Ordinance # 2021-03 Solar Energy",NA
+"249","Indiana","Gibson",NA,"Structure","Meter","45.72","Gibson County Ordinance # 2021-03 Solar Energy",NA
+"250","Indiana","Howard",NA,"Road","Meter","15.24","Howard County Zoning Ordinance",NA
+"251","Indiana","Howard",NA,"Highway","Meter","15.24","Howard County Zoning Ordinance",NA
+"252","Indiana","Howard",NA,"Property Line","Meter","30.48","Howard County Zoning Ordinance",NA
+"253","Indiana","Howard",NA,"Structure","Meter","91.44","Howard County Zoning Ordinance",NA
+"254","Indiana","Howard",NA,"Height","Meter","6.0960000000000001","Howard County Zoning Ordinance",NA
+"255","Indiana","Jay",NA,"Property Line","Meter","7.62","Jay County Zoning Ordinance",NA
+"256","Indiana","Jay",NA,"Structure","Meter","45.72","Jay County Zoning Ordinance",NA
+"257","Indiana","Jay",NA,"Road","Meter","15.24","Jay County Zoning Ordinance",NA
+"258","Indiana","Jay",NA,"Height","Meter","6.0960000000000001","Jay County Zoning Ordinance",NA
+"259","Indiana","Jay",NA,"Sound","dBA","50","Jay County Zoning Ordinance",NA
+"260","Indiana","Johnson",NA,"Property Line","Meter","45.72","Johnson County Zoning Ordinance Sec. 6-101-6 (K)",NA
+"261","Indiana","Johnson",NA,"Road","Meter","30.48","Johnson County Zoning Ordinance Sec. 6-101-6 (K)",NA
+"262","Indiana","Johnson",NA,"Height","Meter","7.62","Johnson County Zoning Ordinance Sec. 6-101-6 (K)",NA
+"263","Indiana","Johnson",NA,"Sound","dBA","50","Johnson County Zoning Ordinance Sec. 6-101-6 (K)",NA
+"264","Indiana","Koscuisko",NA,"Minimum Lot Size","Acre","5","Koscuisko County Zoning Ordinance",NA
+"265","Indiana","Koscuisko",NA,"Road","Meter","60.96","Koscuisko County Zoning Ordinance",NA
+"266","Indiana","Koscuisko",NA,"Property Line","Meter","60.96","Koscuisko County Zoning Ordinance",NA
+"267","Indiana","Koscuisko",NA,"Railroad","Meter","60.96","Koscuisko County Zoning Ordinance",NA
+"268","Indiana","Madison",NA,"Minimum Lot Size","Acre","5","Madison County Planning",NA
+"269","Indiana","Marshall",NA,"Property Line","Meter","22.86","Marshall County Zoning Ordinance",NA
+"270","Indiana","Marshall",NA,"Structure","Meter","76.2","Marshall County Zoning Ordinance",NA
+"271","Indiana","Marshall",NA,"Height","Meter","4.57","Marshall County Zoning Ordinance",NA
+"272","Indiana","Miami",NA,"Property Line","Meter","45.72","Miami County Ordinance # 12-20-2021",NA
+"273","Indiana","Miami",NA,"Road","Meter","30.48","Miami County Ordinance # 12-20-2021",NA
+"274","Indiana","Miami",NA,"Structure","Meter","60.96","Miami County Ordinance # 12-20-2021",NA
+"275","Indiana","Monroe",NA,"Height","Meter","6.0960000000000001","Monroe County Zoning Ordinance",NA
+"276","Indiana","Monroe",NA,"Minimum Lot Size","Acre","5","Monroe County Zoning Ordinance",NA
+"277","Indiana","Montgomery",NA,"Property Line","Meter","9.14","Montgomery County section 13 solar farms and facilities",NA
+"278","Indiana","Montgomery",NA,"Road","Meter","30.48","Montgomery County section 13 solar farms and facilities",NA
+"279","Indiana","Montgomery",NA,"Height","Meter","6.0960000000000001","Montgomery County section 13 solar farms and facilities",NA
+"280","Indiana","Noble",NA,"Minimum Lot Size","Acre","5","Noble County Zoning Ordinance",NA
+"281","Indiana","Noble",NA,"Height","Meter","4.57","Noble County Zoning Ordinance",NA
+"282","Indiana","Noble",NA,"Sound","dBA","50","Noble County Zoning Ordinance",NA
+"283","Indiana","Noble",NA,"Property Line","Meter","15.24","Noble County Zoning Ordinance",NA
+"284","Indiana","Noble",NA,"Structure","Meter","91.44","Noble County Zoning Ordinance",NA
+"285","Indiana","Porter",NA,"Height","Meter","6.0960000000000001","Porter County Zoning Ordinance",NA
+"286","Indiana","Posey",NA,"Sound","dBA","45","Posey County Zoning § 153.126.03",NA
+"287","Indiana","Posey",NA,"Property Line","Meter","30.48","Posey County Zoning § 153.126.03",NA
+"288","Indiana","Posey",NA,"Height","Meter","7.62","Posey County Zoning § 153.126.03",NA
+"289","Indiana","Rush",NA,"Height","Meter","6.0960000000000001","Rush County Zoning Ordinance Amendment 6.4",NA
+"290","Indiana","Rush",NA,"Property Line","Maximum Structure Height Multiplier","10","Rush County Zoning Ordinance Amendment 6.4",NA
+"291","Indiana","Saint Joseph",NA,"Height","Meter","6.7","Saint Joseph County Zoning Ordinance §  154.515",NA
+"292","Indiana","Starke",NA,"Height","Meter","10.67","Starke County Ordinance # 6-19-1: Commercial Solar Enegry Systems",NA
+"293","Indiana","Starke",NA,"Property Line","Meter","15.24","Starke County Ordinance # 6-19-1: Commercial Solar Enegry Systems",NA
+"294","Indiana","Starke",NA,"Road","Meter","30.48","Starke County Ordinance # 6-19-1: Commercial Solar Enegry Systems",NA
+"295","Indiana","Starke",NA,"Structure","Meter","60.96","Starke County Ordinance # 6-19-1: Commercial Solar Enegry Systems",NA
+"296","Indiana","Starke",NA,"Sound","dBA","55","Starke County Ordinance # 6-19-1: Commercial Solar Enegry Systems",NA
+"297","Indiana","Vermillion",NA,"Height","Meter","7.62","Vermillion Sounty COmmercial Solar Energy Ordinance",NA
+"298","Indiana","Vermillion",NA,"Property Line","Meter","30.48","Vermillion Sounty COmmercial Solar Energy Ordinance",NA
+"299","Indiana","Vermillion",NA,"Structure","Meter","60.96","Vermillion Sounty COmmercial Solar Energy Ordinance",NA
+"300","Indiana","Vermillion",NA,"Minimum Lot Size","Acre","5","Vermillion Sounty COmmercial Solar Energy Ordinance",NA
+"301","Indiana","Vermillion",NA,"Sound","dBA","50","Vermillion Sounty COmmercial Solar Energy Ordinance",NA
+"302","Indiana","Warren",NA,"Minimum Lot Size","Acre","5","Warren County Ordinance # 2020-1116",NA
+"303","Indiana","Warren",NA,"Height","Meter","7.62","Warren County Ordinance # 2020-1116",NA
+"304","Indiana","Warren",NA,"Sound","dBA","45","Warren County Ordinance # 2020-1116",NA
+"305","Indiana","Warren",NA,"Structure","Meter","152.4","Warren County Ordinance # 2020-1116",NA
+"306","Indiana","White",NA,"Minimum Lot Size","Acre","5","White County Zoning Ordinance 7.15",NA
+"307","Indiana","White",NA,"Height","Meter","3.04","White County Zoning Ordinance 7.15",NA
+"308","Indiana","White",NA,"Property Line","Meter","30.48","White County Zoning Ordinance 7.15",NA
+"309","Indiana","White",NA,"Sound","dBA","65","White County Zoning Ordinance 7.15",NA
+"310","Iowa","Adair",2022,"Total Installation","Acre","400","Adair County Ord. 38 § 2","Cap of 400 total developed acres for solar in the county"
+"311","Iowa","Adair",2021,"Property Line","Meter","76.2","Adair County Ord. 38 § 4",NA
+"312","Iowa","Adair",2021,"Structure","Meter","304","Adair County Ord. 38 § 4","1000' setback from occupied residences"
+"313","Iowa","Adair",2021,"Road","Meter","15.24","Adair County Ord. 38 § 4","50' setback from road"
+"314","Iowa","Buchanan",2021,"Height","Meter","4.5","Buchanan County Zoning Ord. § (VII)(Y)(4)",NA
+"315","Iowa","Buchanan",2021,"Property Line","Meter","3.04","Buchanan County Zoning Ord. § (VII)(Y)(4)","10' setback"
+"316","Iowa","Mills",2021,"Height","Meter","4.5","Mills County Zoning Ord. § 27.12.3(c)",NA
+"317","Iowa","Mills",2021,"Property Line","Meter","15.24","Mills County Zoning Ord. § 27.12.3(c)",NA
+"318","Iowa","Mills",2021,"Structure","Meter","91.44","Mills County Zoning Ord. § 27.12.3(c)",NA
+"319","Iowa","Mills",2021,"Road","Meter","15.24","Mills County Zoning Ord. § 27.12.3(c)",NA
+"320","Iowa","Mills",2021,"Highway","Meter","24.38","Mills County Zoning Ord. § 27.12.3(c)","80' setback to highways"
+"321","Iowa","Mills",2021,"Sound","dBA","50","Mills County Zoning Ord. § 27.12.3(c)",NA
+"322","Iowa","Monona",2021,"Height","Meter","6","Monona County Zoning Ord § 100.36.7",NA
+"323","Iowa","Story",2021,"Property Line","Maximum Structure Height Multiplier","1.1000000000000001","Story County Code Ords. § 90.08.8",NA
+"324","Iowa","Story",2021,"Structure","Meter","30.48","Story County Code Ords. § 90.08.8",NA
+"325","Iowa","Union",2021,"Total Installation","Acre","800","Union County Ord. 74 § 2","Cap of 800 total developed acres for solar in the county"
+"326","Iowa","Union",2021,"Structure","Meter","91.44","Union County Ord. 74 § 2",NA
+"327","Iowa","Union",2021,"Property Line","Meter","30.48","Union County Ord. 74 § 2",NA
+"328","Iowa","Union",2021,"Road","Meter","22.86","Union County Ord. 74 § 2",NA
+"329","Iowa","Winneshiek",2021,"Height","Meter","6","Winneshiek County Code § 714.5",NA
+"330","Iowa","Winneshiek",2021,"Property Line","Meter","15.24","Winneshiek County Code § 714.5",NA
+"331","Iowa","Winneshiek",2021,"Structure","Meter","60.96","Winneshiek County Code § 714.5",NA
+"332","Iowa","Winneshiek",2021,"Road","Meter","18.2","Winneshiek County Code § 714.5",NA
+"333","Iowa","Winneshiek",2021,"Highway","Meter","24.38","Winneshiek County Code § 714.5",NA
+"334","Kansas","Finney",NA,"Property Line","Meter","15.24","Finney County Zoning Ordinance",NA
+"335","Kansas","Finney",NA,"Height","Meter","6.0960000000000001","Finney County Zoning Ordinance",NA
+"336","Kansas","Franklin",NA,"Height","Meter","10.67","Franklin County Zoning Regulations  Sec. 3-3",NA
+"337","Kansas","Franklin",NA,"Property Line","Meter","12.19","Franklin County Zoning Regulations  Sec. 3-3",NA
+"338","Kansas","Franklin",NA,"Road","Meter","12.19","Franklin County Zoning Regulations  Sec. 3-3",NA
+"339","Kansas","Franklin",NA,"Structure","Meter","76.2","Franklin County Zoning Regulations  Sec. 3-3",NA
+"340","Kansas","Leavenworth",NA,"Height","Meter","10.67","Leavenworth County Zoning Ordinance",NA
+"341","Kansas","Leavenworth",NA,"Property Line","Meter","12.19","Leavenworth County Zoning Ordinance",NA
+"342","Kansas","Leavenworth",NA,"Road","Meter","12.19","Leavenworth County Zoning Ordinance",NA
+"343","Kansas","Meade",NA,"Height","Meter","7.62","Meade County Ordinance-2021-005",NA
+"344","Kansas","Meade",NA,"Property Line","Meter","15.24","Meade County Ordinance-2021-005",NA
+"345","Kansas","Meade",NA,"Structure","Meter","76.2","Meade County Ordinance-2021-005",NA
+"346","Kansas","Meade",NA,"Maximum Lot Size","Acre","1200","Meade County Ordinance-2021-005",NA
+"347","Kansas","Sedgwick",NA,"Height","Meter","10.67","Sedgwick County Zoning",NA
+"348","Kansas","Sedgwick",NA,"Property Line","Meter","12.19","Sedgwick County Zoning",NA
+"349","Kansas","Sedgwick",NA,"Road","Meter","12.19","Sedgwick County Zoning",NA
+"350","Kentucky","Henderson",2021,"Height","Meter","7.62","Henderson County Zoning Ord. § 30.02",NA
+"351","Kentucky","Henderson",2021,"Property Line","Meter","7.62","Henderson County Zoning Ord. § 30.02",NA
+"352","Kentucky","Henderson",2021,"Structure","Meter","30.48","Henderson County Zoning Ord. § 30.02",NA
+"353","Kentucky","Meade",NA,"Total Installation","Acre","2000","Meade County Zoning Regs. § 4.3.7.3",NA
+"354","Kentucky","Meade",2021,"Maximum Lot Size","Acre","5","Meade County Zoning Regs. § 4.3.7.2.b",NA
+"355","Kentucky","Meade",2021,"Height","Meter","7.62","Meade County Zoning Regs. § 4.3.7.3",NA
+"356","Kentucky","Meade",2021,"Property Line","Meter","76.2","Meade County Zoning Regs. § 4.3.7.3(c)",NA
+"357","Kentucky","Simpson",2021,"Height","Meter","4.5","Simpson County Zoning Regs. § 9.8",NA
+"358","Kentucky","Simpson",2021,"Road","Meter","15.24","Simpson County Zoning Regs. § 9.8",NA
+"359","Kentucky","Simpson",2021,"Structure","Meter","76.2","Simpson County Zoning Regs. § 9.8",NA
+"360","Maryland","Allegany",NA,"Property Line","Meter","9.14","Allegany County Zoning sec. 360-109",NA
+"361","Maryland","Baltimore",NA,"Property Line","Meter","15.24","BALTIMORE COUNTY ZONING REGULATIONS ARTICLE 4F - SOLAR FACILITIES",NA
+"362","Maryland","Baltimore",NA,"Height","Meter","6.0960000000000001","BALTIMORE COUNTY ZONING REGULATIONS ARTICLE 4F - SOLAR FACILITIES",NA
+"363","Maryland","Caroline",NA,"Maximum Lot Size","Acre","2000","Caroline County Ordinance #2017-2",NA
+"364","Maryland","Caroline",NA,"Structure","Meter","60.96","Caroline County Ordinance #2017-2",NA
+"365","Maryland","Caroline",NA,"Property Line","Meter","7.62","Caroline County Ordinance #2017-2",NA
+"366","Maryland","Caroline",NA,"Height","Meter","4.57","Caroline County Ordinance #2017-2",NA
+"367","Maryland","Cecil",NA,"Minimum Lot Size","Acre","50","Cecil County Zoning Code",NA
+"368","Maryland","Charles",NA,"Height","Meter","7.62","Charles County Zoning Code Chapt. 297",NA
+"369","Maryland","Charles",NA,"Property Line","Meter","15.24","Charles County Zoning Code Chapt. 297",NA
+"370","Maryland","Dorchester",NA,"Minimum Lot Size","Acre","25","Dorchester County Zoning Ch. 155",NA
+"371","Maryland","Dorchester",NA,"Height","Meter","13.72","Dorchester County Zoning Ch. 155",NA
+"372","Maryland","Fredrick",NA,"Minimum Lot Size","Acre","0.46","Frederick County Zoning Code §1-19-6.100",NA
+"373","Maryland","Fredrick",NA,"Property Line","Meter","15.24","Frederick County Zoning Code §1-19-6.100",NA
+"374","Maryland","Fredrick",NA,"Height","Meter","9.14","Frederick County Zoning Code §1-19-6.100",NA
+"375","Maryland","Howard",NA,"Minimum Lot Size","Acre","10","Howard County Code Sec. 131",NA
+"376","Maryland","Howard",NA,"Maximum Lot Size","Acre","75","Howard County Code Sec. 131",NA
+"377","Maryland","Howard",NA,"Property Line","Meter","15.24","Howard County Code Sec. 131",NA
+"378","Maryland","Howard",NA,"Height","Meter","6.0960000000000001","Howard County Code Sec. 131",NA
+"379","Maryland","Queen Annes",NA,"Property Line","Meter","22.86","Queen Anne’s County Cod § 18:1-15",NA
+"380","Maryland","Queen Annes",NA,"Road","Meter","30.48","Queen Anne’s County Cod § 18:1-15",NA
+"381","Maryland","Somerset",NA,"Total Installation","Acre","1800","Somerset County Zoning Ordinance",NA
+"382","Maryland","Somerset",NA,"Road","Meter","457.2","Somerset County Zoning Ordinance",NA
+"383","Maryland","Somerset",NA,"Road","Meter","457.2","Somerset County Zoning Ordinance",NA
+"384","Maryland","Somerset",NA,"Property Line","Meter","22.86","Somerset County Zoning Ordinance",NA
+"385","Maryland","Somerset",NA,"Road","Meter","182.88","Somerset County Zoning Ordinance",NA
+"386","Maryland","Somerset",NA,"Structure","Meter","182.88","Somerset County Zoning Ordinance",NA
+"387","Maryland","Worcester",NA,"Minimum Lot Size","Acre","50","Worcester County Code",NA
+"388","Michigan","Clinton",NA,"Height","Meter","4.88","4.48 Solar farms",NA
+"389","Michigan","Clinton",NA,"Property Line","Meter","7.62","4.48 Solar farms",NA
+"390","Michigan","Clinton",NA,"Road","Meter","15.24","4.48 Solar farms",NA
+"391","Michigan","Clinton",NA,"Sound","dBA","60","4.48 Solar farms",NA
+"392","Michigan","Eaton",NA,"Height","Meter","4.8768000000000002","SECTION 14.39 SOLAR ENERGY SYSTEM",NA
+"393","Michigan","Eaton",NA,"Property Line","Meter","30.48","SECTION 14.39 SOLAR ENERGY SYSTEM",NA
+"394","Michigan","Eaton",NA,"Road","Meter","30.48","SECTION 14.39 SOLAR ENERGY SYSTEM",NA
+"395","Michigan","Gladwind",NA,"Property Line","Meter","15.24","SECTION 7.26 ALTERNATIVE ENERGY FARMS",NA
+"396","Michigan","Gladwind",NA,"Structure","Meter","15.24","SECTION 7.26 ALTERNATIVE ENERGY FARMS",NA
+"397","Michigan","Gladwind",NA,"Height","Meter","9.1440000000000001","SECTION 7.26 ALTERNATIVE ENERGY FARMS",NA
+"398","Michigan","Ogemaw",NA,"Road","Meter","15.24","FF. Solar Energy Farms",NA
+"399","Michigan","Ogemaw",NA,"Minimum Lot Size","Acre","5","FF. Solar Energy Farms",NA
+"400","Michigan","Presque Isle",NA,"Property Line","Meter","15.24","Presque Isle Ordinance 2018-02",NA
+"401","Minnesota","Blue Earth",2021,"Structure","Meter","228.6","Blue Earth County Zoning Ord. § 24-334(c)(13)",NA
+"402","Minnesota","Blue Earth",2021,"Property Line","Meter","15.24","Blue Earth County Zoning Ord. § 24-334(c)(13)",NA
+"403","Minnesota","Blue Earth",2021,"Road","Meter","45.72","Blue Earth County Zoning Ord. § 24-334(c)(13)",NA
+"404","Minnesota","Blue Earth",2021,"Highway","Meter","30.48","Blue Earth County Zoning Ord. § 24-334(c)(13)",NA
+"405","Minnesota","Blue Earth",2021,"Height","Meter","6","Blue Earth County Zoning Ord. § 24-334(b)(1)",NA
+"406","Minnesota","Carlton",2021,"Structure","Meter","60.96","Carlton County Renewable Energy Ord. 32 § 3(b)(2)(D)","200' setback from residential structures"
+"407","Minnesota","Carver",2021,"Structure","Meter","152.4","Carver County Zoning Ord. § 152.057(C)(2)",NA
+"408","Minnesota","Carver",2021,"Road","Meter","15.24","Carver County Zoning Ord. § 152.057(C)(2)",NA
+"409","Minnesota","Carver",2021,"Property Line","Meter","15.24","Carver County Zoning Ord. § 152.057(C)(2)",NA
+"410","Minnesota","Cass",2021,"Property Line","Meter","15.24","Cass County Land Use Ord. 2020-02 § 1109.4","50' setback that includes a vegetated buffer"
+"411","Minnesota","Chisago",2021,"Property Line","Meter","22.86","Chisago Land Use Ord. § 7.31(F)",NA
+"412","Minnesota","Chisago",2021,"Structure","Meter","76.2","Chisago Land Use Ord. § 7.31(F)",NA
+"413","Minnesota","Chisago",2021,"Road","Meter","41.48","Chisago Land Use Ord. § 7.31(F)","135' Setback"
+"414","Minnesota","Clay",2021,"Height","Meter","4.5","Clay County Renewable Energy Ord. 2018-02 § 10.1.1",NA
+"415","Minnesota","Clay",2021,"Property Line","Meter","30.48","Clay County Renewable Energy Ord. 2018-02 § 10.1.1",NA
+"416","Minnesota","Clearwater",2021,"Property Line","Meter","30.48","Clearwater County Renewable Energy Ord. § 5.30",NA
+"417","Minnesota","Clearwater",2021,"Road","Meter","30.48","Clearwater County Renewable Energy Ord. § 5.30",NA
+"418","Minnesota","Clearwater",2021,"Structure","Meter","91.44","Clearwater County Renewable Energy Ord. § 5.30","300' setback to residences/dwellings"
+"419","Minnesota","Cottonwood",2021,"Height","Meter","4.5","Cottonwood County Renewable Energy Ord. § 25.6B",NA
+"420","Minnesota","Jackson",2021,"Property Line","Meter","45.72","Jackson County Dev. Code § 735.41",NA
+"421","Minnesota","Jackson",2021,"Road","Meter","60.96","Jackson County Dev. Code § 735.41",NA
+"422","Minnesota","Lyon",2021,"Property Line","Meter","7.62","Lyon County Zoning Ord. § 21.6",NA
+"423","Minnesota","Lyon",2021,"Structure","Meter","60.96","Lyon County Zoning Ord. § 21.6",NA
+"424","Minnesota","Lyon",2021,"Road","Meter","7.62","Lyon County Zoning Ord. § 21.6",NA
+"425","Minnesota","Mower",2021,"Property Line","Meter","30.48","Mower County Zoning Ord. § 14-18.7",NA
+"426","Minnesota","Mower",2021,"Structure","Meter","152.4","Mower County Zoning Ord. § 14-18.7",NA
+"427","Minnesota","Murray",2021,"Structure","Meter","60.96","Murray County Renewable Energy Ord. § 901.2",NA
+"428","Minnesota","Murray",2021,"Road","Meter","30.48","Murray County Renewable Energy Ord. § 901.2",NA
+"429","Minnesota","Otter Tail",2021,"Structure","Meter","60.96","Otter Tail County Renewable Energy Ord. § 5.1",NA
+"430","Minnesota","Otter Tail",2021,"Road","Meter","30.48","Otter Tail County Renewable Energy Ord. § 5.1",NA
+"431","Minnesota","Pine",2021,"Structure","Meter","83.82","Pine County Zoning Ord. § 4.9.1","275' setback to dwellings"
+"432","Minnesota","Pine",2021,"Road","Meter","30.48","Pine County Zoning Ord. § 4.9.1",NA
+"433","Minnesota","Pine",2021,"Property Line","Meter","15.24","Pine County Zoning Ord. § 4.9.1",NA
+"434","Minnesota","Pipestone",2018,"Structure","Meter","45.72","Pipestone County Zoning Ord. § 5-11(D)",NA
+"435","Minnesota","Polk",2018,"Structure","Meter","91.44","Polk County Zoning Ord. § 23.7400",NA
+"436","Minnesota","Polk",2018,"Road","Meter","30.48","Polk County Zoning Ord. § 23.7400",NA
+"437","Minnesota","Polk",2018,"Property Line","Meter","30.48","Polk County Zoning Ord. § 23.7400",NA
+"438","Minnesota","Pope",2018,"Structure","Meter","60.96","Pope County Land Use Controls Ord. § 10.12(C)",NA
+"439","Minnesota","Pope",2018,"Road","Meter","76.2","Pope County Land Use Controls Ord. § 10.12(C)","250' setback to roads"
+"440","Minnesota","Pope",2018,"Highway","Meter","152.4","Pope County Land Use Controls Ord. § 10.12(C)",NA
+"441","Minnesota","Pope",2018,"Height","Meter","7.62","Pope County Land Use Controls Ord. § 10.12(C)",NA
+"442","Minnesota","Renville",2018,"Structure","Meter","60.96","Renville County Renewable Energy Regs. § 2.3.1",NA
+"443","Minnesota","Renville",2018,"Road","Meter","20.420000000000002","Renville County Renewable Energy Regs. § 2.3.1","67' setback"
+"444","Minnesota","Renville",2018,"Property Line","Meter","6","Renville County Renewable Energy Regs. § 2.3.1",NA
+"445","Minnesota","Sibley",2018,"Structure","Meter","45.72","Sibley County Zoning Ord. § 300.14.21.8.2.",NA
+"446","Minnesota","Sibley",2018,"Height","Meter","10.66","Sibley County Zoning Ord. § 300.14.21.8.2.",NA
+"447","Minnesota","Stearns",2018,"Structure","Meter","60.96","Stearns County Zoning Ord. § 6.54.1",NA
+"448","Minnesota","Stearns",2018,"Property Line","Meter","15.24","Stearns County Zoning Ord. § 6.54.1",NA
+"449","Minnesota","Stevens",2018,"Structure","Meter","60.96","Stevens County Zoning Ord. § 14(P)",NA
+"450","Minnesota","Wadena",2018,"Structure","Meter","91.44","Wadena County Zoning Ord. § 19(B)(4)",NA
+"451","Minnesota","Wadena",2018,"Road","Meter","30.48","Wadena County Zoning Ord. § 19(B)(4)",NA
+"452","Minnesota","Wadena",2018,"Property Line","Meter","30.48","Wadena County Zoning Ord. § 19(B)(4)",NA
+"453","Minnesota","Watonwan",2018,"Structure","Meter","45.72","Watonwan County Solar Ord. § 5(A)(1)",NA
+"454","Minnesota","Watonwan",2018,"Highway","Meter","53.34","Watonwan County Solar Ord. § 5(A)(1)","175' Setback"
+"455","Minnesota","Watonwan",2018,"Road","Meter","40.5","Watonwan County Solar Ord. § 5(A)(1)","133' Setback"
+"456","Minnesota","Wright",2018,"Moratorium","N/A",NA,"Wright County Amendment Ord. 21-1","Moratorium on Commercial Solar as of May 18, 2021"
+"457","Missouri","Lafayette",2018,"Minimum Lot Size","Acre","10","Lafayette Land Dev. Code § 5.15.3",NA
+"458","Missouri","Lafayette",2018,"Height","Meter","4.5","Lafayette Land Dev. Code § 5.15.3",NA
+"459","Missouri","Warren",2018,"Structure","Meter","60.96","Warren County Dev. Code Appdx D. § 4(A)(2)",NA
+"460","Nebraska","Cass",2018,"Property Line","Meter","9.1440000000000001","Cass County Zoning Regs. § 8.21.05","30' setback"
+"461","Nebraska","Cass",2018,"Height","Meter","7.62","Cass County Zoning Regs. § 8.21.05",NA
+"462","Nebraska","Cuming",2018,"Property Line","Meter","9.1440000000000001","Cuming County Zoning Regs. § 8.23.05",NA
+"463","Nebraska","Cuming",2018,"Height","Meter","3.65","Cuming County Zoning Regs. § 8.23.05",NA
+"464","Nebraska","Dawson",2018,"Property Line","Meter","9.1440000000000001","Dawson County Zoning Regs. § 6.09.05",NA
+"465","Nebraska","Dawson",2018,"Height","Meter","3.65","Dawson County Zoning Regs. § 6.09.05",NA
+"466","Nebraska","Fillmore",2018,"Property Line","Meter","9.1440000000000001","Fillmore County Zoning Regs. § 9.24.06",NA
+"467","Nebraska","Fillmore",2018,"Height","Meter","4.57","Fillmore County Zoning Regs. § 9.24.06",NA
+"468","Nebraska","Hamilton",2018,"Property Line","Meter","9.1440000000000001","Hamilton County Zoning Regs. § 8.09.06",NA
+"469","Nebraska","Hamilton",2018,"Height","Meter","3.65","Hamilton County Zoning Regs. § 8.09.06",NA
+"470","Nebraska","Kearney",2018,"Property Line","Meter","45.72","Kearney County Zoning Regs. § 7.42.12","150' setback"
+"471","Nebraska","Kearney",2018,"Structure","Meter","402.33","Kearney County Zoning Regs. § 7.42.12","1320' setback to offsite residences"
+"472","Nebraska","Kearney",2018,"Road","Meter","45.72","Kearney County Zoning Regs. § 7.42.12",NA
+"473","Nebraska","Kearney",2018,"Wetland","Meter","402.33","Kearney County Zoning Regs. § 7.42.12","1320' Setback to USFW designated type III, IV, or V wetlands"
+"474","Nebraska","Kimball",2018,"Property Line","Meter","15.24","Kimball County Zoning Regs. § 20.04.4",NA
+"475","Nebraska","Kimball",2018,"Structure","Meter","30.48","Kimball County Zoning Regs. § 20.04.4",NA
+"476","Nebraska","Madison",2018,"Property Line","Meter","9.1440000000000001","Madison County Zoning Regs. § 603(C)",NA
+"477","Nebraska","Madison",2018,"Road","Meter","25.94","Madison County Zoning Regs. § 603(C)","83' setback to centerline of roads"
+"478","Nebraska","Madison",2018,"Height","Meter","60.96","Madison County Zoning Regs. § 603(C)",NA
+"479","Nebraska","Pierce",2018,"Property Line","Meter","9.1440000000000001","Pierce County Zoning Regs. § 6.04.01",NA
+"480","Nebraska","Pierce",2018,"Road","Meter","25.94","Pierce County Zoning Regs. § 6.04.01","83' setback to centerline of roads"
+"481","Nebraska","Pierce",2018,"Height","Meter","60.96","Pierce County Zoning Regs. § 6.04.01",NA
+"482","Nebraska","Saunders",2018,"Property Line","Meter","9.1440000000000001","Saunders County Zoning Regs. § 9.14.05",NA
+"483","Nebraska","Saunders",2018,"Height","Meter","7.62","Saunders County Zoning Regs. § 9.14.05",NA
+"484","Nevada","Lyon",NA,"Minimum Lot Size","Acre","10","15.336.09 Solar Generation",NA
+"485","Nevada","Lyon",NA,"Property Line","Meter","9.1440000000000001","15.336.09 Solar Generation",NA
+"486","Nevada","Lyon",NA,"Height","Meter","7.3151999999999999","15.336.09 Solar Generation",NA
+"487","New Jersey","Cape May",NA,"Property Line","Meter","6.0960000000000001","Ordinance 421-09","Used Burrough of West Cape May Std."
+"488","New Jersey","Cape May",NA,"Height","Meter","4.5720000000000001","Ordinance 421-09",NA
+"489","New York","Steuben",NA,"Maximum Lot Size","Acre","150","Bath Town Code § 101-8",NA
+"490","New York","Steuben",NA,"Height","Meter","3.04","Bath Town Code § 101-8","10' max height"
+"491","New York","Steuben",NA,"Property Line","Meter","60.96","Bath Town Code § 101-8","200' setback to adjacent property lines if residential"
+"492","New York","Steuben",NA,"Road","Meter","30.48","Bath Town Code § 101-8",NA
+"493","New York","Orange",NA,"Minimum Lot Size","Acre","10","Goshen Local Law No. 4 (2016) § 2",NA
+"494","New York","Orange",NA,"Property Line","Meter","30.48","Goshen Local Law No. 4 (2016) § 2",NA
+"495","New York","Orange",NA,"Road","Meter","30.48","Goshen Local Law No. 4 (2016) § 2",NA
+"496","North Carolina","Alamance",2018,"Minimum Lot Size","Acre","10","Alamance County Unified Dev. Ord. § 6.8.3",NA
+"497","North Carolina","Alamance",2018,"Property Line","Meter","22.86","Alamance County Unified Dev. Ord. § 6.8.3","75' setback"
+"498","North Carolina","Alamance",2018,"River","Meter","15.24","Alamance County Unified Dev. Ord. § 6.8.3","50' setback from streams"
+"499","North Carolina","Alexander",2018,"Minimum Lot Size","Acre","5","Alexander County Zoning Ord. § 154.130.2(B)",NA
+"500","North Carolina","Alexander",2018,"Property Line","Meter","12.19","Alexander County Zoning Ord. § 154.130.2(B)","40' setback"
+"501","North Carolina","Anson",2018,"Property Line","Meter","30.48","Anson County Solar Energy Ord.",NA
+"502","North Carolina","Anson",2018,"Structure","Meter","152.4","Anson County Solar Energy Ord.","500' setback to existing residential structures"
+"503","North Carolina","Beaufort",2018,"Property Line","Meter","30.48","Beaufort County Code Ords. § 155.06",NA
+"504","North Carolina","Beaufort",2018,"Road","Meter","30.48","Beaufort County Code Ords. § 155.06",NA
+"505","North Carolina","Beaufort",2018,"Structure","Meter","91.44","Beaufort County Code Ords. § 155.06",NA
+"506","North Carolina","Bladen",2018,"Height","Meter","7.62","Bladen County Code Ords. § 13.4.2",NA
+"507","North Carolina","Brunswick",2018,"Height","Meter","6.0960000000000001","Brunswick County Code Ords. § 5.3(Q)",NA
+"508","North Carolina","Brunswick",2018,"Road","Meter","60.96","Brunswick County Code Ords. § 5.3(Q)",NA
+"509","North Carolina","Brunswick",2018,"Highway","Meter","152.4","Brunswick County Code Ords. § 5.3(Q)",NA
+"510","North Carolina","Caldwell",2018,"Structure","Meter","30.48","Caldwell County Code Ords. § 157.037","100' setback to structures (As a footnote in part (E))"
+"511","North Carolina","Caldwell",2018,"Height","Meter","6.0960000000000001","Caldwell County Code Ords. § 157.037",NA
+"512","North Carolina","Camden",2018,"Minimum Lot Size","Acre","5","Camden County Unified Dev. Ord. § 4.4.5(D)(1)",NA
+"513","North Carolina","Camden",2018,"Property Line","Meter","30.48","Camden County Unified Dev. Ord. § 4.4.5(D)(1)",NA
+"514","North Carolina","Camden",2018,"Height","Meter","4.5","Camden County Unified Dev. Ord. § 4.4.5(D)(1)","15' max height"
+"515","North Carolina","Carteret",NA,"Property Line","Meter","38.1","Carteret County Code Ords. § 13.5.6","125' setback"
+"516","North Carolina","Carteret",NA,"Height","Meter","4.5","Carteret County Code Ords. § 13.5.6",NA
+"517","North Carolina","Catawba",NA,"Property Line","Meter","15.24","Catawba County Unified Dev. Ord. § 44-633",NA
+"518","North Carolina","Catawba",NA,"Road","Meter","30.48","Catawba County Unified Dev. Ord. § 44-633",NA
+"519","North Carolina","Chatham",NA,"Property Line","Meter","15.24","Chatham County Zoning Ord. § 17.6",NA
+"520","North Carolina","Chatham",NA,"Road","Meter","30.48","Chatham County Zoning Ord. § 17.6",NA
+"521","North Carolina","Chatham",NA,"Height","Meter","7.62","Chatham County Zoning Ord. § 17.6",NA
+"522","North Carolina","Chowan",NA,"Property Line","Meter","76.2","Chowan County Zoning Ord. § 8.108",NA
+"523","North Carolina","Chowan",NA,"Road","Meter","76.2","Chowan County Zoning Ord. § 8.108",NA
+"524","North Carolina","Chowan",NA,"Water","Meter","76.2","Chowan County Zoning Ord. § 8.108","250' setback to ""CAMA designated navigable water bodies"""
+"525","North Carolina","Chowan",NA,"Highway","Meter","304.8","Chowan County Zoning Ord. § 8.108","1000' setback to NC Scenic Byways"
+"526","North Carolina","Chowan",NA,"Height","Meter","4.5","Chowan County Zoning Ord. § 8.108",NA
+"527","North Carolina","Clay",NA,"Property Line","Meter","30.48","Clay County Solar Farm Ord. § 6(C)",NA
+"528","North Carolina","Clay",NA,"Lake","Meter","30.48","Clay County Solar Farm Ord. § 6(C)",NA
+"529","North Carolina","Clay",NA,"River","Meter","30.48","Clay County Solar Farm Ord. § 6(C)",NA
+"530","North Carolina","Clay",NA,"Road","Meter","30.48","Clay County Solar Farm Ord. § 6(C)",NA
+"531","North Carolina","Cleveland",NA,"Property Line","Meter","30.48","Cleveland County Unified Dev. Ord. § 12-160(e)",NA
+"532","North Carolina","Cleveland",NA,"Structure","Meter","60.96","Cleveland County Unified Dev. Ord. § 12-160(e)",NA
+"533","North Carolina","Cleveland",NA,"Highway","Meter","304.8","Cleveland County Unified Dev. Ord. § 12-160(e)",NA
+"534","North Carolina","Cleveland",NA,"Road","Meter","60.96","Cleveland County Unified Dev. Ord. § 12-160(e)",NA
+"535","North Carolina","Columbus",NA,"Property Line","Meter","9.1440000000000001","Columbus County Zoning Ord. § 10-9-A",NA
+"536","North Carolina","Columbus",NA,"Highway","Meter","15.24","Columbus County Zoning Ord. § 10-9-A",NA
+"537","North Carolina","Craven",NA,"Property Line","Meter","30.48","Craven County Code Ords. § 41-295",NA
+"538","North Carolina","Craven",NA,"Road","Meter","30.48","Craven County Code Ords. § 41-295",NA
+"539","North Carolina","Currituck",NA,"Maximum Lot Size","Acre","1000","Currituck County Unified Dev. Code § 4.2.3(K)",NA
+"540","North Carolina","Currituck",NA,"Property Line","Meter","45.72","Currituck County Unified Dev. Code § 4.2.3(K)",NA
+"541","North Carolina","Currituck",NA,"Road","Meter","45.72","Currituck County Unified Dev. Code § 4.2.3(K)",NA
+"542","North Carolina","Currituck",NA,"Water","Meter","30.48","Currituck County Unified Dev. Code § 4.2.3(K)","100' setback to ""CAMA designated navigable water bodies"""
+"543","North Carolina","Currituck",NA,"Height","Meter","6.0960000000000001","Currituck County Unified Dev. Code § 4.2.3(K)",NA
+"544","North Carolina","Davie",NA,"Property Line","Meter","30.48","Davie County Zoning Ord. § 155.130.29","100' setback if in residential zone"
+"545","North Carolina","Davie",NA,"Height","Meter","4.5","Davie County Zoning Ord. § 155.130.29",NA
+"546","North Carolina","Duplin",NA,"Property Line","Meter","7.62","Duplin County Solar Energy Ord. § 4",NA
+"547","North Carolina","Duplin",NA,"Structure","Meter","91.44","Duplin County Solar Energy Ord. § 4",NA
+"548","North Carolina","Duplin",NA,"Road","Meter","18.3","Duplin County Solar Energy Ord. § 4",NA
+"549","North Carolina","Edgecombe",NA,"Structure","Meter","30.48","Edgecombe County Unified Dev. Ord. § 4.3.97",NA
+"550","North Carolina","Edgecombe",NA,"Height","Meter","7.62","Edgecombe County Unified Dev. Ord. § 4.3.97",NA
+"551","North Carolina","Gates",NA,"Minimum Lot Size","Acre","10","Gates County Code Ords. § 155.204(B)(18)",NA
+"552","North Carolina","Gates",NA,"Property Line","Meter","30.48","Gates County Code Ords. § 155.204(B)(18)",NA
+"553","North Carolina","Gates",NA,"Structure","Meter","45.72","Gates County Code Ords. § 155.204(B)(18)",NA
+"554","North Carolina","Granville",NA,"Property Line","Meter","7.62","Granville County Land Dev. Code § 32-233","Greater of underlying zoning district setback or 25'"
+"555","North Carolina","Granville",NA,"Height","Meter","7.62","Granville County Land Dev. Code § 32-233",NA
+"556","North Carolina","Greene",NA,"Property Line","Meter","7.62","Greene County Solar Energy Ord. § 5",NA
+"557","North Carolina","Greene",NA,"Structure","Meter","152.4","Greene County Solar Energy Ord. § 5","500' setback to ""Any residence or church"""
+"558","North Carolina","Greene",NA,"Road","Meter","12.18","Greene County Solar Energy Ord. § 5","40' setback to roads"
+"559","North Carolina","Guilford",NA,"Structure","Meter","30.48","Guilford County Unified Dev. Ord. § 5.14(D)",NA
+"560","North Carolina","Guilford",NA,"Height","Meter","7.62","Guilford County Unified Dev. Ord. § 5.14(D)",NA
+"561","North Carolina","Halifax",NA,"Structure","Meter","22.86","Halifax County Code Ords. § 46-50","75' setback"
+"562","North Carolina","Halifax",NA,"Height","Meter","7.62","Halifax County Code Ords. § 46-51",NA
+"563","North Carolina","Halifax",NA,"Water","Meter","15.24","Halifax County Code Ords. § 46-50","50' setback to lakes, rivers, or wetlands"
+"564","North Carolina","Harnett",NA,"Property Line","Meter","7.62","Harnett County Unified Dev. Ord. § 8.1.2","Greater of underlying zoning district setback or 25'"
+"565","North Carolina","Harnett",NA,"Height","Meter","7.62","Harnett County Unified Dev. Ord. § 8.1.2",NA
+"566","North Carolina","Henderson",NA,"Property Line","Meter","6.0960000000000001","Henderson County Code Ords. § 42-32.9.9",NA
+"567","North Carolina","Henderson",NA,"Height","Meter","7.62","Henderson County Code Ords. § 42-32.9.9",NA
+"568","North Carolina","Hertford",NA,"Property Line","Meter","60.96","Hertford County Zoning Ord. § 5.02(C)(23)",NA
+"569","North Carolina","Hertford",NA,"Road","Meter","60.96","Hertford County Zoning Ord. § 5.02(C)(23)",NA
+"570","North Carolina","Hertford",NA,"Highway","Meter","304.8","Hertford County Zoning Ord. § 5.02(C)(23)","1000' setback from all NC scenic byways"
+"571","North Carolina","Hertford",NA,"Height","Meter","4.5","Hertford County Zoning Ord. § 5.02(C)(23)",NA
+"572","North Carolina","Iredell",NA,"Structure","Meter","152.4","Iredell County Land Dev. Code § 3.1-R65","500' to residential dwellings"
+"573","North Carolina","Iredell",NA,"Water","Meter","30.48","Iredell County Land Dev. Code § 3.1-R65","100' setback to ""perennial streams"""
+"574","North Carolina","Johnston",NA,"Property Line","Meter","45.72","Johnston County Code Ords. § 14-123",NA
+"575","North Carolina","Johnston",NA,"Height","Meter","3.65","Johnston County Code Ords. § 14-123","12' max height"
+"576","North Carolina","Jones",NA,"Property Line","Meter","30.48","Jones County Solar Energy Ord. § 5",NA
+"577","North Carolina","Jones",NA,"Road","Meter","30.48","Jones County Solar Energy Ord. § 5",NA
+"578","North Carolina","Lincoln",NA,"Property Line","Meter","15.24","Lincoln County Unified Dev. Ord. § 4.3.7",NA
+"579","North Carolina","Lincoln",NA,"Height","Meter","6.0960000000000001","Lincoln County Unified Dev. Ord. § 4.3.7",NA
+"580","North Carolina","Madison",NA,"Road","Meter","15.24","Madison County Land Use Ord. § 8.9.3",NA
+"581","North Carolina","Madison",NA,"Sound","dBA","40","Madison County Land Use Ord. § 8.9.3",NA
+"582","North Carolina","Montgomery",NA,"Height","Meter","6.0960000000000001","Montgomery County Code Ords. § 3.5(A)",NA
+"583","North Carolina","Montgomery",NA,"Water","Meter","15.24","Montgomery County Code Ords. § 3.5(A)","50' setback to ""perennial or intermittent waters"""
+"584","North Carolina","Moore",NA,"Property Line","Meter","15.24","Moore County Unified Dev. Ord. § 8.99",NA
+"585","North Carolina","Moore",NA,"Road","Meter","30.48","Moore County Unified Dev. Ord. § 8.99",NA
+"586","North Carolina","Nash",NA,"Height","Meter","7.62","Nash County Code Ords. § 11-4.72(a)",NA
+"587","North Carolina","Northampton",NA,"Property Line","Meter","15.24","Northampton County Zoning Ord. § 2-1(A)(13)",NA
+"588","North Carolina","Northampton",NA,"Road","Meter","30.48","Northampton County Zoning Ord. § 2-1(A)(13)",NA
+"589","North Carolina","Onslow",NA,"Property Line","Meter","7.62","Onslow County Zoning Ord. § 9.12(K)",NA
+"590","North Carolina","Onslow",NA,"Road","Meter","9.1440000000000001","Onslow County Zoning Ord. § 9.12(K)",NA
+"591","North Carolina","Onslow",NA,"Structure","Meter","30.48","Onslow County Zoning Ord. § 9.12(K)",NA
+"592","North Carolina","Onslow",NA,"Height","Meter","6.0960000000000001","Onslow County Zoning Ord. § 9.12(K)",NA
+"593","North Carolina","Pamlico",NA,"Property Line","Meter","30.48","Pamlico County Solar Farm Ord. § 5",NA
+"594","North Carolina","Pamlico",NA,"Road","Meter","30.48","Pamlico County Solar Farm Ord. § 5",NA
+"595","North Carolina","Pasquotank",NA,"Maximum Lot Size","Acre","1500","Pasquotank County Zoning Ord. § 9.03-27",NA
+"596","North Carolina","Pasquotank",NA,"Water","Meter","30.48","Pasquotank County Zoning Ord. § 9.03-27","100' setback to lakes, wetlands, or streams/rivers"
+"597","North Carolina","Pasquotank",NA,"Height","Meter","7.62","Pasquotank County Zoning Ord. § 9.03-27",NA
+"598","North Carolina","Pasquotank",NA,"Highway","Meter","804.67","Pasquotank County Zoning Ord. § 9.03-27","1/2 mile setback to ""Highway 17, Future I-87 and Halstead Boulevard Extended"""
+"599","North Carolina","Perquimans",NA,"Property Line","Meter","30.48","Perquimans County Zoning Ord. § 9.11.29","Greater of underlying zoning district setback or 100'"
+"600","North Carolina","Perquimans",NA,"Maximum Lot Size","Acre","100","Perquimans County Zoning Ord. § 9.11.29",NA
+"601","North Carolina","Perquimans",NA,"Water","Meter","45.72","Perquimans County Zoning Ord. § 9.11.29","150' setback to wetlands ""identified by state or federal agencies"""
+"602","North Carolina","Perquimans",NA,"Height","Meter","4.5","Perquimans County Zoning Ord. § 9.11.29",NA
+"603","North Carolina","Person",NA,"Structure","Meter","91.44","Person County Solar Energy Ord. § 2.2",NA
+"604","North Carolina","Person",NA,"Height","Meter","4.5","Person County Solar Energy Ord. § 2.2",NA
+"605","North Carolina","Polk",NA,"Property Line","Meter","12.19","Polk County Zoning Ord. § 6.2.10","40' setback"
+"606","North Carolina","Polk",NA,"Structure","Meter","60.96","Polk County Zoning Ord. § 6.2.10","200' setback to offsite residences"
+"607","North Carolina","Polk",NA,"Height","Meter","3.65","Polk County Zoning Ord. § 6.2.10",NA
+"608","North Carolina","Richmond",NA,"Minimum Lot Size","Acre","10","Richmond County Zoning Ord. § 6.10.14",NA
+"609","North Carolina","Richmond",NA,"Road","Meter","19.809999999999999","Richmond County Zoning Ord. § 6.10.14","65' setback"
+"610","North Carolina","Richmond",NA,"Height","Meter","6.0960000000000001","Richmond County Zoning Ord. § 6.10.14",NA
+"611","North Carolina","Rockingham",NA,"Minimum Lot Size","Acre","10","Rockingham County Zoning Ord. § 9.11(gg)",NA
+"612","North Carolina","Rockingham",NA,"Property Line","Meter","30.48","Rockingham County Zoning Ord. § 9.11(gg)",NA
+"613","North Carolina","Rockingham",NA,"Height","Meter","4.5","Rockingham County Zoning Ord. § 9.11(gg)",NA
+"614","North Carolina","Rowan",NA,"Property Line","Meter","15.24","Rowan County Zoning Ord. § 21-56(6)(c)(2)",NA
+"615","North Carolina","Rowan",NA,"Structure","Meter","30.48","Rowan County Zoning Ord. § 21-56(6)(c)(2)",NA
+"616","North Carolina","Rowan",NA,"Road","Meter","15.24","Rowan County Zoning Ord. § 21-56(6)(c)(2)",NA
+"617","North Carolina","Vance",NA,"Property Line","Meter","15.24","Vance County Code Ords. § 156-089(O)",NA
+"618","North Carolina","Vance",NA,"Road","Meter","30.48","Vance County Code Ords. § 156-089(O)",NA
+"619","North Carolina","Vance",NA,"Height","Meter","7.62","Vance County Code Ords. § 156-089(O)",NA
+"620","North Carolina","Vance",NA,"Sound","dBA","50","Vance County Code Ords. § 156-089(O)",NA
+"621","North Carolina","Warren",NA,"Property Line","Meter","15.24","Warren County Zoning Ord. § 1(H)25",NA
+"622","North Carolina","Warren",NA,"Height","Meter","4.5","Warren County Zoning Ord. § 1(H)25",NA
+"623","North Carolina","Washington",NA,"Property Line","Meter","22.86","Washington County Zoning Ord. § 13.9","75' setback"
+"624","North Carolina","Washington",NA,"Structure","Meter","91.44","Washington County Zoning Ord. § 13.9",NA
+"625","North Carolina","Washington",NA,"Height","Meter","4.5","Washington County Zoning Ord. § 13.10",NA
+"626","North Carolina","Wayne",NA,"Structure","Meter","30.48","Wayne County Solar Energy Ord. § 5",NA
+"627","North Carolina","Wayne",NA,"Road","Meter","18.28","Wayne County Solar Energy Ord. § 5",NA
+"628","North Carolina","Yadkin",NA,"Road","Meter","38.1","Yadkin County Zoning Ord. § 9.5","125' setback"
+"629","North Carolina","Yadkin",NA,"Highway","Meter","15.24","Yadkin County Zoning Ord. § 9.5",NA
+"630","North Carolina","Yadkin",NA,"Structure","Meter","91.44","Yadkin County Zoning Ord. § 9.5",NA
+"631","North Dakota","Barnes",NA,"Property Line","Meter","30.48","Barnes county development code7.1.3",NA
+"632","North Dakota","Barnes",NA,"Road","Meter","60.96","Barnes county development code7.1.3",NA
+"633","North Dakota","Divide",NA,"Property Line","Meter","30.48","7.13 Solar Energy Facilities",NA
+"634","North Dakota","Divide",NA,"Road","Meter","76.2","7.13 Solar Energy Facilities",NA
+"635","Oregon","Baker",NA,"Structure","Meter","402.33","Baker County Zoning Ord. § 760.03(E)(4)","1320 foot setback to dwellings"
+"636","Pennsylvania","Clarion",NA,"Minimum Lot Size","Acre","1","Clarion County Solar Energy Ord. § 3(B)",NA
+"637","Pennsylvania","Clarion",NA,"Height","Meter","4.5","Clarion County Solar Energy Ord. § 3(B)",NA
+"638","Pennsylvania","Luzerne",NA,"Property Line","Meter","30.48","Luzerne County Subdiv. & Land use Ord. § 543.3",NA
+"639","Pennsylvania","Luzerne",NA,"Road","Meter","152.4","Luzerne County Subdiv. & Land use Ord. § 543.3",NA
+"640","Pennsylvania","Luzerne",NA,"Minimum Lot Size","Acre","10","Luzerne County Subdiv. & Land use Ord. § 543.6",NA
+"641","Pennsylvania","Montour",NA,"Sound","dBA","55","Montour County Ord. 1-2021 § 3.2",NA
+"642","Pennsylvania","Montour",NA,"Structure","Meter","15.24","Montour County Ord. 1-2021 § 3.2",NA
+"643","Pennsylvania","Montour",NA,"Height","Meter","4.5","Montour County Ord. 1-2021 § 3.2",NA
+"644","South Carolina","Abbeville",NA,"Road","Meter","15.24","code of odrinances 3.23 Solar farms",NA
+"645","South Carolina","Abbeville",NA,"Property Line","Meter","30.48","code of odrinances 3.23 Solar farms",NA
+"646","South Carolina","Abbeville",NA,"Height","Meter","6.0960000000000001","code of odrinances 3.23 Solar farms",NA
+"647","South Carolina","Calhoun",NA,"Structure","Meter","152.4","Code of ordinances sec 5-124",NA
+"648","South Carolina","Calhoun",NA,"Road","Meter","15.24","Code of ordinances sec 5-124",NA
+"649","South Carolina","Calhoun",NA,"Height","Meter","6.0960000000000001","Code of ordinances sec 5-124",NA
+"650","South Carolina","Chester",NA,"Height","Meter","7.62","Article VII Solar Farm",NA
+"651","South Carolina","Darlington",NA,"Minimum Lot Size","Acre","1","Darlington County Code of Ordinances 19-4",NA
+"652","South Carolina","Darlington",NA,"Maximum Lot Size","MW","75","Darlington County Code of Ordinances 19-4",NA
+"653","South Carolina","Darlington",NA,"Structure","Meter","60.96","Darlington County Code of Ordinances 19-4",NA
+"654","South Carolina","Darlington",NA,"Property Line","Meter","15.24","Darlington County Code of Ordinances 19-4",NA
+"655","South Carolina","Edgefield",NA,"Height","Meter","6.0960000000000001","Sec. 24-84. - Solar panels",NA
+"656","South Carolina","Georgetown",NA,"Minimum Lot Size","Acre","3","art XX 2004",NA
+"657","South Carolina","Georgetown",NA,"Height","Meter","4.5720000000000001","art XX 2004",NA
+"658","South Carolina","Kershaw",NA,"Road","Meter","30.48","Zoning & Land Development Regulations Article 3, Section 3.3",NA
+"659","South Carolina","Kershaw",NA,"Property Line","Meter","30.48","Zoning & Land Development Regulations Article 3, Section 3.3",NA
+"660","South Carolina","Kershaw",NA,"Height","Meter","4.5720000000000001","Zoning & Land Development Regulations Article 3, Section 3.3",NA
+"661","South Carolina","Lancaster",NA,"Road","Meter","15.24","5.11.4 solar farms",NA
+"662","South Carolina","Lancaster",NA,"Structure","Meter","45.72","5.11.4 solar farms",NA
+"663","South Carolina","Lancaster",NA,"Sound","dBA","45","5.11.4 solar farms",NA
+"664","South Carolina","Marlboro",NA,"Height","Meter","7.62","Ordinance 818 - Conditions for Solar Energy Systems",NA
+"665","South Carolina","Marlboro",NA,"Structure","Meter","121.92","Ordinance 818 - Conditions for Solar Energy Systems",NA
+"666","South Carolina","Marlboro",NA,"Property Line","Meter","30.48","Ordinance 818 - Conditions for Solar Energy Systems",NA
+"667","South Carolina","Newberry",NA,"Road","Meter","30.48","153.124  Solar farm",NA
+"668","South Carolina","Newberry",NA,"Property Line","Meter","30.48","153.124  Solar farm",NA
+"669","South Carolina","Newberry",NA,"Height","Meter","6.0960000000000001","153.124  Solar farm",NA
+"670","South Dakota","McCook",NA,"Property Line","Meter","15.24","McCook County Zoning Regs. § 11.19(G)",NA
+"671","South Dakota","McCook",NA,"Road","Meter","15.24","McCook County Zoning Regs. § 11.19(G)",NA
+"672","South Dakota","McCook",NA,"Height","Meter","4.5","McCook County Zoning Regs. § 11.19(G)",NA
+"673","South Dakota","Pennington",NA,"Minimum Lot Size","Acre","5","Pennington County Zoning Ord. § 317(A)(7)",NA
+"674","South Dakota","Pennington",NA,"Property Line","Maximum Structure Height Multiplier","1.5","Pennington County Zoning Ord. § 317(A)(7)","Greater of 25' setback or 1.5x max structure height"
+"675","South Dakota","Pennington",NA,"Structure","Meter","30.48","Pennington County Zoning Ord. § 317(A)(7)",NA
+"676","South Dakota","Pennington",NA,"Road","Maximum Structure Height Multiplier","1.5","Pennington County Zoning Ord. § 317(A)(7)",NA
+"677","South Dakota","Pennington",NA,"Sound","dBA","55","Pennington County Zoning Ord. § 317(A)(7)",NA
+"678","Tennessee","Fayette",NA,"Property Line","Meter","9.14","Fayette County Zoning Res. § 13",NA
+"679","Tennessee","Fayette",NA,"Minimum Lot Size","Acre","150","Fayette County Zoning Res. § 13",NA
+"680","Tennessee","Fayette",NA,"Road","Meter","152.4","Fayette County Zoning Res. § 13",NA
+"681","Tennessee","Fayette",NA,"Structure","Meter","152.4","Fayette County Zoning Res. § 13","500' setback to existing residences"
+"682","Tennessee","Greene",NA,"Property Line","Meter","15.24","Greene County Zoning Ord. § 601.1S(3)",NA
+"683","Tennessee","Haywood",NA,"Minimum Lot Size","Acre","100","Haywood County Zoning Res. § 9.02(D)",NA
+"684","Tennessee","Haywood",NA,"Structure","Meter","152.4","Haywood County Zoning Res. § 9.02(D)",NA
+"685","Tennessee","Jefferson",NA,"Property Line","Meter","9.14","Jefferson County Zoning Res. § 7.9",NA
+"686","Tennessee","Shelby",NA,"Property Line","Maximum Structure Height Multiplier","1.1000000000000001","Shelby County Unified Dev. Code 2.6.2(2)",NA
+"687","Tennessee","Washington",NA,"Minimum Lot Size","Acre","3","Washington County Zoning Res. § 516.1.1",NA
+"688","Tennessee","Washington",NA,"Property Line","Meter","15.24","Washington County Zoning Ord. § 516.1.1",NA
+"689","Tennessee","Washington",NA,"Height","Meter","6.0960000000000001","Washington County Zoning Ord. § 516.1.1",NA
+"690","Utah","Duchesne",NA,"Minimum Lot Size","Acre","5","Duchesne County Zoning Ord. § 8-9-15.3",NA
+"691","Utah","Duchesne",NA,"Height","Meter","9.14","Duchesne County Zoning Ord. § 8-9-15.3",NA
+"692","Utah","Duchesne",NA,"Property Line","Meter","9.14","Duchesne County Zoning Ord. § 8-9-15.3",NA
+"693","Utah","Duchesne",NA,"Road","Meter","9.14","Duchesne County Zoning Ord. § 8-9-15.3",NA
+"694","Utah","Duchesne",NA,"Structure","Meter","30.48","Duchesne County Zoning Ord. § 8-9-15.3",NA
+"695","Utah","Duchesne",NA,"Sound","dBA","50","Duchesne County Zoning Ord. § 8-9-15.3",NA
+"696","Utah","Iron",NA,"Minimum Lot Size","Acre","5","Iron County Code Ords. § 17.33.030",NA
+"697","Utah","Iron",NA,"Height","Meter","9.14","Iron County Code Ords. § 17.33.030",NA
+"698","Utah","Iron",NA,"Property Line","Meter","9.14","Iron County Code Ords. § 17.33.030",NA
+"699","Utah","Iron",NA,"Road","Meter","9.14","Iron County Code Ords. § 17.33.030",NA
+"700","Utah","Iron",NA,"Structure","Meter","30.48","Iron County Code Ords. § 17.33.030",NA
+"701","Utah","Iron",NA,"Sound","dBA","50","Iron County Code Ords. § 17.33.030",NA
+"702","Utah","Kane",NA,"Property Line","Maximum Structure Height Multiplier","1.5","Kane County Code Ords. § 9-24-3",NA
+"703","Utah","Kane",NA,"Road","Maximum Structure Height Multiplier","1.5","Kane County Code Ords. § 9-24-3",NA
+"704","Utah","Kane",NA,"Structure","Meter","804","Kane County Code Ords. § 9-24-3","1/2 mile setback to any inhabitable structure"
+"705","Utah","Kane",NA,"Sound","dBA","65/50","Kane County Code Ords. § 9-24-3","65 db at property line; 50 db at nearest residence"
+"706","Virginia","Alleghany",NA,"Property Line","Meter","7.62","Sec. 66-755. - Development standards for utility-scale solar generation facilities",NA
+"707","Virginia","Alleghany",NA,"Road","Meter","22.86","Sec. 66-755. - Development standards for utility-scale solar generation facilities",NA
+"708","Virginia","Alleghany",NA,"Structure","Meter","22.86","Sec. 66-755. - Development standards for utility-scale solar generation facilities",NA
+"709","Virginia","Alleghany",NA,"Height","Meter","6.0960000000000001","Sec. 66-755. - Development standards for utility-scale solar generation facilities",NA
+"710","Virginia","Amelia",NA,"Structure","Meter","15.24","Amelia County Land Use. Ords. § 325-34.2",NA
+"711","Virginia","Amelia",NA,"Height","Meter","7.62","Amelia County Land Use. Ords. § 325-34.2",NA
+"712","Virginia","Amelia",NA,"Density","Percentage","0.03","Amelia County Land Use. Ords. § 325-34.2","No more than 3% of the land area in any given five-mile radius shall be approved for use as the project area for utility-scale solar energy systems."
+"713","Virginia","Amelia",NA,"Sound","dBA","50","Amelia County Land Use. Ords. § 325-34.2",NA
+"714","Virginia","Amherst",NA,"Property Line","Meter","45.72","923. - Solar generation facilities. Zoning code",NA
+"715","Virginia","Amherst",NA,"Height","Meter","6.0960000000000001","923. - Solar generation facilities. Zoning code",NA
+"716","Virginia","Appomattox",NA,"Property Line","Meter","152.4","chapt. 19.6 zoning",NA
+"717","Virginia","Augusta",NA,"Height","Meter","4.5720000000000001","Augusta County Zoning Ord. § 25-70.8",NA
+"718","Virginia","Augusta",NA,"Sound","dBA","60","Augusta County Zoning Ord. § 25-70.8",NA
+"719","Virginia","Augusta",NA,"Property Line","Meter","60.96","Augusta County Zoning Ord. § 25-70.8",NA
+"720","Virginia","Brunswick",NA,"Total Installation","Acre","8500","ARTICLE 23. - SOLAR FACILITIES",NA
+"721","Virginia","Brunswick",NA,"Structure","Meter","76.2","ARTICLE 23. - SOLAR FACILITIES",NA
+"722","Virginia","Brunswick",NA,"Property Line","Meter","45.72","ARTICLE 23. - SOLAR FACILITIES",NA
+"723","Virginia","Brunswick",NA,"Height","Meter","4.5720000000000001","ARTICLE 23. - SOLAR FACILITIES",NA
+"724","Virginia","Caroline",NA,"Density","Meter","1609","Caroline County Zoning Ord. § 23.9","Minimum spacing between solar plants is 1-mile"
+"725","Virginia","Caroline",NA,"Road","Meter","152.4","Caroline County Zoning Ord. § 23.9",NA
+"726","Virginia","Caroline",NA,"Structure","Meter","152.4","Caroline County Zoning Ord. § 23.9",NA
+"727","Virginia","Caroline",NA,"Height","Meter","4.5720000000000001","Caroline County Zoning Ord. § 23.9",NA
+"728","Virginia","Charlotte",NA,"Road","Meter","38.1","sec 10-23 solar energy systems",NA
+"729","Virginia","Charlotte",NA,"Property Line","Meter","22.86","sec 10-23 solar energy systems",NA
+"730","Virginia","Charlotte",NA,"Structure","Meter","121.92","sec 10-23 solar energy systems",NA
+"731","Virginia","Charlotte",NA,"Height","Meter","7.62","sec 10-23 solar energy systems",NA
+"732","Virginia","Charlotte",NA,"Sound","dBA","50","sec 10-23 solar energy systems",NA
+"733","Virginia","Clarke",NA,"Minimum Lot Size","Acre","20","3-C-2-gg Solar Power Plant",NA
+"734","Virginia","Clarke",NA,"Sound","dBA","65","3-C-2-gg Solar Power Plant",NA
+"735","Virginia","Dinwiddle",NA,"Height","Meter","5.4863999999999997","Division 18 Utility scale solar energy district",NA
+"736","Virginia","Gloucester",NA,"Height","Meter","6.0960000000000001","Sec. 9-28. - Solar energy facilities.",NA
+"737","Virginia","Greensville",NA,"Total Installation","Acre","7600","Art 24 solar facilities",NA
+"738","Virginia","Greensville",NA,"Density","Meter","2414","Art 24 solar facilities","Minimum spacing between solar plants is 1.5-miles"
+"739","Virginia","Greensville",NA,"Maximum Lot Size","Acre","988.5","Art 24 solar facilities","Maximum plant size is 1,000 acres"
+"740","Virginia","Greensville",NA,"Maximum Lot Coverage","Percentage","75","Art 24 solar facilities","No more than 75% coverage for single project"
+"741","Virginia","Greensville",NA,"Height","Meter","4.5720000000000001","Art 24 solar facilities",NA
+"742","Virginia","Halifax",NA,"Property Line","Meter","7.62","Art VII solar energy facilities",NA
+"743","Virginia","Halifax",NA,"Road","Meter","22.86","Art VII solar energy facilities",NA
+"744","Virginia","Halifax",NA,"Structure","Meter","22.86","Art VII solar energy facilities",NA
+"745","Virginia","Halifax",NA,"Height","Meter","6.0960000000000001","Art VII solar energy facilities",NA
+"746","Virginia","Henry",NA,"Road","Meter","30.48","Art XVIII solar energy facilities",NA
+"747","Virginia","Henry",NA,"Property Line","Meter","15.24","Art XVIII solar energy facilities",NA
+"748","Virginia","Henry",NA,"Height","Meter","6.0960000000000001","Art XVIII solar energy facilities",NA
+"749","Virginia","Highland",NA,"Height","Meter","4.5720000000000001","715.03 Utility-scale Solar Energy System",NA
+"750","Virginia","Highland",NA,"Sound","dBA","60","715.03 Utility-scale Solar Energy System",NA
+"751","Virginia","Highland",NA,"Property Line","Meter","60.96","715.03 Utility-scale Solar Energy System",NA
+"752","Virginia","Highland",NA,"Maximum Lot Size","Acre","400","715.03 Utility-scale Solar Energy System",NA
+"753","Virginia","Highland",NA,"Maximum Lot Coverage","Percentage","65","715.03 Utility-scale Solar Energy System","No more than 65% coverage for single project"
+"754","Virginia","Highland",NA,"Density","Meter","3218","715.03 Utility-scale Solar Energy System","Minimum spacing between solar plants is 2-miles."
+"755","Virginia","King George",NA,"Height","Meter","4.5720000000000001","Sec. 4.16. - Solar farm.",NA
+"756","Virginia","King Williams",NA,"Minimum Lot Size","Acre","100","ARTICLE XVI: SOLAR FACILITIES",NA
+"757","Virginia","King Williams",NA,"Maximum Lot Size","Acre","1500","ARTICLE XVI: SOLAR FACILITIES",NA
+"758","Virginia","King Williams",NA,"Property Line","Meter","60.96","ARTICLE XVI: SOLAR FACILITIES",NA
+"759","Virginia","King Williams",NA,"Road","Meter","152.4","ARTICLE XVI: SOLAR FACILITIES",NA
+"760","Virginia","King Williams",NA,"Height","Meter","3.048","ARTICLE XVI: SOLAR FACILITIES",NA
+"761","Virginia","Lancaster",NA,"Property Line","Meter","30.48","28-5. - Utility Scale Solar.",NA
+"762","Virginia","Lancaster",NA,"Highway","Meter","76.2","28-5. - Utility Scale Solar.",NA
+"763","Virginia","Lancaster",NA,"Road","Meter","22.86","28-5. - Utility Scale Solar.",NA
+"764","Virginia","Lancaster",NA,"Height","Meter","4.5720000000000001","28-5. - Utility Scale Solar.",NA
+"765","Virginia","Lancaster",NA,"Sound","dBA","65","28-5. - Utility Scale Solar.",NA
+"766","Virginia","Louisa",NA,"Road","Meter","45.72","Sec. 86-393. – Processing and performance standards for utility-scale solar generation facilities.",NA
+"767","Virginia","Louisa",NA,"Structure","Meter","45.72","Sec. 86-393. – Processing and performance standards for utility-scale solar generation facilities.",NA
+"768","Virginia","Louisa",NA,"Height","Meter","6.0960000000000001","Sec. 86-393. – Processing and performance standards for utility-scale solar generation facilities.",NA
+"769","Virginia","Northampton",NA,"Sound","dBA","60","§ 154.2.178  SOLAR ENERGY DISTRICT",NA
+"770","Virginia","Northampton",NA,"Highway","Meter","30.48","§ 154.2.178  SOLAR ENERGY DISTRICT",NA
+"771","Virginia","Northampton",NA,"Road","Meter","18.288","§ 154.2.178  SOLAR ENERGY DISTRICT",NA
+"772","Virginia","Northampton",NA,"Property Line","Meter","15.24","§ 154.2.178  SOLAR ENERGY DISTRICT",NA
+"773","Virginia","Northumberland",NA,"Property Line","Meter","7.62","sec 148-155 solar energy facilities",NA
+"774","Virginia","Nottoway",NA,"Height","Meter","7.62","sec. 1-19-4 development standards for solar energy uses",NA
+"775","Virginia","Pittsylvania",NA,"Height","Meter","4.5720000000000001","SEC. 35-141. SOLAR ENERGY FACILITIES.",NA
+"776","Virginia","Pittsylvania",NA,"Property Line","Meter","45.72","SEC. 35-141. SOLAR ENERGY FACILITIES.",NA
+"777","Virginia","Pittsylvania",NA,"Density","Meter","1609","SEC. 35-141. SOLAR ENERGY FACILITIES.","Minimum spacing between solar plants is 1-mile."
+"778","Virginia","Prince Edward",NA,"Sound","dBA","50","Prince Edward County Code Ords. appdx. B § 7-110",NA
+"779","Virginia","Prince Edward",NA,"Property Line","Meter","15.24","Prince Edward County Code Ords. appdx. B § 7-110",NA
+"780","Virginia","Prince Edward",NA,"Road","Meter","22.86","Prince Edward County Code Ords. appdx. B § 7-110",NA
+"781","Virginia","Prince Edward",NA,"Height","Meter","6.0960000000000001","Prince Edward County Code Ords. appdx. B § 7-110",NA
+"782","Virginia","Prince Edward",NA,"Maximum Lot Coverage","Percentage","5.5","Prince Edward County Code Ords. appdx. B § 7-110","No more than 5.5% of land within 5-mile radius should be used for solar farm"
+"783","Virginia","Prince George",NA,"Road","Meter","15.24","Prince George County Zoning Ord. § 90-16",NA
+"784","Virginia","Richmond",NA,"Sound","dBA","65","4-21  SOLAR POWER FACILITY, LARGE PHOTOVOLTAIC",NA
+"785","Virginia","Roanoke",NA,"Height","Meter","4.5720000000000001","Sec. 30-100-13. - Solar energy systems.",NA
+"786","Virginia","Rockingham",NA,"Height","Meter","7.62","sec. 17-607",NA
+"787","Virginia","Shenandoah",NA,"Sound","dBA","65","Art XXII Solar facilities",NA
+"788","Virginia","Southampton",NA,"Height","Meter","5.4863999999999997","Sec. 18-4309.",NA
+"789","Virginia","Southampton",NA,"Minimum Lot Size","Acre","20","Sec. 18-4309.",NA
+"790","Virginia","Southampton",NA,"Maximum Lot Size","Acre","1000","Sec. 18-4309.",NA
+"791","Washington","Asotin",NA,"Property Line","Meter","60.96","Asotin County Zoning Ord. § 17.08.070",NA
+"792","Washington","Asotin",NA,"Structure","Meter","60.96","Asotin County Zoning Ord. § 17.08.070",NA
+"793","Washington","Grant",NA,"Moratorium","N/A",NA,"Grant County Ord. No. 21-080-CC","Six month moratorium beginning in august 2021(County is re-writing its regs)"
+"794","Washington","Kittitas",NA,"Property Line","Meter","7.62","Kittitas County Zoning Ord. § 17.61C.090",NA
+"795","Washington","Kittitas",NA,"Height","Meter","6.09","Kittitas County Zoning Ord. § 17.61C.090",NA
+"796","Washington","Klickitat",NA,"Structure","Meter","152.4 - 457.2","Klickitat County Code Ords. § 19.39:8","Range of setbacks ranging from 500-1500 feet based on geographic factors"
+"797","Wisconsin","Green",NA,"Property Line","Meter","4.5","Green County Zoning Regs. § 4-12-3(B)","15' setback from property line + underlying district regulation"
+"798","Wisconsin","Green",NA,"Height","Meter","10.66","Green County Zoning Regs. § 4-12-3(B)","35' max height"
+"799","Wisconsin","Walworth",NA,"Property Line","Meter","15.24","Walworth County Code Ords. §  65-121",NA
+"800","Wisconsin","Waushara",NA,"Property Line","Meter","15.24","Waushara County Zoning Ord. §  58-236",NA
+"801","Wyoming","Albany",NA,"Structure","Meter","91.44","8. Setbacks for Solar Energy Facilities.",NA
+"802","Wyoming","Albany",NA,"Road","Meter","60.96","8. Setbacks for Solar Energy Facilities.",NA
+"803","Wyoming","Albany",NA,"Property Line","Meter","30.48","8. Setbacks for Solar Energy Facilities.",NA
+"804","Wyoming","Converse",NA,"Structure","Meter","91.44","W.S. 18-5-504",NA
+"805","Wyoming","Converse",NA,"Road","Meter","60.96","W.S. 18-5-504",NA
+"806","Wyoming","Converse",NA,"Property Line","Meter","30.48","W.S. 18-5-504",NA
+"807","Wyoming","Sheridan",NA,"Structure","Meter","91.44","RULES AND REGULATIONS GOVERNING THE PERMITING OF COMMERICIAL SOLAR ENERGY FACILITIES",NA
+"808","Wyoming","Sheridan",NA,"Road","Meter","60.96","RULES AND REGULATIONS GOVERNING THE PERMITING OF COMMERICIAL SOLAR ENERGY FACILITIES",NA
+"809","Wyoming","Sheridan",NA,"Property Line","Meter","30.48","RULES AND REGULATIONS GOVERNING THE PERMITING OF COMMERICIAL SOLAR ENERGY FACILITIES",NA
+"810","Wyoming","Sheridan",NA,"Height","Meter","4.5720000000000001","RULES AND REGULATIONS GOVERNING THE PERMITING OF COMMERICIAL SOLAR ENERGY FACILITIES",NA
+"811","Wyoming","Sweetwater",NA,"Maximum Lot Coverage","Percentage","10","Sec 11. Solar Energy System – On-Site","coverage cannot exceed 10 % of the lot"
+"812","Wyoming","Sweetwater",NA,"Height","Meter","4.5720000000000001","Sec 11. Solar Energy System – On-Site",NA

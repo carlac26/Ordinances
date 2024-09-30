@@ -1,0 +1,1005 @@
+﻿Source,State,County,Date,Year,Type,Name,Setback,moratorium,noise,capacity,height,utility,agricultur,cover,density,continuous operation,ban,visual impact,wind,solar,wind & solar,type
+Sabin Center ,ALABAMA, Cherokee ,2014-01-01,2014,Local Restrictions ," Act No. 2014-190, S.B. 402 (Ala. Mar. 18, 2014) §§ 6(i)-(j), http",1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,Wind
+Sabin Center ,ALABAMA, Etowah ,2014-01-01,2014,Local Restrictions ,"Act No. 2014-191, S.B. 403 (Ala. Mar. 19, 2014) §§ 6(i)-(j), http",1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,Wind
+Sabin Center ,ALABAMA,Baldwin ,2022-01-01,2022,Local Restrictions ,"BALDWIN COUNTY, ALA., ZONING ORDINANCE §§ 13.13.4, 13.13.6(j) (as amended Oct. 18, 2022), https",0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,Wind
+Sabin Center ,ALABAMA,DeKalb ,2019-01-01,2019,Local Restrictions ,"ALA. CODE § 45-25-260.05 (2019), https",1,0,1,0,0,0,0,0,0,1,1,1,1,0,0,Wind
+Sabin Center ,ALABAMA,DeKalb ,2019-01-01,2019,Local Restrictions ,"ALA. CODE § 45-25-260.06 (2019), https",0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,Wind & Solar
+NREL,Arizona,Cochise,2021-01-01,2021,Local Restrictions,Cochise County Ord. § 1824.02,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Arizona,La Paz,2021-01-01,2021,Local Restrictions,La Paz County Ord. § 619.06,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Arizona,Maricopa,2021-01-01,2021,Local Restrictions,Maricopa Cnty. Ord. § 1206.2.3;,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,ARIZONA,Mohave ,2023-01-01,2023,Local Restrictions ,,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,Wind & Solar
+NREL,Arizona,Pinal,2021-01-01,2021,Local Restrictions,Pinal Cnty. Ord. § 2.210.030(A),0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,Solar
+Sabin Center ,ARIZONA,Pinal ,2022-01-01,2022,Local Restrictions ,,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,California, Santa Clara ,2010-01-01,2010,Local Restrictions,"Santa Clara County, Cal., Code of Ordinances § 4.10.345(A), ",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,Solar
+NREL,California,Butte,2021-01-01,2021,Local Restrictions,Butte County Code § 24-157(c),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,California,Butte,2021-01-01,2021,Local Restrictions,Butte County Code § 24-157(c),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,California,Contra Costa,2021-01-01,2021,Local Restrictions,Contra Costa County Code § 88-30.606,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,California,Del Norte ,2022-01-01,2022,Local Restrictions ,"CRESCENT CITY, CAL., MUNICIPAL CODE § 17.48.040(D) (current through November 2022), ",0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,Wind
+NREL,California,Glenn,2021-01-01,2021,Local Restrictions,Glenn County Code § 15.860.030(g)(4)(a),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,California,Los Angeles,2021-01-01,2021,Local Restrictions,Los Angeles County Code 22.140.510(E),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,California,Los Angeles,2021-01-01,2021,Local Restrictions,Los Angeles County Code 22.140.510(E),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,California,Los Angeles ,2019-01-01,2019,Local Restrictions ,"LOS ANGELES COUNTY, CAL., CODE § 22.140.510(C)(5), ",0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,Wind & Solar
+NREL,California,Merced,2021-01-01,2021,Local Restrictions,Merced County Code § 18-30-030,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,California,Napa,2021-01-01,2021,Local Restrictions,Napa County Code § 18.117.040(c),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,California,San Bernardino ,2019-01-01,2019,Local Restrictions ,"Christian Roselund, San Bernardino County bans large-scale solar, wind in some areas, PV MAGAZINE, Mar. 1, 2019, ",0,0,0,0,0,1,0,1,0,0,1,0,0,1,0,Solar
+NREL,California,San Diego,2021-01-01,2021,Local Restrictions,San Diego County Code § 6954(b)(3),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,California,San Diego,2021-01-01,2021,Local Restrictions,San Diego County Code § 6954(b)(3),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,California,San Luis Obispo,2021-01-01,2021,Local Restrictions,San Luis Obispo County Code § 22.32.050,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,California,San Luis Obispo,2021-01-01,2021,Local Restrictions,San Luis Obispo County Code § 22.32.050,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,California,Santa Clara,2021-01-01,2021,Local Restrictions,Santa Clara County Code § 4.10.345,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,California,Sonoma,2021-01-01,2021,Local Restrictions,Sonoma County Code § 26-88-206,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,California,Yolo,2021-01-01,2021,Local Restrictions,Yolo County Code § Sec. 8-2.1104(h),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Calorado, Delta ,2022-01-01,2022,Local Restrictions,"Joann K., Commissioners put moratorium on renewable energy projects, DELTA COUNTY CITIZEN REPORT, Sept. 6, 2022, http://citizenreport.info/2022/09/commissioners-put-moratorium-on-renewable-energy-projects/; Renewable Energy Production – Colorado, USA TODAY, ",0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,Wind & Solar
+Sabin Center ,Calorado, Montrose ,2022-01-01,2022,Local Restrictions,"County of Montrose, State of Colorado, Board of County Commissioners Resolution No. 71-2022 (Oct. 19, 2022), ",0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Calorado, San Miguel ,2023-01-01,2023,Local Restrictions,"Gavin McGough, Solar development and land use stirs community discussion in Norwood, Colorado, ASPEN PUBLIC RADIO, Oct. 19, 2023, ",0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Calorado, Washington ,2020-01-01,2020,Local Restrictions,"WASHINGTON COUNTY, COLO., Resolution 64-2020 (Mar. 24, 2020), ",0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Calorado,Rio Blanco ,2023-01-01,2023,Local Restrictions,"Niki Turner, County Beat: Moratorium on new wind/solar projects approved, Herald Times, Aug. 24, 2023, ",0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+NREL,Colorado,Clear Creek,#N/A,#N/A,Local Restrictions,Clear Creek Zoning Regulations,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Colorado,El Paso,#N/A,#N/A,Local Restrictions,El Paso County Land Development Code 5.1.49,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Colorado,Jefferson,#N/A,#N/A,Local Restrictions,Jefferson County Zoning Resolution § 18 (D),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Colorado,Lake,#N/A,#N/A,Local Restrictions,Lake County Land Development Code Chapt. 5,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Colorado,Lincoln,#N/A,#N/A,Local Restrictions,Lincoln County Zoning Resolution 11-17,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Colorado,Pueblo,#N/A,#N/A,Local Restrictions,Pueblo County Zoning § 17.168.050,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Colorado,Pueblo,#N/A,#N/A,Local Restrictions,Pueblo County Zoning § 17.168.050,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Colorado,San Miguel,#N/A,#N/A,Local Restrictions,San Miguel County Land Use Code § III (g),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Colorado,San Miguel,#N/A,#N/A,Local Restrictions,San Miguel County Land Use Code § III (g),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Colorado,Washington,#N/A,#N/A,Local Restrictions,Washington County Resolution 64-2020,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Connecticut,n/a,2017-01-01,2017,State Restrictions,"CT Gen Stat § 16-50k (rev. Jan. 1, 2021), ",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Delaware,Kent ,2022-01-01,2022,Local Restrictions,"Paul Kiefer, Kent County Levy Court Places Moratorium on Utilites-Scale Wind Farms, DELAWARE PUBLIC MEDIA, Dec. 21, 2022, ",0,1,0,0,0,1,1,0,0,0,0,0,1,1,1,Wind & Solar
+NREL,Delaware,New Castle,#N/A,#N/A,Local Restrictions,New Castle County § 40.03.312,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Delaware,Sussex ,2010-01-01,2010,Local Restrictions,"Town of Bethany Beach, Del, Code, § 484-3(H), ",0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,Solar
+NREL,Florida,Clay,2021-01-01,2021,Local Restrictions,Clay County Land Development Code § 3-2(bo),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Florida,Columbia,2021-01-01,2021,Local Restrictions,Columbia County Land Development Regs. § 4.2.41,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Florida,Gadsen,2021-01-01,2021,Local Restrictions,Gadsen County Land Development Code § 5204(D),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Florida,Gadsen,2021-01-01,2021,Local Restrictions,Gadsen County Land Development Code § 5204(D),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Florida,Gilchrist,2021-01-01,2021,Local Restrictions,Gilchrist County Land Dev. Code § 7.26,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Florida,Gilchrist,2021-01-01,2021,Local Restrictions,Gilchrist County Land Dev. Code § 7.26,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Florida,Hillsborough,2021-01-01,2021,Local Restrictions,Hillsborough Land Development Code § 6.11.125,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Florida,Hillsborough,2021-01-01,2021,Local Restrictions,Hillsborough Land Development Code § 6.11.125,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Florida,Jefferson,2021-01-01,2021,Local Restrictions,Jefferson County Land Development Code § 2.11.4,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Florida,Leon,2021-01-01,2021,Local Restrictions,Leon County Land Development Code § 10-6.820,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Florida,Manatee,2021-01-01,2021,Local Restrictions,Manatee County Land Dev. Code § 531.54,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Florida,Martin,2021-01-01,2021,Local Restrictions,Martin County Land Dev. Regs. § 3.100.1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Florida,Martin,2021-01-01,2021,Local Restrictions,Martin County Land Dev. Regs. § 3.100.1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Florida,Orange,2021-01-01,2021,Local Restrictions,Orange County Code § 38-79(50),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Florida,Palm Beach,2021-01-01,2021,Local Restrictions,Palm Beach Unified Development Land Code § 7(C)(8),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Florida,Polk,2021-01-01,2021,Local Restrictions,Polk County Ord. 11-033,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Florida,St. Lucie,2021-01-01,2021,Local Restrictions,St. Lucie County Land Dev. Code § 7.10.28,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Florida,St. Lucie,2021-01-01,2021,Local Restrictions,St. Lucie County Land Dev. Code § 7.10.28,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Florida,Wakulla,2021-01-01,2021,Local Restrictions,Wakulla County Code § 6-35,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Florida,Wakulla,2021-01-01,2021,Local Restrictions,Wakulla County Code § 6-35,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Forida,Manatee,2021-01-01,2021,Local Restrictions,Manatee County Land Dev. Code § 531.54,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Georgia,Baldwin ,2020-01-01,2020,Local Restrictions,"BALDWIN COUNTY, GA., CODE OF ORDINANCES § 17-23(a) (adopted June 16, 2020), ",1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Georgia, Franklin ,2022-01-01,2022,Local Restrictions,"Brian Justice, Franklin County gives solar the cold shoulder, TULLAHOMA NEWS, Apr. 28, 2022, ",0,0,0,0,0,1,0,0,0,0,1,0,1,1,1,Wind & Solar
+Sabin Center ,Georgia, Grady ,2017-01-01,2017,Local Restrictions,"Jordan Barela, Grady Commissioners issue 60-day solar panel moratorium, DALTON DAILY CITIZEN, Feb. 22, 2017, ",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Georgia, Greene ,2020-01-01,2020,Local Restrictions,"GREENE COUNTY, GA., ZONING ORDINANCE § 9.22 (Dec. 8, 2020), ",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Georgia, Jeff Davis ,2023-01-01,2023,Local Restrictions,"Anti-Solar Group Meets with Commissioner, JEFF DAVIS LEDGER, June 14, 2023, ",0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,Solar
+Sabin Center ,Georgia, Lee ,2019-01-01,2019,Local Restrictions,"Marilyn Parker, Ordinance will restrict Lee Co. solar farm development, WALB NEWS 10, May 15, 2019, ",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Georgia, Oglethorpe ,2023-01-01,2023,Local Restrictions,"Garrett Kicklighter, No new solar farms for now, OGLETHORPE ECHO, March 8, 2023, ",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Georgia, Thomas ,2016-01-01,2016,Local Restrictions,"Thomas Co. Extends Solar Moratorium Six Months, WALB NEWS 10, Nov. 8, 2016, ",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,Bartow,#N/A,#N/A,Local Restrictions,Bartow County Zoning Ordinance Art. VII § 7.1.9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,Bryan,#N/A,#N/A,Local Restrictions,Bryan County Unified Development Ordinance § 114-742,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,Bryan,#N/A,#N/A,Local Restrictions,Bryan County Unified Development Ordinance § 114-742,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,Bryan,#N/A,#N/A,Local Restrictions,Bryan County Unified Development Ordinance § 114-742,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,Bryan,#N/A,#N/A,Local Restrictions,Bryan County Unified Development Ordinance § 114-742,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,Burke,#N/A,#N/A,Local Restrictions,Burke County Code of Ordinances Part II §26-4.03.26,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,Burke,#N/A,#N/A,Local Restrictions,Burke County Code of Ordinances Part II §26-4.03.26,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,Catoosa,#N/A,#N/A,Local Restrictions,Catoosa County Code of Ordinances §4.09.38,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,Dawson,#N/A,#N/A,Local Restrictions,Land Use Resolution of Dawson County § 318,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,Dawson,#N/A,#N/A,Local Restrictions,Land Use Resolution of Dawson County § 318,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,Decatur,#N/A,#N/A,Local Restrictions,Decatur County Solar Energy Systems Regulations §1.04,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,Decatur,#N/A,#N/A,Local Restrictions,Decatur County Solar Energy Systems Regulations §1.04,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,Decatur,#N/A,#N/A,Local Restrictions,Decatur County Solar Energy Systems Regulations §1.04,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,Evans,#N/A,#N/A,Local Restrictions,Evans County Solar Collection Facility Ordinance § 3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,Evans,#N/A,#N/A,Local Restrictions,Evans County Solar Collection Facility Ordinance § 3,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,Evans,#N/A,#N/A,Local Restrictions,Evans County Solar Collection Facility Ordinance § 3,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,Greene,#N/A,#N/A,Local Restrictions,Greene County Code of Ordinances § 9.22,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,Greene,#N/A,#N/A,Local Restrictions,Greene County Code of Ordinances § 9.22,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,Haralson,#N/A,#N/A,Local Restrictions,Haralson County Code of Ordinance § 50-115,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,Heard,#N/A,#N/A,Local Restrictions,Heard County Code of Ordinances § 46-273,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,Heard,#N/A,#N/A,Local Restrictions,Heard County Code of Ordinances § 46-273,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,Heard,#N/A,#N/A,Local Restrictions,Heard County Code of Ordinances § 46-273,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,Jackson,#N/A,#N/A,Local Restrictions,Jackson County Code of Ordinances §3-118,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,Jackson,#N/A,#N/A,Local Restrictions,Jackson County Code of Ordinances § 3-118,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,Jefferson,#N/A,#N/A,Local Restrictions,Jefferson County Code of Ordinances § 20-1100,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,Jefferson,#N/A,#N/A,Local Restrictions,Jefferson County Code of Ordinances § 20-1100,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,Jefferson,#N/A,#N/A,Local Restrictions,Jefferson County Code of Ordinances § 20-1100,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,Jefferson,#N/A,#N/A,Local Restrictions,Jefferson County Code of Ordinances § 20-1100,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,Lee,#N/A,#N/A,Local Restrictions,Lee County Code of Ordinances § 70-694,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,Liberty,#N/A,#N/A,Local Restrictions,Liberty County Code of Ordinances § 13.4,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,Long,#N/A,#N/A,Local Restrictions,Long County Code of Ordinances § 110-293,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,McDuffie,#N/A,#N/A,Local Restrictions,McDuffie County Code of Ordinances § 44-233,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,McDuffie,#N/A,#N/A,Local Restrictions,McDuffie County Code of Ordinances § 44-233,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,Oconee,#N/A,#N/A,Local Restrictions,Oconee County Code of Ordinances § 343.05,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,Oconee,#N/A,#N/A,Local Restrictions,Oconee County Code of Ordinances § 343.05,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,Oglethorpe,#N/A,#N/A,Local Restrictions,Oglthorpe County Unified Development Code § 712,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,Pulaski,#N/A,#N/A,Local Restrictions,Pulaski County Code of Ordinances § 53-5,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,Pulaski,#N/A,#N/A,Local Restrictions,Pulaski County Code of Ordinances § 53-5,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Georgia,Thomas,#N/A,#N/A,Local Restrictions,Thomas County Code of Ordinances § 3.269,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Hawaii,Honolulu ,2020-01-01,2020,Local Restrictions,"Honolulu City Council, Res. No. 19-305, ",1,0,0,1,0,1,0,0,0,0,1,0,1,0,0,Wind
+Sabin Center ,Idaho, Bingham ,2012-01-01,2012,Local Restrictions,"BINGHAM COUNTY, IDAHO, CODE OF ORDINANCES § 10-7-44(D) (2012), ",1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Idaho, Bonneville ,2010-01-01,2010,Local Restrictions,"The Associated Press, E. Idaho county restricts wind farm development, MIDDLETOWN JOURNAL, Nov. 19, 2010, ",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Illinois, Boone ,2015-01-01,2015,Local Restrictions,"Boone County, Il., County Code 4.8.7(H), ",1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Illinois, Christian ,2020-01-01,2020,Local Restrictions,"Leroy, Kleimola, Christian County board votes in favor of CZA amendments effectively ending wind farms in the county, TAYLORVILLE DAILY NEWS, Sept. 17, 2020 ",1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,Wind
+Sabin Center ,Illinois, DeKalb ,2018-01-01,2018,Local Restrictions," Susan Stephens, DeKalb County Approves Tough Wind Ordinance, NORTHERN PUBLIC RADIO, Nov. 22, 2018, ",1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Illinois, Ford ,2017-01-01,2017,Local Restrictions," Kari Lydersen, How a County Election in Rural Illinois Became a Referendum on Wind Energy, ENERGY NEWS NETWORK, Nov. 5, 2018, ",1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Illinois, Lee ,2021-01-01,2021,Local Restrictions," Rachel Rodgers, Lee County again extends moratorium on wind, solar projects, SAUK VALLEY NEWS, Aug. 31, 2022, ",1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Illinois, Monroe ,2021-01-01,2021,Local Restrictions," County of Monroe, Illinois, Ordinance No. 2021-01 (January 19, 2021), ",1,0,1,0,0,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Illinois, Piatt ,2020-01-01,2020,Local Restrictions," Staff, County moratorium on wind farm applications extended, PIATT COUNTY JOURNAL-REPUBLICAN, Aug. 19, 2020, ",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+NREL,Illinois,Adams,2021-01-01,2021,Local Restrictions,Adams County Code Ord. § 5-7-3(b),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Adams,2021-01-01,2021,Local Restrictions,Adams County Code Ord. § 5-7-3(c),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Carroll,2021-01-01,2021,Local Restrictions,Carroll County Code § 725.1(e),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Carroll,2021-01-01,2021,Local Restrictions,Carroll County Code § 725.1(f),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Champaign,2021-01-01,2021,Local Restrictions,Champaign County Zoning Ord. 6.1.5(D),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Christian,2021-01-01,2021,Local Restrictions,Christian County Ord. 02017-ZN-012,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Clinton,2021-01-01,2021,Local Restrictions,Clinton County Code § 40-5-23(D),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Clinton,2021-01-01,2021,Local Restrictions,Clinton County Code § 40-5-23(D),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,DeKalb,2021-01-01,2021,Local Restrictions,DeKalb County Ord. 2018-06,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,DeWitt,2021-01-01,2021,Local Restrictions,DeWitt County Code § 157.08(A),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,DeWitt,2021-01-01,2021,Local Restrictions,Dewitt County Code § 157.08(A),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Fayette,2021-01-01,2021,Local Restrictions,Fayette County Ord. 2018-06-12-B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Grundy,2021-01-01,2021,Local Restrictions,Grundy County Code § 8-2-5-30(E),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Grundy,2021-01-01,2021,Local Restrictions,Grundy County Code § 8-2-5-30(E),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Hamilton,2021-01-01,2021,Local Restrictions,"Hamilton County Ord, 01-2021(C)(9)",0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Hamilton,2021-01-01,2021,Local Restrictions,"Hamilton County Ord, 01-2021(F)(1)(f)",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Henry,2021-01-01,2021,Local Restrictions,Henry County Zoning Ord. § 3.07(C),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Henry,2021-01-01,2021,Local Restrictions,Henry County Zoning Ord. § 3.07(C),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Iroquois,2021-01-01,2021,Local Restrictions,Iroquois County Solar Ord. § 2(A)(b)(5),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Iroquois,2021-01-01,2021,Local Restrictions,Iroquois County Solar Ord. § 2(A)(b)(5),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Jersey,2021-01-01,2021,Local Restrictions,Jersey County Ord. 01-19 § 3,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Kankakee,2021-01-01,2021,Local Restrictions,Kankakee County Code § 121-99(b)(34),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Kankakee,2021-01-01,2021,Local Restrictions,Kankakee County Code § 121-99(b)(34),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Knox,2021-01-01,2021,Local Restrictions,Knox County Solar Ord.,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Knox,2021-01-01,2021,Local Restrictions,Knox County Solar Ord.,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Lake,2021-01-01,2021,Local Restrictions,Lake County Code § 151.112(vv),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Livingston,2021-01-01,2021,Local Restrictions,Livingston County Code § 56-646(e),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Livingston,2021-01-01,2021,Local Restrictions,Livingston County Code § 56-646(f),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Logan,2021-01-01,2021,Local Restrictions,Logan County Solar Zoning Ord.,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Logan,2021-01-01,2021,Local Restrictions,Logan County Solar Zoning Ord.,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Macon,2021-01-01,2021,Local Restrictions,Macon County Code § 155.185(4),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Macon,2021-01-01,2021,Local Restrictions,Macon County Code § 155.185(5),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,McHenry,2021-01-01,2021,Local Restrictions,McHenry County Zoning Ord. § 14.3.PP,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,McLean,2021-01-01,2021,Local Restrictions,McLean County Code § 350-43(OO)(3)(a),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Menard,2021-01-01,2021,Local Restrictions,Menard County Solar Ord. § 5.01,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Mercer,2021-01-01,2021,Local Restrictions,Mercer County Zoning Ord. § 20.6.02,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Monroe,2021-01-01,2021,Local Restrictions,Monroe County Ord. 18-05 § 2(E),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Monroe,2021-01-01,2021,Local Restrictions,Monroe County Ord. 18-05 § 2(M),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Montgomery,2021-01-01,2021,Local Restrictions,Montgomery County Ord. 3-12-19 § F(2)(f),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Moultrie,2021-01-01,2021,Local Restrictions,Moultrie County Zoning Ord. § 5.3(31)(A)(5),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Moultrie,2021-01-01,2021,Local Restrictions,Moultrie County Zoning Ord. § 5.3(31)(A)(6),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Illinois,n/a,2023-01-01,2023,Local Restrictions,"Jeff Helfrich, Legislation protecting local enterprise zone area signed into law, ROCHELLE NEWS-LEADER, June 20, 2023, ",0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+NREL,Illinois,Peoria,2021-01-01,2021,Local Restrictions,Peoria County Code § 7.17.3(1)(c),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Piatt,2021-01-01,2021,Local Restrictions,Piatt County Zoning Ord. Art. X(2)(a),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Putnam,2021-01-01,2021,Local Restrictions,Putnam County Zoning Ord. § 14.11(C),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Putnam,2021-01-01,2021,Local Restrictions,Putnam County Zoning Ord. § 3.12,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Randolph,2021-01-01,2021,Local Restrictions,Randolph County Ord. 18-06 § 7(6),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Sangamon,2021-01-01,2021,Local Restrictions,Sangamon County Code § 17.37.030(C),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Sangamon,2021-01-01,2021,Local Restrictions,Sangamon County Code § 17.37.030(C),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,St. Clair,2021-01-01,2021,Local Restrictions,St. Clair County Code § 40-5-30(C)(3),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,St. Clair,2021-01-01,2021,Local Restrictions,St. Clair County Code § 40-5-30(C)(3),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Stark,2021-01-01,2021,Local Restrictions,Stark County Zoning Ord. § 35.01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Stark,2021-01-01,2021,Local Restrictions,Stark County Zoning Ord. § 36.03,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Stephenson,2021-01-01,2021,Local Restrictions,Stephenson County Code § 400-23.3(A)(1),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Tazewell,2021-01-01,2021,Local Restrictions,Tazewell County Code § 156.06(B)(6),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Illinois,Tazewell ,2022-01-01,2022,Local Restrictions," Nina McFarlane, Future wind energy farms in Tazewell County?, CIPROUD.COM, July 27, 2022, ",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+NREL,Illinois,Whiteside,2021-01-01,2021,Local Restrictions,Whiteside County Code § 39-268(e)(2)(h),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Will,2021-01-01,2021,Local Restrictions,Will County Code § 155-9.245,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Will,2021-01-01,2021,Local Restrictions,Will County Code § 155-9.245,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Winnebago,2021-01-01,2021,Local Restrictions,Winnebago County Code § 15.3.28(A),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Woodford,2021-01-01,2021,Local Restrictions,Woodford County Ord. § 154.30.3(C),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Illinois,Woodford,2021-01-01,2021,Local Restrictions,Woodford County Ord. § 154.30.3(C),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Indiana, Allen ,2019-01-01,2019,Local Restrictions," ALLEN COUNTY, IND., ZONING ORDINANCE, art. 5, ch. 6 (rev. Sept. 6, 2019), ",0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Indiana, Boone ,2009-01-01,2009,Local Restrictions," Gus Pearcy, Wind Farms in Boone County Are Not Likely, BATESVILLE HERALD-TRIBUTE, Oct. 4, 2019, ",0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,Wind
+Sabin Center ,Indiana, Clinton ,2019-01-01,2019,Local Restrictions," Emilie Syberg, Clinton County commissioners keep wind farm moratorium in place, WBAA, Sept. 16, 2019, ",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Indiana, Delaware ,2022-01-01,2022,Local Restrictions," David Penticuff, Solar farms unplugged for a year in Delaware County as commissioners order moratorium, MUNCIE STAR PRESS, Feb. 22, 2022, ",1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Indiana, Fulton ,2018-01-01,2018,Local Restrictions," FULTON COUNTY, IN., ZONING ORDINANCE § 5-1.4 WE-03(A) (rev. Oct. 2018), ",0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,Wind
+Sabin Center ,Indiana, Hamilton ,2022-01-01,2022,Local Restrictions," HAMILTON COUNTY, IND., UNIFIED DEVELOPMENT ORDINANCE, arts. 7(7)(B)(ii), 7(7)(B)(ix)(b), 8(6), and (8)(11)(H)(i) (2022), ",1,1,0,0,1,1,1,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Indiana, Henry ,2019-01-01,2019,Local Restrictions," Darrel Radford, Wind turbine foes hope bill dies in House, TIMES-MAIL, April 7, 2019, ",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Indiana, Howard ,2015-01-01,2015,Local Restrictions," HOWARD COUNTY, IND., ORDINANCE NO. 2014-BCCO-41 (Jan. 5, 2015), ",1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Indiana, Jasper ,2019-01-01,2019,Local Restrictions," Nick Fiala, Jasper County Commissioners Approve Wind Amendments, KANKAKEE VALLEY POST NEWS, May 6, 2019, ",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Indiana, Kosciusko ,2019-01-01,2019,Local Restrictions," KOSCUISKO COUNTY, IND., ZONING ORDINANCE TABLE A, § 3.29.3(B)(2)(a) (rev. Jan. 18, 2022), ",1,1,1,0,1,1,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Indiana, Lake ,2016-01-01,2016,Local Restrictions," LAKE COUNTY, INDIANA, §§ 154.043 (Solar Energy Systems), 154.044 (Solar Farms), 154.186 (Schedule of Uses), ",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Indiana, Marshall ,2013-01-01,2013,Local Restrictions," MARSHALL COUNTY, IND., ZONING ORDINANCE § 240(A)(4) (rev. Sept. 7, 2022), ",0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,Wind
+Sabin Center ,Indiana, Miami ,2018-01-01,2018,Local Restrictions," Cody Neuenschwander, Miami County Plan Commission Approves Stricter Setbacks for Wind Turbines, KOKOMO TRIBUNE, Apr. 12, 2018, ",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Indiana, Montgomery ,2019-01-01,2019,Local Restrictions," MONTGOMERY COUNTY, IND., CODE § 159, Article 6 (2019), ",1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Indiana, Noble ,2013-01-01,2013,Local Restrictions,"NOBLE COUNTY UNIFIED DEVELOPMENT ORDINANCE, art. 3.05(I)(3) (rev. Sept. 2019), ",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Indiana, Posey ,2021-01-01,2021,Local Restrictions," Tri-State Editor, Posey County Commission approves wind turbine restriction, TRISTATE HOMEPAGE, Jan. 5, 2021, ",0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Indiana, Pulaski ,2018-01-01,2018,Local Restrictions," PULASKI COUNTY, IND., UNIFIED DEVELOPMENT ORDINANCE § 7.1(d)(2) (Apr. 8, 2022), ",0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,Wind
+Sabin Center ,Indiana, Rush ,2022-01-01,2022,Local Restrictions," Rush County, Ind., Zoning Ordinance §§ 6.3.7(a), (c), 6.3.8(b), (c) (2022), ",1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Indiana, Spencer ,2023-01-01,2023,Local Restrictions," Julie Smith-Frazer, Spencer County places one-year pause on commercial (utility) solar, DUBOIS COUNTY HERALD, May 24, 2023, ",0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Indiana, Tippecanoe ,2019-01-01,2019,Local Restrictions," Associated Press, Wind Turbine Height Limit Set For Rural Areas Near Lafayette, WFYI, May 7, 2019, ",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Indiana, Tipton ,2016-01-01,2016,Local Restrictions," Carson Gerber, Howard, Tipton County Ordinances Keeping Wind Farms at Bay, KOKOMO TRIBUNE, July 17, 2016, ",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Indiana, Vermillion ,2021-01-01,2021,Local Restrictions," Vermillion County, Ind., Ordinance No. 2021-13 § 1.3 (Sept. 28, 2021), ",1,0,1,0,0,0,1,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Indiana, Wabash ,2017-01-01,2017,Local Restrictions," WABASH COUNTY, IND., ORDINANCE NO. 2017-85-9 §§ 6.24 I(I), 6.24 I(J), 6.24 R(G), http://gov.wabash.in.datapitstop.us/DATA/REPORTS/FLD00003/00007961.PDF; Wabash Plain Dealer, Wabash County Revises Wind Farm Regulation Relating to ‘Shadow Flicker’, INDIANA ECONOMIC DIGEST, Dec. 22, 2017, ",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Indiana, Wayne ,2016-01-01,2016,Local Restrictions," WAYNE COUNTY, IND., ZONING ORDINANCE § 54.76(D) (2019), ",0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Indiana, Wells ,2022-01-01,2022,Local Restrictions," WELLS COUNTY, IND., ZONING ORDINANCE, art. 9-15, 18 (Nov. 9, 2022), ",0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Indiana, Whitley ,2016-01-01,2016,Local Restrictions," WHITLEY COUNTY, IND., ZONING ORDINANCE, ch. 5 WECS-02(E)(2), ",1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+NREL,Indiana,Blackford,2021-01-01,2021,Local Restrictions,Blackford County Zoning Ordinance Art 11 Sec 1105,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Blackford,2021-01-01,2021,Local Restrictions,Blackford County Zoning Ordinance Art 11 Sec 1105,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Clinton,2022-01-01,2022,Local Restrictions,Clinton County Ord. §406.02,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Clinton,2022-01-01,2022,Local Restrictions,Clinton County Ord. §406.02,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Clinton,2022-01-01,2022,Local Restrictions,Clinton County Ord. §406.02,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Dearborne,2021-01-01,2021,Local Restrictions,Dearborne County Ordinance Art. 19,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Dearborne,2021-01-01,2021,Local Restrictions,Dearborne County Ordinance Art. 19,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Decatur,2021-01-01,2021,Local Restrictions,Decatur Zoning Ordinance Art 20 Solar Facilities,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,DeKalb,2021-01-01,2021,Local Restrictions,DeKalb County Ordinance § 3.13,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,DeKalb,2021-01-01,2021,Local Restrictions,DeKalb County Ordinance § 3.13,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,DeKalb,2021-01-01,2021,Local Restrictions,DeKalb County Ordinance § 3.13,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Delaware,#N/A,#N/A,Local Restrictions,Delware County Code of Ordinances,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Delaware,#N/A,#N/A,Local Restrictions,Delware County Code of Ordinances,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Delaware,#N/A,#N/A,Local Restrictions,Delware County Code of Ordinances,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Franklin,2020-01-01,2020,Local Restrictions,Franklin County Code of Ordinances § 80.06.06,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Franklin,2020-01-01,2020,Local Restrictions,Franklin County Code of Ordinances § 80.06.06,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Franklin,2020-01-01,2020,Local Restrictions,Franklin County Code of Ordinances § 80.06.06,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Franklin,2020-01-01,2020,Local Restrictions,Franklin County Code of Ordinances § 80.06.06,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Franklin,2020-01-01,2020,Local Restrictions,Franklin County Code of Ordinances § 80.06.06,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Gibson,2021-01-01,2021,Local Restrictions,Gibson County Ordinance # 2021-03 Solar Energy,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Gibson,2021-01-01,2021,Local Restrictions,Gibson County Ordinance # 2021-03 Solar Energy,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Howard,2016-01-01,2016,Local Restrictions,Howard County Zoning Ordinance,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Howard,2016-01-01,2016,Local Restrictions,Howard County Zoning Ordinance,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Jay,#N/A,#N/A,Local Restrictions,Jay County Zoning Ordinance,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Jay,#N/A,#N/A,Local Restrictions,Jay County Zoning Ordinance,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Jay,#N/A,#N/A,Local Restrictions,Jay County Zoning Ordinance,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Johnson,#N/A,#N/A,Local Restrictions,Johnson County Zoning Ordinance Sec. 6-101-6 (K),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Johnson,#N/A,#N/A,Local Restrictions,Johnson County Zoning Ordinance Sec. 6-101-6 (K),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Johnson,#N/A,#N/A,Local Restrictions,Johnson County Zoning Ordinance Sec. 6-101-6 (K),0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Koscuisko,#N/A,#N/A,Local Restrictions,Koscuisko County Zoning Ordinance,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Koscuisko,#N/A,#N/A,Local Restrictions,Koscuisko County Zoning Ordinance,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Koscuisko,#N/A,#N/A,Local Restrictions,Koscuisko County Zoning Ordinance,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Madison,#N/A,#N/A,Local Restrictions,Madison County Planning,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Marshall,2023-01-01,2023,Local Restrictions,Marshall County Zoning Ordinance,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Marshall,2023-01-01,2023,Local Restrictions,Marshall County Zoning Ordinance,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Miami,#N/A,#N/A,Local Restrictions,Miami County Ordinance # 12-20-2021,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Monroe,#N/A,#N/A,Local Restrictions,Monroe County Zoning Ordinance,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Monroe,#N/A,#N/A,Local Restrictions,Monroe County Zoning Ordinance,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Montgomery,#N/A,#N/A,Local Restrictions,Montgomery County section 13 solar farms and facilities,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Montgomery,#N/A,#N/A,Local Restrictions,Montgomery County section 13 solar farms and facilities,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Noble,#N/A,#N/A,Local Restrictions,Noble County Zoning Ordinance,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Noble,#N/A,#N/A,Local Restrictions,Noble County Zoning Ordinance,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Noble,#N/A,#N/A,Local Restrictions,Noble County Zoning Ordinance,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Noble,#N/A,#N/A,Local Restrictions,Noble County Zoning Ordinance,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Porter,#N/A,#N/A,Local Restrictions,Porter County Zoning Ordinance,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Posey,#N/A,#N/A,Local Restrictions,Posey County Zoning § 153.126.03,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Posey,#N/A,#N/A,Local Restrictions,Posey County Zoning § 153.126.03,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Posey,#N/A,#N/A,Local Restrictions,Posey County Zoning § 153.126.03,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Rush,#N/A,#N/A,Local Restrictions,Rush County Zoning Ordinance Amendment 6.4,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Saint Joseph,#N/A,#N/A,Local Restrictions,Saint Joseph County Zoning Ordinance § 154.515,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Starke,2022-01-01,2022,Local Restrictions,Starke County Ordinance # 6-19-1: Commercial Solar Enegry Systems,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Starke,2022-01-01,2022,Local Restrictions,Starke County Ordinance # 6-19-1: Commercial Solar Enegry Systems,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Starke,2022-01-01,2022,Local Restrictions,Starke County Ordinance # 6-19-1: Commercial Solar Enegry Systems,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Vermillion,2022-01-01,2022,Local Restrictions,Vermillion Sounty COmmercial Solar Energy Ordinance,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Vermillion,2022-01-01,2022,Local Restrictions,Vermillion Sounty COmmercial Solar Energy Ordinance,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Vermillion,2022-01-01,2022,Local Restrictions,Vermillion Sounty COmmercial Solar Energy Ordinance,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Vermillion,2022-01-01,2022,Local Restrictions,Vermillion Sounty COmmercial Solar Energy Ordinance,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Warren,2020-01-01,2020,Local Restrictions,Warren County Ordinance # 2020-1116,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Warren,2020-01-01,2020,Local Restrictions,Warren County Ordinance # 2020-1116,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Warren,2020-01-01,2020,Local Restrictions,Warren County Ordinance # 2020-1116,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,Warren,2020-01-01,2020,Local Restrictions,Warren County Ordinance # 2020-1116,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,White,#N/A,#N/A,Local Restrictions,White County Zoning Ordinance 7.15,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,White,#N/A,#N/A,Local Restrictions,White County Zoning Ordinance 7.15,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,White,#N/A,#N/A,Local Restrictions,White County Zoning Ordinance 7.15,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Indiana,White,#N/A,#N/A,Local Restrictions,White County Zoning Ordinance 7.15,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Iowa, Adair ,2019-01-01,2019,Local Restrictions," Karen Uhlenhuth, In Iowa, Conservative Group Looks to Counter Local Wind & Solar Opposition, ENERGY NEWS, June 17, 2020, ",0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Iowa, Butler ,2022-01-01,2022,Local Restrictions," Butler County, Iowa, Ordinance Title VI Number 28 (November 1, 2022), ",1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Iowa, Cerro Gordo ,2023-01-01,2023,Local Restrictions," Robin McClelland, Cerro Gordo county approves renewable energy moratorium, GLOBE GAZETTE, May 16, 2023, ",0,1,0,0,0,1,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Iowa, Dallas ,2022-01-01,2022,Local Restrictions," DALLAS COUNTY, IOWA, CODE OF ORDINANCES § 45.39 (last updated Dec. 27, 2022), ",1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Iowa, Greene ,2022-01-01,2022,Local Restrictions," Coltrane Carlson, Greene County Supervisors Approve Solar Farm Temporary Moratorium, RACCON VALLEY RADIO, Mar. 8, 2022, ",1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Iowa, Grundy ,2021-01-01,2021,Local Restrictions," Roger Riley, Wind Moratorium: Another Iowa County Halts New Wind Projects, WHO13, May 13, 2021, ",1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Iowa, Hardin ,2019-01-01,2019,Local Restrictions," Karen Uhlenhuth, In Iowa, Conservative Group Looks to Counter Local Wind & Solar Opposition, ENERGY NEWS, June 17, 2020, ",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Iowa, Johnson ,2021-01-01,2021,Local Restrictions," Johnson County Board, Moratorium on Utility-Scale Solar Energy Systems Greater Than 10 MW (AC) Is In Effect Until June 5, 2022, JOHNSON COUNTY, Dec. 22, 2021, ",0,1,0,1,0,1,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Iowa, Linn ,2022-01-01,2022,Local Restrictions," Marissa Payne, Linn County won’t take new utility-scale solar applications through June, THE GAZETTE, Mar. 29, 2023, ",0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Iowa, Madison ,2019-01-01,2019,Local Restrictions," Karen Uhlenhuth, In Iowa, Conservative Group Looks to Counter Local Wind & Solar Opposition, ENERGY NEWS, June 17, 2020, ",1,1,1,0,0,0,0,0,0,0,1,0,1,1,1,Wind & Solar
+Sabin Center ,Iowa, Montgomery ,2022-01-01,2022,Local Restrictions," Tom Robinson, Montgomery County Board of Supervisors Pass Wind Turbine Moratorium, WESTERN IOWA TODAY, July 5, 2022, ",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Iowa, Page ,2022-01-01,2022,Local Restrictions," Ryan Matheny, Page County Board agrees on setback, height requirement changes in wind ordinance, KMALAND, Apr. 20, 2023, ",0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Iowa, Palo Alto ,2022-01-01,2022,Local Restrictions," Palo Alto County Approves Wind Energy Ordinance Revision, KICD, June 23, 2022, ",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Iowa, Sioux ,2022-01-01,2022,Local Restrictions," Sioux County, Iowa, Resolution No. 48 (Sept. 6, 2022), ",0,1,0,0,0,1,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Iowa, Union ,2023-01-01,2023,Local Restrictions,#N/A,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Iowa, Woodbury ,2022-01-01,2022,Local Restrictions," WOODBURY COUNTY, IOWA, ORDINANCE NO. 67 (Aug. 23, 2022), ",1,0,0,0,0,1,1,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Iowa, Worth ,2021-01-01,2021,Local Restrictions," Worth County passes commercial (utility) wind moratorium, ALBERT LEA TRIBUNE, April 13, 2021, ",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+NREL,Iowa,Adair,2022-01-01,2022,Local Restrictions,Adair County Ord. 38 § 2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Iowa,Adair,2021-01-01,2021,Local Restrictions,Adair County Ord. 38 § 4,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Iowa,Buchanan,2021-01-01,2021,Local Restrictions,Buchanan County Zoning Ord. § (VII)(Y)(4),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Iowa,Buchanan,2021-01-01,2021,Local Restrictions,Buchanan County Zoning Ord. § (VII)(Y)(4),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Iowa,Mills,2021-01-01,2021,Local Restrictions,Mills County Zoning Ord. § 27.12.3(c),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Iowa,Mills,2021-01-01,2021,Local Restrictions,Mills County Zoning Ord. § 27.12.3(c),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Iowa,Mills,2021-01-01,2021,Local Restrictions,Mills County Zoning Ord. § 27.12.3(c),0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Iowa,Monona,2021-01-01,2021,Local Restrictions,Monona County Zoning Ord § 100.36.7,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Iowa,Pottawattamie ,2009-01-01,2009,Local Restrictions," COUNCIL BLUFFS, IOWA, Municipal Code 15.03.685 (Wind Energy Conversion System) (2009), ",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+NREL,Iowa,Story,2021-01-01,2021,Local Restrictions,Story County Code Ords. § 90.08.8,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Iowa,Story,2021-01-01,2021,Local Restrictions,Story County Code Ords. § 90.08.8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Iowa,Union,2021-01-01,2021,Local Restrictions,Union County Ord. 74 § 2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Iowa,Union,2021-01-01,2021,Local Restrictions,Union County Ord. 74 § 2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Iowa,Winneshiek,2021-01-01,2021,Local Restrictions,Winneshiek County Code § 714.5,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Iowa,Winneshiek,2021-01-01,2021,Local Restrictions,Winneshiek County Code § 714.5,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Kansas, Barton ,2023-01-01,2023,Local Restrictions," Barton County, Kansas, Resolution 2023-12 (Temporary Moratorium on commercial (utility) Solar Energy Project Development) (May 10, 2023), ",0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Kansas, Brown ,2022-01-01,2022,Local Restrictions," Adam Clay, County puts Wind Energy Moratorium in place, HIAWATHA WORLD, July 6, 2022, ",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Kansas, Cherokee ,2021-01-01,2021,Local Restrictions," Sarah Spicer & Kevin Hardy, ‘Ready to go to war’: Wind power grows in Kansas and Missouri. Why do some oppose it?, KANSAS CITY STAR, Oct. 20, 2021, ",1,1,1,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Kansas, Douglas ,2013-01-01,2013,Local Restrictions," Kansas Wind Energy Information Network, Proposed Kansas Wind Projects, http://www.kansasenergy.org/KS_wind_projects_case.htm (last visited Dec. 21, 2020); Douglas County, Kansas, Resolution No. 22-16 (May 4, 2022), ",0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Kansas, Franklin ,2023-01-01,2023,Local Restrictions,#N/A,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Kansas, Johnson ,2022-01-01,2022,Local Restrictions," Roxie Hammill, Johnson County just approved looser regulations for solar farms. Here’s what they’ll allow, KCUR, June 7, 2022, ",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Kansas, Kearny ,2009-01-01,2009,Local Restrictions," Kearny County, Kan., Zoning Regulations § 19-305 (2009), ",1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Kansas, Labette ,2022-01-01,2022,Local Restrictions," Ray Nolting, County will not sign road agreements with industrial wind turbine developers, PARSONS SUN, March 14, 2022, ",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Kansas, Leavenworth ,2022-01-01,2022,Local Restrictions," Leavenworth County, Kansas, Resolution 2022-16 (Aug. 3, 2022), ",1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Kansas, Linn ,2020-01-01,2020,Local Restrictions,#N/A,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Kansas, Osage ,2022-01-01,2022,Local Restrictions," Sarah Motter, Osage Co. wind farm, alternate energy development plans halted, 13 WIBW, Oct. 26, 2022, ",0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Kansas, Pratt ,2012-01-01,2012,Local Restrictions," PRATT COUNTY, KAN., ZONING REGULATIONS A-12 (2012), ",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+NREL,Kansas,Finney,#N/A,#N/A,Local Restrictions,Finney County Zoning Ordinance,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Kansas,Finney,#N/A,#N/A,Local Restrictions,Finney County Zoning Ordinance,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Kansas,Franklin,#N/A,#N/A,Local Restrictions,Franklin County Zoning Regulations Sec. 3-3,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Kansas,Franklin,#N/A,#N/A,Local Restrictions,Franklin County Zoning Regulations Sec. 3-3,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Kansas,Harvey ,2023-01-01,2023,Local Restrictions," Harvey County, Kansas, Renewable Energy Ordinance (Nov. 14, 2023), ",0,1,0,0,0,1,0,0,0,0,0,0,1,1,1,Wind & Solar
+NREL,Kansas,Leavenworth,#N/A,#N/A,Local Restrictions,Leavenworth County Zoning Ordinance,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Kansas,Leavenworth,#N/A,#N/A,Local Restrictions,Leavenworth County Zoning Ordinance,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Kansas,McPherson ,2018-01-01,2018,Local Restrictions," County nixes wind turbines indefinitely, MCPHERSON SENTINEL, Nov. 6, 2018, ",0,1,0,0,0,1,0,0,0,0,0,0,1,1,1,Wind & Solar
+NREL,Kansas,Meade,#N/A,#N/A,Local Restrictions,Meade County Ordinance-2021-005,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Kansas,Meade,#N/A,#N/A,Local Restrictions,Meade County Ordinance-2021-005,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Kansas,Meade,#N/A,#N/A,Local Restrictions,Meade County Ordinance-2021-005,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Kansas,n/a,2020-01-01,2020,State Restrictions," State of Kansas Proclamation by the Governor, July 28, 2020, ",0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,Wind
+Sabin Center ,Kansas,Nemaha ,2019-01-01,2019,Local Restrictions," Greg Bebermeyer, County extends wind energy moratorium, MSC NEWS, Oct. 4, 2023, ",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Kansas,Reno ,2021-01-01,2021,Local Restrictions," John Green, Commission formally bans industrial wind in zoned areas of Reno County, THE HUTCHINSON NEWS, Dec. 14, 2021, ",0,1,0,0,0,1,0,0,0,0,1,0,1,0,0,Wind
+NREL,Kansas,Sedgwick,#N/A,#N/A,Local Restrictions,Sedgwick County Zoning,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Kansas,Sedgwick,#N/A,#N/A,Local Restrictions,Sedgwick County Zoning,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Kansas,Sedgwick ,2023-01-01,2023,Local Restrictions," WICHITA-SEDGWICK COUNTY, KAN., UNIFIED ZONING CODE § 3(D)(6)(pp), ",0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Kentucky,Boyle ,2019-01-01,2019,Local Restrictions," Boyle County, Kentucky, Joint Zoning Ordinance Sec. 4.3.5(D)(5), ",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Kentucky,Christian ,2022-01-01,2022,Local Restrictions," City of Hopkinsville, Kentucky, Ordinance No. 23-2022, ",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Kentucky,Henderson,2021-01-01,2021,Local Restrictions,Henderson County Zoning Ord. § 30.02,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Kentucky,Henderson,2021-01-01,2021,Local Restrictions,Henderson County Zoning Ord. § 30.02,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Kentucky,Kenton ,2019-01-01,2019,Local Restrictions," Villa Hills, Kentucky, Zoning Ordinance Section 9.30 (Solar Panels), ",0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,Solar
+Sabin Center ,Kentucky,Mason ,2022-01-01,2022,Local Restrictions," Mason Fiscal Court, Commonwealth of Kentucky, Ordinance No. 22-02, ",1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,Solar
+NREL,Kentucky,Meade,#N/A,#N/A,Local Restrictions,Meade County Zoning Regs. § 4.3.7.3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Kentucky,Meade,2021-01-01,2021,Local Restrictions,Meade County Zoning Regs. § 4.3.7.2.b,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Kentucky,Meade,2021-01-01,2021,Local Restrictions,Meade County Zoning Regs. § 4.3.7.3,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Kentucky,Meade,2021-01-01,2021,Local Restrictions,Meade County Zoning Regs. § 4.3.7.3(c),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Kentucky,Meade ,2021-01-01,2021,Local Restrictions," Meade County, Kentucky, Ordinance No. 2021-005, ",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Kentucky,n/a,2014-01-01,2014,State Restrictions," KY. REV. STAT. ANN. § 278.704(2) (2014), ",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+NREL,Kentucky,Simpson,2021-01-01,2021,Local Restrictions,Simpson County Zoning Regs. § 9.8,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Kentucky,Simpson,2021-01-01,2021,Local Restrictions,Simpson County Zoning Regs. § 9.8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Louisiana, Jefferson Davis Parish,2020-01-01,2020,Local Restrictions," JEFFERSON DAVIS PARISH, LA., CODE § 27-7.5 (Ordinance No. 2341, 1-13-20), ",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Louisiana, St. James Parish,2022-01-01,2022,Local Restrictions," Joshua Rosenberg, St. James Parish approves solar farm moratorium, THE LENS, Aug. 18, 2022, ",0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,Solar
+Sabin Center ,Louisiana, Washington Parish,2021-01-01,2021,Local Restrictions," Washington Parish Council, Louisiana, Resolution No. 21-1106 (Sept. 27, 2021), ",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Maine,Androscoggin ,2021-01-01,2021,Local Restrictions," Eriks Petesons, Mechanic Falls council adopts solar farm moratorium, THE SUN JOURNAL, Nov. 25, 2021, ",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Maine,Aroostook ,2015-01-01,2015,Local Restrictions," Anthony Brino, Fort Fairfield passes wind ordinance with one mile setback, BANGOR DAILY NEWS, Sept. 18, 2015, ",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Maine,Exec. Order No. 2 FY. 17/18,2018-01-01,2018,Local Restrictions," Maine Exec. Order No. 2 FY. 17/18 (Jan. 24, 2018); Maine Exec. Order No. 3 FY. 19/20 (Feb. 14, 2019), ",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Maine,Franklin ,2023-01-01,2023,Local Restrictions," Town of Weld, Maine, Ordinance Establishing an Emergency Moratorium on commercial (utility) Solar Energy Facilities (June 13, 2023), ",0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Maine,Hancock ,2021-01-01,2021,Local Restrictions," Bill Trotter, Ellsworth Halts New Solar Projects for 6 Months Due to Concerns About Overdevelopment, BANGOR DAILY NEWS, Oct. 27, 2021, ",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Maine,Kennebec ,2023-01-01,2023,Local Restrictions," Sukanya Mitra, With eye toward planned transmission project, Albion residents OK moratorium on utility lines, corridors, CENTRAL MAINE, Aug. 30, 2023 (updated Aug. 31, 2023), ",0,1,0,0,0,1,1,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Maine,Kennebec ,2021-01-01,2021,Local Restrictions," Keith Edwards, Augusta Approves Rules to Shield New Solar Projects from Public View, KENNEBEC JOURNAL, Oct. 24, 2021, ",0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Maine,Kennebec ,2023-01-01,2023,Local Restrictions," Kaitlyn Budion, Albion residents approve solar ordinance, Delta Ambulance fee, MORNING SENTINEL, Mar. 20, 2023, ",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Maine,Kennebec ,2020-01-01,2020,Local Restrictions," Evan Houk, Belgrade Extends Moratorium Again on Solar, Wind Farms and Other Developments, MORNING SENTINEL, Nov. 17, 2021, ",0,1,0,0,1,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Maine,Kennebec ,2016-01-01,2016,Local Restrictions," Madeline St. Amour, Rome Board gets more time to develop wind energy ordinance, CENTRAL MAINE, Sept. 6, 2016, ",0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Maine,ORWC,2021-01-01,2021,State Restrictions,"Bill L.D. 1619: In July 2021, Governor Janet Mills signed into law L.D. 1619, sponsored by Senator Mark Lawrence. With some exceptions, the law permanently banned the development of all offshore wind projects in Maine state waters but allowed the permitting of offshore wind in federal waters if the Governor’s Energy Office developed a planned research strategy for such projects by March 2023. The law also created the Offshore Wind Research Consortium ",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Wind
+Sabin Center ,Maine,Oxford ,2017-01-01,2017,Local Restrictions," Town of Dixfield, Maine, Wind Energy Facility Ordinance (November 7, 2017), ",1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,Wind
+Sabin Center ,Maine,Oxford ,2022-01-01,2022,Local Restrictions," Talia Clarke, Lovell Residents Vote to Temporarily Halt Large-scale Solar Project, WMTW, Jan. 26, 2022, ",0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,Solar
+Sabin Center ,Maine,Oxford ,2022-01-01,2022,Local Restrictions," Nicole Carter, Otisfield Adopts Solar Ordinance, Sun Journal, Feb. 1, 2023, Nicole Carter, ",0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Maine,Oxford ,2013-01-01,2013,Local Restrictions," Town of Woodstock, Maine, commercial (utility) Wind Energy Facility Ordinance (submitted on February 13, 2013), ",1,0,1,0,0,1,0,0,0,0,0,1,1,0,0,Wind
+Sabin Center ,Maine,Penobscot ,2023-01-01,2023,Local Restrictions," Donovan Lynch, City council unanimously passes six-month moratorium on large solar projects in Brewer, NEWS CENTER MAINE, Aug. 9, 2023, ",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Maine,Penobscot ,2022-01-01,2022,Local Restrictions," Kathleen O’Brien, Corinth approves 6-month solar moratorium, prohibits medical marijuana storefront, BANGOR DAILY NEWS, March 21, 2023, ",0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Maine,Penobscot ,2021-01-01,2021,Local Restrictions," DIXMONT, ME., WIND ENERGY FACILITY ORDINANCE § V(b)(1)(A) (Oct. 1, 2009), ",1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Maine,Penobscot ,2021-01-01,2021,Local Restrictions," Town of Glenburn, Maine, commercial (utility) Solar Facilities Moratorium Ordinance (April 1, 2021), ",0,1,0,0,0,1,0,0,0,0,1,0,0,1,0,Solar
+Sabin Center ,Maine,Somerset ,2023-01-01,2023,Local Restrictions," Jake Freudberg, Moscow residents approve ban on commercial (utility) solar farms, CENTRAL MAINE, Dec. 1, 2023, ",0,1,0,0,0,1,0,0,0,0,1,0,1,1,1,Wind & Solar
+Sabin Center ,Maine,Somerset ,2022-01-01,2022,Local Restrictions," Evan Houk, Smithfield voters approve solar moratorium, municipal budget at annual town meeting, CENTRAL MAINE, May 15, 2022, ",0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Maine,Waldo ,2023-01-01,2023,Local Restrictions," Jonathan Strieff, Palermo resident proposes intervener status in LS Power issue, TOWN LINE, Sept. 27, 2023, ",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Sabin Center ,Maine,Waldo ,2023-01-01,2023,Local Restrictions," Dylan Tusinski, Unity adopts moratorium on high-voltage power lines as it codifies opposition to power corridor, CENTRAL MAINE, Nov. 17, 2023, ",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Sabin Center ,Maine,Waldo ,2015-01-01,2015,Local Restrictions," Town of Freedom, Maine, Wind Turbine Ordinance (enacted November 17, 2015), ",1,0,1,1,1,0,0,0,0,0,0,1,1,0,0,Wind
+Sabin Center ,Maine,Waldo ,2021-01-01,2021,Local Restrictions,#N/A,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Maryland, Allegany ,2019-01-01,2019,Local Restrictions," ALLEGANY COUNTY, M.D, Code § 360-107 (2019), ",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Maryland, Anne Arundel ,2022-01-01,2022,Local Restrictions," Anne Arundel County, M.D., Solar and Wind Zoning Documents (Mar. 2022) at page 3, ",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Maryland, Carroll ,2023-01-01,2023,Local Restrictions," Sherry Greenfield, Carroll County commissioners postpone Thursday’s solar moratorium discussion, CARROLL COUNTY TIMES, Mar. 15, 2023, ",0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Maryland, Somerset ,2019-01-01,2019,Local Restrictions," Somerset County, M.D., Zoning Ordinance at 5-19 (Aug. 6, 2019), ",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Maryland, Worcester ,2015-01-01,2015,Local Restrictions," Worcester County, M.D., Code § ZS 1-344(C)(1)(c) (June 15, 2015), ",0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,Wind
+NREL,Maryland,Allegany,#N/A,#N/A,Local Restrictions,Allegany County Zoning sec. 360-109,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Maryland,Baltimore,#N/A,#N/A,Local Restrictions,BALTIMORE COUNTY ZONING REGULATIONS ARTICLE 4F - SOLAR FACILITIES,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Maryland,Baltimore,#N/A,#N/A,Local Restrictions,BALTIMORE COUNTY ZONING REGULATIONS ARTICLE 4F - SOLAR FACILITIES,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Maryland,Caroline,2017-01-01,2017,Local Restrictions,Caroline County Ordinance #2017-2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Maryland,Caroline,2017-01-01,2017,Local Restrictions,Caroline County Ordinance #2017-2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Maryland,Caroline,2017-01-01,2017,Local Restrictions,Caroline County Ordinance #2017-2,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Maryland,Cecil,#N/A,#N/A,Local Restrictions,Cecil County Zoning Code,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Maryland,Charles,#N/A,#N/A,Local Restrictions,Charles County Zoning Code Chapt. 297,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Maryland,Charles,#N/A,#N/A,Local Restrictions,Charles County Zoning Code Chapt. 297,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Maryland,Dorchester,#N/A,#N/A,Local Restrictions,Dorchester County Zoning Ch. 155,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Maryland,Dorchester,#N/A,#N/A,Local Restrictions,Dorchester County Zoning Ch. 155,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Maryland,Fredrick,2022-01-01,2022,Local Restrictions,Frederick County Zoning Code §1-19-6.100,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Maryland,Fredrick,2022-01-01,2022,Local Restrictions,Frederick County Zoning Code §1-19-6.100,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Maryland,Fredrick,2022-01-01,2022,Local Restrictions,Frederick County Zoning Code §1-19-6.100,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Maryland,Howard,2014-01-01,2014,Local Restrictions,Howard County Code Sec. 131,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Maryland,Howard,2014-01-01,2014,Local Restrictions,Howard County Code Sec. 131,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Maryland,Howard,2014-01-01,2014,Local Restrictions,Howard County Code Sec. 131,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Maryland,Queen Annes,#N/A,#N/A,Local Restrictions,Queen Anne’s County Cod § 18:1-15,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Maryland,Somerset,#N/A,#N/A,Local Restrictions,Somerset County Zoning Ordinance,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Maryland,Somerset,#N/A,#N/A,Local Restrictions,Somerset County Zoning Ordinance,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Maryland,Worcester,#N/A,#N/A,Local Restrictions,Worcester County Code,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Massachusets,Franklin ,2008-01-01,2008,Local Restrictions," John F. Weaver, Developer challenges Masschusetts town on solar zoning restrictions, PV MAG., Aug. 9, 2023, ",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,Solar
+Sabin Center ,Massachusets,Hampshire ,2023-01-01,2023,Local Restrictions," Town of Pelham, Massachusetts, Annual Town Meeting Results (Articles 28-30 ) (May 13, 2023), ",1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,Solar
+Sabin Center ,Massachusets,Middlesex ,2022-01-01,2022,Local Restrictions," Colin A. Young, State’s High Court Rules Waltham’s Restrictions on Solar Power Are ‘Impermissible’, METROWEST DAILY NEWS, June 6, 2022, ",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,Solar
+Sabin Center ,Massachusets,Worcester ,2019-01-01,2019,Local Restrictions," Debbie LaPlaca, Charlton town meeting voters close door to new solar farms, WORCESTER TELEGRAM, June 12, 2019, ",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Michigan, Clinton ,2023-01-01,2023,Local Restrictions," Clinton County, Michigan, Ordinance No. OR 187-23 (May 30, 2030), ",0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Michigan, Emmet ,2021-01-01,2021,Local Restrictions," Emmet County, Michigan, Zoning Ordinance (2021), ",0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Michigan, Huron ,2015-01-01,2015,Local Restrictions," Huron County, Michigan, Wind Energy Conversion Facility Overlay Zoning Ordinance (Nov. 10, 2015), ",0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Michigan, Mason ,#N/A,#N/A,Local Restrictions," Mason County, Michigan, Zoning Ordinance, ",1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Michigan, Shiawassee ,2018-01-01,2018,Local Restrictions," Shiawassee County, Michigan, Specific Use Regulations for Wind Energy Conversion Systems (June 14, 2018), ",1,0,1,0,1,1,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Michigan,Baraga ,2021-01-01,2021,Local Restrictions," L’Anse Township, Michigan, Ordinance No. 2021-06-09 (June 9, 2021), ",1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Michigan,Bay ,2018-01-01,2018,Local Restrictions,"Isis Simpson-Mersha, DTE says township ordinance makes wind farm project ‘impossible’, M LIVE MICHIGAN, May 16, 2018, ",1,0,1,0,1,1,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Michigan,Bay ,2022-01-01,2022,Local Restrictions," Garfield Township, Michigan, 2022-1 Solar Ordinance, ",1,0,0,0,1,1,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Michigan,Bay ,2019-01-01,2019,Local Restrictions," Heather Jordan, Wind Farms Restricted Under New Monitor Township Zoning Ordinance, M LIVE MICHIGAN, Mar. 28, 2019, ",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Michigan,Branch ,2020-01-01,2020,Local Restrictions," Jim Measel, Batavia Becomes Latest Township to Limit Wind Turbines, WTVB, Sept. 3, 2020, ",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Michigan,Branch ,2020-01-01,2020,Local Restrictions," Don Reid, Matteson Passes Wind Turbine Control Law, THE DAILY REPORTER, Mar. 6, 2020, ",1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Michigan,Branch ,2019-01-01,2019,Local Restrictions," Ken Delaney, Group Wins Victory in Slowing Down Turbines, WTVB, Dec. 6, 2019, ",1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+NREL,Michigan,Clinton,#N/A,#N/A,Local Restrictions,4.48 Solar farms,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Michigan,Clinton,#N/A,#N/A,Local Restrictions,4.48 Solar farms,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Michigan,Clinton,#N/A,#N/A,Local Restrictions,4.48 Solar farms,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Michigan,Clinton ,2020-01-01,2020,Local Restrictions," Eric Levine, Watertown continues to study solar ordinance, SANILAC COUNTY NEWS, Mar. 24, 2021, ",1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,Solar
+NREL,Michigan,Eaton,#N/A,#N/A,Local Restrictions,SECTION 14.39 SOLAR ENERGY SYSTEM,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Michigan,Eaton,#N/A,#N/A,Local Restrictions,SECTION 14.39 SOLAR ENERGY SYSTEM,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Michigan,Genesee ,2022-01-01,2022,Local Restrictions," Charter Township of Flushing, Mich., Board of Trustees Minutes, Dec. 8, 2022, ",0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,Solar
+Sabin Center ,Michigan,Genesee ,#N/A,#N/A,Local Restrictions," Montrose Township, Mich., Zoning Ordinance §§ 104-5(7), 104-15(f)(10), ",0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Michigan,Genesee ,2022-01-01,2022,Local Restrictions," Jeanne Marcello, Montrose Twp. sets six-month solar and wind moratorium, TRI-COUNTY CITIZEN, Apr. 23, 2022, ",1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Michigan,Genesee ,2022-01-01,2022,Local Restrictions," Montrose Charter Township, Michigan, commercial (utility) Solar Ordinance (Final), ",1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+NREL,Michigan,Gladwind,#N/A,#N/A,Local Restrictions,SECTION 7.26 ALTERNATIVE ENERGY FARMS,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Michigan,Gladwind,#N/A,#N/A,Local Restrictions,SECTION 7.26 ALTERNATIVE ENERGY FARMS,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Michigan,Houghton ,2021-01-01,2021,Local Restrictions," Garrett Neese, Hitting pause: Adams Township adopts a six-month wind, solar moratorium, THE DAILY MINING GAZETTE, Aug. 20, 2021, ",0,1,0,0,0,1,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Michigan,Houghton ,2021-01-01,2021,Local Restrictions," Stanton Township, Michigan, Ordinance No. 8 (Aug. 4, 2021), ",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Michigan,Huron ,2016-01-01,2016,Local Restrictions," Brenda Battel, Sand Beach official: New sound ordinance doesn’t block turbines, MICHIGAN’S THUMB, Oct. 18, 2016, ",0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Michigan,Ingham ,2022-01-01,2022,Local Restrictions," LEROY TOWNSHIP, MICH., ZONING ORDINANCE § 433(H)(3) (May 8, 2022), ",0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Michigan,Ingham ,2022-01-01,2022,Local Restrictions," Mike Ellis, Apex Proposed a Sprawling Wind Farm in Ingham County in 2020. Here’s Where the Project Stands, YAHOO FINANCE, Nov. 4, 2022, ",0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Michigan,Lapeer ,2019-01-01,2019,Local Restrictions," Arcadia Township, Michigan, Article XI (General Provisions), ",1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Michigan,Lapeer ,2018-01-01,2018,Local Restrictions," Andrew Dietderich, Burnside officials clamp down on wind turbines, THE COUNTY PRESS, Feb. 28, 2018, ",1,0,1,0,1,0,0,0,0,0,1,0,1,0,0,Wind
+Sabin Center ,Michigan,Leelanau ,2016-01-01,2016,Local Restrictions," Tuscola Today Editor, Elmwood township enacts one year moratorium on wind turbines, TUSCOLA TODAY, Mar. 9, 2016, ",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Michigan,Lenawee ,2011-01-01,2011,Local Restrictions," Dan Cherry, Ogden township board passes 6-month moratorium on wind turbines, DAILY TELEGRAM, Mar. 15, 2011, ",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Michigan,Lenawee ,2023-01-01,2023,Local Restrictions," Mary Lowe, Palmyra Township voters support zoning amendment restricting most utility-scale solar, Daily Telegram, May 3, 2023, ",1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,Solar
+Sabin Center ,Michigan,Lenawee ,#N/A,#N/A,Local Restrictions," Riga Township, Michigan, Ordinance No. 32, ",1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Michigan,Livingston ,2021-01-01,2021,Local Restrictions," Livingston County Department of Planning, Memorandum re: Amendments to the Zoning Ordinance 27.01 (Aug. 8, 2023), ",0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Michigan,Livingston ,2023-01-01,2023,Local Restrictions," Conway Township, Michigan, Ordinance No. 2023-01 (Apr. 18, 2023), ",0,1,0,0,0,1,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Michigan,Livingston ,2023-01-01,2023,Local Restrictions," Patricia Alvord, Genoa Township imposes six-month moratorium on commercial (utility) solar projects, LIVINGSTON DAILY, Mar. 23, 2023, ",0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Michigan,Livingston ,2023-01-01,2023,Local Restrictions," Patricia Alvord, Iosco Township Board imposes 6-month moratorium for green energy ordinance, LIVINGSTON DAILY, Feb. 17, 2023, ",0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Michigan,Livingstone ,2023-01-01,2023,Local Restrictions," Patricia Alvord, Tyrone Township votes to enact six-month moratorium for solar projects, LIVINGSTON DAILY, Apr. 9, 2023, ",0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Michigan,Marquette ,2022-01-01,2022,Local Restrictions," Sands Township, Michigan, Zoning Ordinance (last amended Nov. 15, 2022), ",1,0,1,0,1,1,1,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Michigan,Monroe ,2023-01-01,2023,Local Restrictions," Frenchtown Township, Mich., Zoning Ordinance § 4.38(D) (as amended May 23, 2023), ",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Michigan,Monroe ,2021-01-01,2021,Local Restrictions," Blake Bacho, Bedford board balks at solar field proposal, MONROE NEWS, Sept. 13, 2021, ",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Michigan,Monroe ,2020-01-01,2020,Local Restrictions," Berlin Charter Township, Mich., Code of Ordinances § 18-173(d)(1) (as amended Feb. 10, 2020), ",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Michigan,Monroe ,2022-01-01,2022,Local Restrictions," Paul Wohlfarth, Misinformation Leads to Solar Ordinance Pushback in Michigan, DEMCAST, Oct. 13, 2022, ",1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Michigan,Monroe ,2023-01-01,2023,Local Restrictions," Public Notices 2-21-23, DUNDEE INDEPENDENT, ",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Michigan,Monroe ,2022-01-01,2022,Local Restrictions," Monroe Charter Township, Mich., Ordinance No. 145(D)(2) (Apr. 19, 2022), ",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Michigan,Monroe ,2018-01-01,2018,Local Restrictions," Summerfield Township, Mich., Zoning Ordinance § 15.36(2) (as amended Oct. 22, 2018), ",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Michigan,Montcalm ,2023-01-01,2023,Local Restrictions," Douglass Township, Michigan, Ordinance No. 2023-04 (Aug. 2, 2023), ",1,0,1,0,1,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Michigan,Montcalm ,2023-01-01,2023,Local Restrictions," Winfield Township, Michigan, Ordinance No. 11-9-23-3 (Nov. 9, 2023), ",1,0,1,0,1,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Michigan,Montcalm ,2021-01-01,2021,Local Restrictions," Elisabeth Waldon, Maple Valley Township Board rescinds controversial wind ordinance, DAILY NEWS, Mar. 10, 2021, ",1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Michigan,Montcalm ,2021-01-01,2021,Local Restrictions," PIERSON TOWNSHIP, MICH., ORDINANCE TO AMEND ZONING ORDINANCE TO PROVIDE FOR PUBLIC UTILITY FACILITIES AND WIND ENERGY CONVERSION SYSTEMS, Ordinance Nos. 2020-01 (as amended by Ordinance No. 2021-01 of June 2021) §§ 5.05(b)(1), (h)(1), (h)(13), (h)(30), ",1,0,1,0,1,1,1,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Michigan,Montcalm ,2021-01-01,2021,Local Restrictions," Joseph Bernstein, “Corrosive Communities”: How A Facebook Fight Over Wind Power Predicts the Future of Local Politics in America, BUZZFEED NEWS, Dec. 17, 2021, ",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Michigan,Muskegon ,2019-01-01,2019,Local Restrictions," CASNOVIA TOWNSHIP, MICH., ZONING ORDINANCE §§ 3.24(a)(1), (g)(1), (g)(13), (g)(30) (2022), ",1,0,1,0,1,1,1,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Michigan,Muskegon ,2023-01-01,2023,Local Restrictions," Lynn Moore, Solar power developer sues township for failing to consider large project in West Michigan, M LIVE MICHIGAN, Mar. 2, 2023, ",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Michigan,Oceana ,2019-01-01,2019,Local Restrictions," Claybanks Township, Michigan, Zoning Ordinance (Aug. 2019), ",1,0,1,0,1,0,1,0,0,0,1,0,1,1,1,Wind & Solar
+NREL,Michigan,Ogemaw,#N/A,#N/A,Local Restrictions,FF. Solar Energy Farms,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Michigan,Ogemaw,#N/A,#N/A,Local Restrictions,FF. Solar Energy Farms,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Michigan,Presque Isle,2018-01-01,2018,Local Restrictions,Presque Isle Ordinance 2018-02,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Michigan,Sanilac ,2016-01-01,2016,Local Restrictions," Beth LeBlanc, Sanilac townships put a stay on wind projects, THE TIMES HERALD, Mar. 13, 2016, ",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Michigan,Sanilac ,2016-01-01,2016,Local Restrictions," Beth LeBlanc, Sanilac townships put a stay on wind projects, DETROIT FREE PRESS, March 13, 2016, ",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Michigan,Sanilac ,2019-01-01,2019,Local Restrictions," SANILAC TOWNSHIP, MICH., Wind Ordinance § 6.50(e), (g)(1), (g)(4), (g)(9) (June 13, 2019), ",1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Michigan,Shiawassee ,2021-01-01,2021,Local Restrictions," Sergio Montanez, Mid-Michigan township enacts moratorium on solar development, leaders to form planning and zoning commission, MLIVE, July 8, 2021, ",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Michigan,St. Clair ,2023-01-01,2023,Local Restrictions," Jackie Smith and Patricia Alvord, Whitmer wants to make Michigan a clean energy haven. But rural communities are pushing back, PORT HURON TIMES HERALD, June 4, 2023, ",0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Michigan,Tuscola ,2020-01-01,2020,Local Restrictions," ALMER CHARTER TOWNSHIP, MICH., ORDINANCE 2020-03, as codified at ZONING ORDINANCE § 1522(A)(1), (F)(1), (F)(12), (F)(24) (Feb. 2022), ",1,0,1,0,1,1,1,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Michigan,Tuscola ,2016-01-01,2016,Local Restrictions,#N/A,1,1,1,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Michigan,Tuscola ,2016-01-01,2016,Local Restrictions," Andrew Dietdrich, Ellington township board enacts four-month moratorium on wind turbines, TUSCOLA TODAY, Aug. 10, 2016, http://www.tuscolatoday.com/index.php/2016/04/06/ellington-township-board-enacts-4-month-moratorium-on-wind-turbines/; ELLINGTON TOWNSHIP, MICH., ZONING ORDINANCE § 5.02(M)(7) (July 2021), ",1,1,1,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Michigan,Tuscola ,2019-01-01,2019,Local Restrictions," Juniata Township, Michigan, Ordinance No. 15-2019 (Sept. 14, 2019), ",1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Michigan,Tuscola ,2018-01-01,2018,Local Restrictions," Novesta Township, Michigan, Ordinance No. 2018, ",1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Michigan,Tuscola ,2021-01-01,2021,Local Restrictions," Vassar Township, Michigan, Ordinance No. 100 (May 6, 2021), ",1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Michigan,Van Buren ,2023-01-01,2023,Local Restrictions," David Horak, Solar project sues Decatur Township after zoning vote, WOOD TV, Aug. 22, 2023, ",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Michigan,Washtenaw ,2022-01-01,2022,Local Restrictions," Charter Township of Augusta, Mich., Resolution No. 22-08 (Mar. 22, 2022), ",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Michigan,Washtenaw ,2022-01-01,2022,Local Restrictions," Manchester Township, Mich., Regular Board Meeting Minutes, June 14, 2022, ",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Minnesota, Wright ,2021-01-01,2021,Local Restrictions," Matt McKinney, Solar vs. scenery: Scandia solar panels show a tense debate, STAR TRIBUNE, Mar. 19, 2022, ",0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,Solar
+NREL,Minnesota,Blue Earth,2021-01-01,2021,Local Restrictions,Blue Earth County Zoning Ord. § 24-334(c)(13),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Minnesota,Blue Earth,2021-01-01,2021,Local Restrictions,Blue Earth County Zoning Ord. § 24-334(b)(1),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Minnesota,Carlton,2021-01-01,2021,Local Restrictions,Carlton County Renewable Energy Ord. 32 § 3(b)(2)(D),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Minnesota,Carver,2021-01-01,2021,Local Restrictions,Carver County Zoning Ord. § 152.057(C)(2),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Minnesota,Cass,2021-01-01,2021,Local Restrictions,Cass County Land Use Ord. 2020-02 § 1109.4,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Minnesota,Chisago,2021-01-01,2021,Local Restrictions,Chisago Land Use Ord. § 7.31(F),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Minnesota,Clay,2018-01-01,2018,Local Restrictions,Clay County Renewable Energy Ord. 2018-02 § 10.1.1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Minnesota,Clay,2018-01-01,2018,Local Restrictions,Clay County Renewable Energy Ord. 2018-02 § 10.1.1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Minnesota,Clearwater,2021-01-01,2021,Local Restrictions,Clearwater County Renewable Energy Ord. § 5.30,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Minnesota,Cottonwood,2021-01-01,2021,Local Restrictions,Cottonwood County Renewable Energy Ord. § 25.6B,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Minnesota,Hennepin ,2020-01-01,2020,Local Restrictions," Elizabeth Hustad, Minnetrista Finalizes Solar Rules, Lifts Moratorium, LAKER PIONEER, May 21, 2021, ",0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,Solar
+NREL,Minnesota,Jackson,2021-01-01,2021,Local Restrictions,Jackson County Dev. Code § 735.41,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Minnesota,Lyon,2021-01-01,2021,Local Restrictions,Lyon County Zoning Ord. § 21.6,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Minnesota,Mower,2021-01-01,2021,Local Restrictions,Mower County Zoning Ord. § 14-18.7,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Minnesota,Murray,2021-01-01,2021,Local Restrictions,Murray County Renewable Energy Ord. § 901.2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Minnesota,n/a,1982-01-01,1982,State Restrictions,#N/A,0,0,0,1,0,0,1,0,0,0,0,0,1,1,1,Wind & Solar
+NREL,Minnesota,Otter Tail,2021-01-01,2021,Local Restrictions,Otter Tail County Renewable Energy Ord. § 5.1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Minnesota,Pine,2021-01-01,2021,Local Restrictions,Pine County Zoning Ord. § 4.9.1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Minnesota,Pipestone,2018-01-01,2018,Local Restrictions,Pipestone County Zoning Ord. § 5-11(D),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Minnesota,Polk,2018-01-01,2018,Local Restrictions,Polk County Zoning Ord. § 23.7400,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Minnesota,Pope,2018-01-01,2018,Local Restrictions,Pope County Land Use Controls Ord. § 10.12(C),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Minnesota,Pope,2018-01-01,2018,Local Restrictions,Pope County Land Use Controls Ord. § 10.12(C),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Minnesota,Renville,2018-01-01,2018,Local Restrictions,Renville County Renewable Energy Regs. § 2.3.1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Minnesota,Sibley,2018-01-01,2018,Local Restrictions,Sibley County Zoning Ord. § 300.14.21.8.2.,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Minnesota,Sibley,2018-01-01,2018,Local Restrictions,Sibley County Zoning Ord. § 300.14.21.8.2.,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Minnesota,Stearns,2018-01-01,2018,Local Restrictions,Stearns County Zoning Ord. § 6.54.1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Minnesota,Stevens,2018-01-01,2018,Local Restrictions,Stevens County Zoning Ord. § 14(P),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Minnesota,Wadena,2018-01-01,2018,Local Restrictions,Wadena County Zoning Ord. § 19(B)(4),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Minnesota,Washington ,2022-01-01,2022,Local Restrictions," Kyle Weaver, City enacts second solar farm moratorium, COUNTRY MESSENGER, Apr. 15, 2022 ",1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,Solar
+NREL,Minnesota,Watonwan,2018-01-01,2018,Local Restrictions,Watonwan County Solar Ord. § 5(A)(1),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Minnesota,Wright,2018-01-01,2018,Local Restrictions,Wright County Amendment Ord. 21-1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Missouri,Lafayette,2018-01-01,2018,Local Restrictions,Lafayette Land Dev. Code § 5.15.3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Missouri,Lafayette,2018-01-01,2018,Local Restrictions,Lafayette Land Dev. Code § 5.15.3,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Missouri,Warren,2018-01-01,2018,Local Restrictions,Warren County Dev. Code Appdx D. § 4(A)(2),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,MISSOURI , Buchanan ,2020-01-01,2020,Local Restrictions," Clayton Anderson, County commissioners ban commercial (utility) wind energy, ST. JOSEPH NEWS-PRESS, Mar. 12, 2020, ",0,0,1,0,0,1,0,0,0,0,1,0,1,0,0,Wind
+Sabin Center ,MISSOURI , Clinton ,2016-01-01,2016,Local Restrictions," Brett Adkison, Commissioners approve wind energy moratorium, THE CLINTON COUNTY LEADER, Feb. 4, 2016, ",0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,MISSOURI , Monroe ,2019-01-01,2019,Local Restrictions," Terri Maddox, Covid-19 slows work on Monroe County wind farm ordinance, BELLEVILLE NEWS-DEMOCRAT, Aug. 30, 2020 ",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,MISSOURI ,Boone ,2021-01-01,2021,Local Restrictions," Cameron Gerber, Boone County Commission enacts new wind power regulations, THE MISSOURI TIMES, Nov. 5, 2021, ",0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,MISSOURI ,Callaway ,2022-01-01,2022,Local Restrictions," John Fitzgerald Weaver, Missouri town declares solar farm a nuisance, PV MAGAZINE, Apr. 27, 2022, ",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Nebraska,Cass,2018-01-01,2018,Local Restrictions,Cass County Zoning Regs. § 8.21.05,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Nebraska,Cass,2018-01-01,2018,Local Restrictions,Cass County Zoning Regs. § 8.21.05,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Nebraska,Cuming,2018-01-01,2018,Local Restrictions,Cuming County Zoning Regs. § 8.23.05,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Nebraska,Cuming,2018-01-01,2018,Local Restrictions,Cuming County Zoning Regs. § 8.23.05,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Nebraska,Dawson,2018-01-01,2018,Local Restrictions,Dawson County Zoning Regs. § 6.09.05,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Nebraska,Dawson,#N/A,#N/A,Local Restrictions,Dawson County Zoning Regs. § 6.09.05,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Nebraska,Fillmore,#N/A,#N/A,Local Restrictions,Fillmore County Zoning Regs. § 9.24.06,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Nebraska,Fillmore,#N/A,#N/A,Local Restrictions,Fillmore County Zoning Regs. § 9.24.06,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Nebraska,Hamilton,#N/A,#N/A,Local Restrictions,Hamilton County Zoning Regs. § 8.09.06,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Nebraska,Hamilton,#N/A,#N/A,Local Restrictions,Hamilton County Zoning Regs. § 8.09.06,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Nebraska,Kearney,#N/A,#N/A,Local Restrictions,Kearney County Zoning Regs. § 7.42.12,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Nebraska,Kearney,#N/A,#N/A,Local Restrictions,Kearney County Zoning Regs. § 7.42.12,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Nebraska,Kimball,#N/A,#N/A,Local Restrictions,Kimball County Zoning Regs. § 20.04.4,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Nebraska,Madison,2018-01-01,2018,Local Restrictions,Madison County Zoning Regs. § 603(C),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Nebraska,Madison,2018-01-01,2018,Local Restrictions,Madison County Zoning Regs. § 603(C),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Nebraska,Madison,2018-01-01,2018,Local Restrictions,Madison County Zoning Regs. § 603(C),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Nebraska,Pierce,2018-01-01,2018,Local Restrictions,Pierce County Zoning Regs. § 6.04.01,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Nebraska,Pierce,2018-01-01,2018,Local Restrictions,Pierce County Zoning Regs. § 6.04.01,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Nebraska,Saunders,2018-01-01,2018,Local Restrictions,Saunders County Zoning Regs. § 9.14.05,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Nebraska,Saunders,2018-01-01,2018,Local Restrictions,Saunders County Zoning Regs. § 9.14.05,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Nebraska , Adams ,2018-01-01,2018,Local Restrictions," ADAMS COUNTY, NEB., Resolution No. 2018-10-02.01 § 8.04.06(4) (Oct. 2, 2018), ",1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Nebraska , Brown ,2020-01-01,2020,Local Restrictions," BROWN COUNTY, NEB., ZONING REGULATIONS § 6.56 (May 2020), ",1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Nebraska , Buffalo ,2023-01-01,2023,Local Restrictions," Michael Shively, Buffalo County sets new distancing requirements for possible wind farms, NEWS CHANNEL NEBRASKA CENTRAL, Mar. 22, 2023, ",1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Nebraska , Burt ,2020-01-01,2020,Local Restrictions," BURT COUNTY, NEB., ZONING REGULATIONS 6.03(D)(3), ",1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Nebraska , Cedar ,2022-01-01,2022,Local Restrictions," CEDAR COUNTY, NEBRASKA, ZONING ORDINANCE (commercial (utility)/Utility Grade Wind Energy Conversion Systems) (updated June 2022), ",1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Nebraska , Dakota ,2021-01-01,2021,Local Restrictions," DAKOTA COUNTY, NEB., RESOLUTION 21C-024 § 900.2.205 (July 26, 2021), ",1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Nebraska , Dawson ,2022-01-01,2022,Local Restrictions," Dawson County Board of Commissioners Approve Setbacks and Regulations for Wind Energy, KRVN NEWS, May 15, 2023, ",1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Nebraska , Hamilton ,2019-01-01,2019,Local Restrictions," Hamilton County, Neb., Zoning Resolution § 8.08.06 (2019), ",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Nebraska , Holt ,2022-01-01,2022,Local Restrictions," HOLT COUNTY, NEBRASKA, ZONING ORDIANNCE ART. 5 (amended Nov. 16, 2022), ",1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Nebraska , Jefferson ,2022-01-01,2022,Local Restrictions," Scott Koperski, Jefferson County residents fearful of potential wind farm, DAILY SUN, April 1, 2022, ",1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Nebraska , Kearney ,2016-01-01,2016,Local Restrictions," KEARNEY COUNTY, NEB., ZONING REGULATIONS § 7.42(12), ",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Nebraska , Lancaster ,2015-01-01,2015,Local Restrictions," Board of County Commissioners of Lancaster County, Nebraska, Resolution No. R-15-0061, County Text Amendment No. 15009 (November 10, 2015), ",1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Nebraska , Madison ,2018-01-01,2018,Local Restrictions," Jerry Guenther, Madison County approves moratorium on wind farms, NORFOLK DAILY NEWS, Apr. 4, 2018, ",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Nebraska , Otoe ,2023-01-01,2023,Local Restrictions," OTOE COUNTY, NEBRASKA, ZONING ORDINANCE 8.08.05 (2022), ",1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Nebraska , Pierce ,2017-01-01,2017,Local Restrictions," Jerry Guenther, Wind energy gets some ‘blow back,’ NORFOLK DAILY NEWS, Nov. 21, 2017, ",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Nebraska , Red Willow ,2023-01-01,2023,Local Restrictions," Bruce Crosby, County Imposes Moratorium on Solar Plants, Seeks Research on Zoning, MCCOOK GAZETTE, Jan. 9, 2023, ",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Nebraska , Saline ,2018-01-01,2018,Local Restrictions," Saline County, Neb., Zoning Regulations §§ 619(E)(1)(e)(1), (4) (2018), ",1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Nebraska , Stanton ,2017-01-01,2017,Local Restrictions," Michael Shively, Stanton County Bars Wind Development, Sand Shill Express, Nov. 20, 2017, ",1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,Wind
+Sabin Center ,Nebraska , Thomas ,2019-01-01,2019,Local Restrictions," Thomas County, Neb., Zoning Regulations § 6.56 (Oct. 2019), ",1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Nebraska , Wheeler ,2020-01-01,2020,Local Restrictions," Wheeler County, Neb., Board Minutes (Oct. 28, 2020), ",1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Nebraska ,Butler ,2015-01-01,2015,Local Restrictions," Larry Peirce, Regulating wind turbines now a township issue, JOURNAL STAR, September 12, 2015, ",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Nebraska ,Butler ,2015-01-01,2015,Local Restrictions," Larry Peirce, Regulating wind turbines now a township issue, JOURNAL STAR, September 12, 2015, ",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Nebraska ,Butler ,2015-01-01,2015,Local Restrictions," Larry Peirce, Regulating wind turbines now a township issue, JOURNAL STAR, September 12, 2015, ",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Nebraska ,Butler ,2015-01-01,2015,Local Restrictions," Larry Peirce, Regulating wind turbines now a township issue, JOURNAL STAR, September 12, 2015, ",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Nebraska ,Butler ,2015-01-01,2015,Local Restrictions," Larry Peirce, Regulating wind turbines now a township issue, JOURNAL STAR, September 12, 2015, ",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Nebraska ,Butler ,2015-01-01,2015,Local Restrictions,#N/A,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Nebraska ,Gage ,2020-01-01,2020,Local Restrictions," Doug Kennedy, Gage County Approves Temporary Moratorium on New Wind Farm Applications, NEWS CHANNEL NEBRASKA, July 16, 2020, ",1,1,0,0,1,1,0,0,0,0,1,0,1,1,1,Wind & Solar
+Sabin Center ,Nebraska ,Lincoln ,2023-01-01,2023,Local Restrictions," Tristen Winder, Lincoln County places temporary moratorium on wind and solar energy, NBC NEBRASKA 2, March. 20, 2023, ",0,1,0,0,0,1,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Nebraska ,Sarpy ,2020-01-01,2020,Local Restrictions," CITY OF GRETNA, NEB., RESOLUTION NO. 7-20(1) (July 22, 2020), ",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Nevada,Lyon,2018-01-01,2018,Local Restrictions,15.336.09 Solar Generation,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Nevada,Lyon,2018-01-01,2018,Local Restrictions,15.336.09 Solar Generation,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Nevada,Lyon,2018-01-01,2018,Local Restrictions,15.336.09 Solar Generation,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,New Hampshire ,Grafton ,2018-01-01,2018,Local Restrictions," Town of Canaan, New Hampshire, Ordinance for Large Wind Energy Systems (March 13, 2018), ",1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+NREL,New Jersey,Cape May,2018-01-01,2018,Local Restrictions,Ordinance 421-09,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,New Jersey,Cape May,2018-01-01,2018,Local Restrictions,Ordinance 421-09,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,New Jersey ,Atlantic ,2023-01-01,2023,Local Restrictions," Nanette LoBiondo Galloway, Atlantic County Commissioners approve offshore wind moratorium resolution, DOWN BEACH, Feb. 22, 2023, ",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,New Jersey ,Monmouth ,2023-01-01,2023,Local Restrictions," Sunayana Prabhu, Middletown Joins Others in Asking for Halt to Offshore Wind Projects, THE TWO RIVER TIMES, Mar. 20, 2023, ",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+NREL,New York,Orange,2016-01-01,2016,Local Restrictions,Goshen Local Law No. 4 (2016) § 2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,New York,Orange,2016-01-01,2016,Local Restrictions,Goshen Local Law No. 4 (2016) § 2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,New York,Steuben,2020-01-01,2020,Local Restrictions,Bath Town Code § 101-8,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,New York,Steuben,2020-01-01,2020,Local Restrictions,Bath Town Code § 101-8,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,New York,Steuben,2020-01-01,2020,Local Restrictions,Bath Town Code § 101-8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,New York,,2016-01-01,2016,Local Restrictions,Brookhaven Town Code § 85-813(b),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,New York,,2016-01-01,2016,Local Restrictions,Brookhaven Town Code § 85-813(b),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,New York,,2016-01-01,2016,Local Restrictions,Brookhaven Town Code § 85-813(b),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,New York,,2017-01-01,2017,Local Restrictions,Dryden Town Code § 270-13.12(F),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,New York,,#N/A,#N/A,Local Restrictions,Greece Town Code § 211-61,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,New York,,2015-01-01,2015,Local Restrictions,Johnstown Local Law 1-2015,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,New York,,2015-01-01,2015,Local Restrictions,Johnstown Local Law 1-2015,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,Solar
+NREL,New York,,2015-01-01,2015,Local Restrictions,Johnstown Local Law 1-2015,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,New York,,2017-01-01,2017,Local Restrictions,Lenox Town Code § 134-152.9,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,New York,,2017-01-01,2017,Local Restrictions,Lenox Town Code § 134-152.9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,New York,,2019-01-01,2019,Local Restrictions,Montgomery Local Law 6-2019,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,Solar
+NREL,New York,,2019-01-01,2019,Local Restrictions,Montgomery Local Law 6-2019,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,New York,,2019-01-01,2019,Local Restrictions,Mount Hope Code § 250-36(G),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,New York,,2019-01-01,2019,Local Restrictions,Mount Hope Code § 250-36(G),0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,Solar
+NREL,New York,,2019-01-01,2019,Local Restrictions,Mount Hope Code § 250-36(G),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,New York,,2019-01-01,2019,Local Restrictions,Mount Hope Code § 250-36(G),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,New York,,2018-01-01,2018,Local Restrictions,Riverhead Town Code § 301-282,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,New York,,2018-01-01,2018,Local Restrictions,Riverhead Town Code § 301-282,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,New York,,2018-01-01,2018,Local Restrictions,Riverhead Town Code § 301-282,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,Solar
+NREL,New York,,2018-01-01,2018,Local Restrictions,Riverhead Town Code § 301-282,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,New York,,#N/A,#N/A,Local Restrictions,Rochester Town Code § 140-37(I),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,New York,,#N/A,#N/A,Local Restrictions,Rochester Town Code § 140-37(I),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,New York , Chautauqua ,2019-01-01,2019,Local Restrictions," Memo re Wind Turbines and Human Health, from Chautauqua County Board of Health to Chautauqua County Municipal Offices (Dec. 9, 2019), ",0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,New York ,Albany ,2019-01-01,2019,Local Restrictions," In Westerlo’s ‘perfect storm,’ solar moratorium enacted, THE ALTAMONT ENTERPRISE, Aug. 8, 2019, ",0,1,0,0,0,1,0,0,0,0,1,0,1,1,1,Wind & Solar
+Sabin Center ,New York ,Broome ,2019-01-01,2019,Local Restrictions," Town of Sanford, New York, Resolution Adopting Local Law No. 2-2019 (August 13, 2019), ",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,New York ,Broome ,2021-01-01,2021,Local Restrictions," Vestal Town Board, New York, Meeting Minutes (Sept. 15, 2021), ",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,New York ,Cattaraugus ,2022-01-01,2022,Local Restrictions," Rick Miller, Cattaraugus County IDA votes six-month solar moratorium, OLEAN TIMES HERALD, May 25, 2022, ",0,1,0,0,0,0,1,0,0,0,0,1,1,1,1,Wind & Solar
+Sabin Center ,New York ,Cattaraugus ,2023-01-01,2023,Local Restrictions," Bob Clark, Olean issues one-year moratorium on large-scale solar projects, OLEAN TIMES HERALD, May 24, 2023, ",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,New York ,Cattaraugus ,2020-01-01,2020,Local Restrictions," Town of Farmersville, New York, Local Law Number _ of 2020 (“Wind Energy Facilities Local Law”), ",1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,New York ,Chautauqua ,2019-01-01,2019,Local Restrictions," TOWN OF PORTLAND, N.Y., LOCAL LAW 1 OF 2020, ",1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,New York ,Dutchess ,2019-01-01,2019,Local Restrictions," TOWN OF CLINTON, N.Y., CODE § 250-49.1(B), ",0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,New York ,Greene ,2019-01-01,2019,Local Restrictions,#N/A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,New York ,Hamilton ,2023-01-01,2023,Local Restrictions," Chloe Bennett, Town of Long Lake votes to pause battery energy storage project, ADRIONDACK EXPLORER, Aug. 31, 2023, ",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Sabin Center ,New York ,Jefferson ,2016-01-01,2016,Local Restrictions," Town of Clayton, New York, Resolution No. 47 of 2016 (April 27, 2016), ",1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,New York ,Jefferson ,2019-01-01,2019,Local Restrictions," Emily Griffin, Worth Residents Criticize Town Officials for Wind Law They Don’t Remember Passing, WWNY-TV, June 19, 2019, ",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,New York ,Montgomery ,2023-01-01,2023,Local Restrictions," Ashley Onyon, Florida Town Board adopts solar law update; turbine rules still being discussed, RECORDER, Nov. 27, 2023 (updated Nov. 28, 2023), ",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,New York ,Montgomery ,2022-01-01,2022,Local Restrictions,#N/A,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,New York ,Montgomery ,2021-01-01,2021,Local Restrictions," Ashley Onyon, Glen to renew six-month solar moratorium, THE DAILY GAZETTE, Jan, 28, 2022, ",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,New York ,Montgomery ,2022-01-01,2022,Local Restrictions," Sean Brynda, Rejected solar project would have meant big money for towns, school, WWNYTV, Aug. 15, 2022, ",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,New York ,n/a,2023-01-01,2023,State Restrictions,#N/A,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,New York ,Niagara ,2021-01-01,2021,Local Restrictions," Thomas J. Prohaska, Niagara County hopes new recycling law will discourage solar developers, THE BUFFALO NEWS, June 20, 2021, ",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,New York ,Niagara ,2023-01-01,2023,Local Restrictions," Town of Niagara, New York, Local Law No. 2-2023, ",0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,New York ,Niagara ,2023-01-01,2023,Local Restrictions," Benjamin Joe, Hartland solar law to be negotiated with developer, LOCKPORT UNION-SUN & JOURNAL, July 28, 2022, ",1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,Solar
+Sabin Center ,New York ,Niagara ,2021-01-01,2021,Local Restrictions," Benjamin Joe, Solar Projects on Hold Another Six Months in Town of Lockport, LOCKPORT JOURNAL, Feb. 1, 2022, ",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,New York ,Niagara ,2020-01-01,2020,Local Restrictions," Staff, Porter Approves Moratorium on Solar Energy, LEWISTON-PORTER SENTINEL, Jan. 23, 2020, ",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,New York ,Niagara ,2018-01-01,2018,Local Restrictions," Thomas J. Prohaska, Somerset passes tougher anti-wind turbine laws, THE BUFFALO NEWS, Jan. 30, 2018, ",1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,Wind
+Sabin Center ,New York ,Ontario ,2014-01-01,2014,Local Restrictions," SENECA, N.Y., CODE § 92 (as of May 3, 2018), ",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,New York ,Orange ,2022-01-01,2022,Local Restrictions," Town of Goshen, New York, Local Law No. 2 of 2022, ",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,New York ,Orleans ,2016-01-01,2016,Local Restrictions," Mallory Diefenbach, Yates approves Moratorium, THE DAILY NEWS, May 14, 2016, ",1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,New York ,Oswego ,2018-01-01,2018,Local Restrictions," Brandon Wood, Richland passes strict wind energy power ordinance, OSWEGO COUNTY NEWS NOW, Dec. 11, 2018, ",1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,New York ,Saratoga ,2021-01-01,2021,Local Restrictions," TOWN OF BALLSTON, N.Y., LOCAL LAW 3 of 2021 §§ 138-115.4(C)-(D), ",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,New York ,Saratoga ,2021-01-01,2021,Local Restrictions," Glenn Griffith, Town approves moratorium on solar projects, COMMUNITY NEWS, Jan. 15, 2021, ",0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,New York ,Schenectady ,2020-01-01,2020,Local Restrictions," Stephen Williams, Duanesburg adopts solar moratorium, THE DAILY GAZETTE, Jan. 10, 2020, ",0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,New York ,Schenectady ,2022-01-01,2022,Local Restrictions," Shenandoah Briere, Glenville approves two-year solar moratorium for its agricultural residential district, THE DAILY GAZETTE, Apr. 21, 2022, ",0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,New York ,Schenectady ,2022-01-01,2022,Local Restrictions," Chad Arnold, Rotterdam adopts 12-month moratorium on solar arrays, THE DAILY GAZETTE, Dec. 15, 2022, ",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,New York ,Schoharie ,2022-01-01,2022,Local Restrictions," Town of Middleburgh, New York, Zoning Law (amended May 12, 2022), ",0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,New York ,St. Lawrence ,2018-01-01,2018,Local Restrictions," Town of Hopkinton, New York, Wind Energy Facilities Law (Local Law 2018-2), ",1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,New York ,Suffolk ,2021-01-01,2021,Local Restrictions," Denise Civiletti, Residents, angered by proposed zoning code changes, again press Town Board for moratorium, RIVERHEAD LOCAL, Dec. 7, 2022, ",0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,New York ,Tomkins ,2016-01-01,2016,Local Restrictions," Jaime Cone, Newfield to Vote on Wind Moratorium, ITHACA, Apr. 11, 2016, ",1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,New York ,Tompkins ,2016-01-01,2016,Local Restrictions," Matter of Willow Glen Cemetery Ass’n v. Dryden Town Bd., 2017 NY Slip Op 32676(U), EF2017-0208 (Dec. 22, 2017), ",0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,New York ,Tompkins ,2017-01-01,2017,Local Restrictions," TOWN OF ENFIELD, N.Y., LOCAL LAW 1 of 2019, ",0,1,0,0,0,1,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,New York ,Tompkins ,2017-01-01,2017,Local Restrictions," Isabella Grullon Paz, Groton Town Passes Solar Moratorium, ITHACA.COM, July 23, 2017, ",0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Alamance,2020-01-01,2020,Local Restrictions,Alamance County Unified Dev. Ord. § 6.8.3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Alamance,2020-01-01,2020,Local Restrictions,Alamance County Unified Dev. Ord. § 6.8.3,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Alamance,2020-01-01,2020,Local Restrictions,Alamance County Unified Dev. Ord. § 6.8.3,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Alexander,2018-01-01,2018,Local Restrictions,Alexander County Zoning Ord. § 154.130.2(B),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Alexander,2018-01-01,2018,Local Restrictions,Alexander County Zoning Ord. § 154.130.2(B),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Anson,#N/A,#N/A,Local Restrictions,Anson County Solar Energy Ord.,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Beaufort,2018-01-01,2018,Local Restrictions,Beaufort County Code Ords. § 155.06,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Bladen,#N/A,#N/A,Local Restrictions,Bladen County Code Ords. § 13.4.2,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Brunswick,#N/A,#N/A,Local Restrictions,Brunswick County Code Ords. § 5.3(Q),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Brunswick,#N/A,#N/A,Local Restrictions,Brunswick County Code Ords. § 5.3(Q),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Caldwell,#N/A,#N/A,Local Restrictions,Caldwell County Code Ords. § 157.037,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Caldwell,#N/A,#N/A,Local Restrictions,Caldwell County Code Ords. § 157.037,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Camden,2019-01-01,2019,Local Restrictions,Camden County Unified Dev. Ord. § 4.4.5(D)(1),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Camden,2019-01-01,2019,Local Restrictions,Camden County Unified Dev. Ord. § 4.4.5(D)(1),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Camden,2019-01-01,2019,Local Restrictions,Camden County Unified Dev. Ord. § 4.4.5(D)(1),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Carteret,2017-01-01,2017,Local Restrictions,Carteret County Code Ords. § 13.5.6,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Carteret,2017-01-01,2017,Local Restrictions,Carteret County Code Ords. § 13.5.6,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Catawba,2021-01-01,2021,Local Restrictions,Catawba County Unified Dev. Ord. § 44-633,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Chatham,#N/A,#N/A,Local Restrictions,Chatham County Zoning Ord. § 17.6,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Chatham,#N/A,#N/A,Local Restrictions,Chatham County Zoning Ord. § 17.6,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Chowan,#N/A,#N/A,Local Restrictions,Chowan County Zoning Ord. § 8.108,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Chowan,#N/A,#N/A,Local Restrictions,Chowan County Zoning Ord. § 8.108,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Clay,2011-01-01,2011,Local Restrictions,Clay County Solar Farm Ord. § 6(C),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Cleveland,2019-01-01,2019,Local Restrictions,Cleveland County Unified Dev. Ord. § 12-160(e),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Columbus,2021-01-01,2021,Local Restrictions,Columbus County Zoning Ord. § 10-9-A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Craven,2021-01-01,2021,Local Restrictions,Craven County Code Ords. § 41-295,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Currituck,2019-01-01,2019,Local Restrictions,Currituck County Unified Dev. Code § 4.2.3(K),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Currituck,2019-01-01,2019,Local Restrictions,Currituck County Unified Dev. Code § 4.2.3(K),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Currituck,2019-01-01,2019,Local Restrictions,Currituck County Unified Dev. Code § 4.2.3(K),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Davie,#N/A,#N/A,Local Restrictions,Davie County Zoning Ord. § 155.130.29,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Davie,#N/A,#N/A,Local Restrictions,Davie County Zoning Ord. § 155.130.29,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Duplin,2015-01-01,2015,Local Restrictions,Duplin County Solar Energy Ord. § 4,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Edgecombe,2021-01-01,2021,Local Restrictions,Edgecombe County Unified Dev. Ord. § 4.3.97,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Edgecombe,2021-01-01,2021,Local Restrictions,Edgecombe County Unified Dev. Ord. § 4.3.97,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Gates,2021-01-01,2021,Local Restrictions,Gates County Code Ords. § 155.204(B)(18),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Gates,2021-01-01,2021,Local Restrictions,Gates County Code Ords. § 155.204(B)(18),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Granville,2009-01-01,2009,Local Restrictions,Granville County Land Dev. Code § 32-233,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Granville,2009-01-01,2009,Local Restrictions,Granville County Land Dev. Code § 32-233,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Greene,2015-01-01,2015,Local Restrictions,Greene County Solar Energy Ord. § 5,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Guilford,2020-01-01,2020,Local Restrictions,Guilford County Unified Dev. Ord. § 5.14(D),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Guilford,2020-01-01,2020,Local Restrictions,Guilford County Unified Dev. Ord. § 5.14(D),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Halifax,2019-01-01,2019,Local Restrictions,Halifax County Code Ords. § 46-50,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Halifax,2019-01-01,2019,Local Restrictions,Halifax County Code Ords. § 46-51,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Harnett,#N/A,#N/A,Local Restrictions,Harnett County Unified Dev. Ord. § 8.1.2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Harnett,#N/A,#N/A,Local Restrictions,Harnett County Unified Dev. Ord. § 8.1.2,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Henderson,#N/A,#N/A,Local Restrictions,Henderson County Code Ords. § 42-32.9.9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Henderson,#N/A,#N/A,Local Restrictions,Henderson County Code Ords. § 42-32.9.9,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Hertford,2021-01-01,2021,Local Restrictions,Hertford County Zoning Ord. § 5.02(C)(23),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Hertford,2021-01-01,2021,Local Restrictions,Hertford County Zoning Ord. § 5.02(C)(23),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Iredell,2020-01-01,2020,Local Restrictions,Iredell County Land Dev. Code § 3.1-R65,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Johnston,2015-01-01,2015,Local Restrictions,Johnston County Code Ords. § 14-123,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Johnston,2015-01-01,2015,Local Restrictions,Johnston County Code Ords. § 14-123,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Jones,2019-01-01,2019,Local Restrictions,Jones County Solar Energy Ord. § 5,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Lincoln,#N/A,#N/A,Local Restrictions,Lincoln County Unified Dev. Ord. § 4.3.7,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Lincoln,#N/A,#N/A,Local Restrictions,Lincoln County Unified Dev. Ord. § 4.3.7,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Madison,2021-01-01,2021,Local Restrictions,Madison County Land Use Ord. § 8.9.3,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Madison,2021-01-01,2021,Local Restrictions,Madison County Land Use Ord. § 8.9.3,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Montgomery,2021-01-01,2021,Local Restrictions,Montgomery County Code Ords. § 3.5(A),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Montgomery,2021-01-01,2021,Local Restrictions,Montgomery County Code Ords. § 3.5(A),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Moore,#N/A,#N/A,Local Restrictions,Moore County Unified Dev. Ord. § 8.99,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Nash,#N/A,#N/A,Local Restrictions,Nash County Code Ords. § 11-4.72(a),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Northampton,2016-01-01,2016,Local Restrictions,Northampton County Zoning Ord. § 2-1(A)(13),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Onslow,#N/A,#N/A,Local Restrictions,Onslow County Zoning Ord. § 9.12(K),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Onslow,#N/A,#N/A,Local Restrictions,Onslow County Zoning Ord. § 9.12(K),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Pamlico,2017-01-01,2017,Local Restrictions,Pamlico County Solar Farm Ord. § 5,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Pasquotank,2018-01-01,2018,Local Restrictions,Pasquotank County Zoning Ord. § 9.03-27,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Pasquotank,2018-01-01,2018,Local Restrictions,Pasquotank County Zoning Ord. § 9.03-27,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Pasquotank,2018-01-01,2018,Local Restrictions,Pasquotank County Zoning Ord. § 9.03-27,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Perquimans,#N/A,#N/A,Local Restrictions,Perquimans County Zoning Ord. § 9.11.29,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Perquimans,#N/A,#N/A,Local Restrictions,Perquimans County Zoning Ord. § 9.11.29,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Perquimans,#N/A,#N/A,Local Restrictions,Perquimans County Zoning Ord. § 9.11.29,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Person,2020-01-01,2020,Local Restrictions,Person County Solar Energy Ord. § 2.2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Person,2020-01-01,2020,Local Restrictions,Person County Solar Energy Ord. § 2.2,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Polk,2012-01-01,2012,Local Restrictions,Polk County Zoning Ord. § 6.2.10,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Polk,2012-01-01,2012,Local Restrictions,Polk County Zoning Ord. § 6.2.10,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Richmond,#N/A,#N/A,Local Restrictions,Richmond County Zoning Ord. § 6.10.14,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Richmond,#N/A,#N/A,Local Restrictions,Richmond County Zoning Ord. § 6.10.14,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Richmond,#N/A,#N/A,Local Restrictions,Richmond County Zoning Ord. § 6.10.14,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Rockingham,2017-01-01,2017,Local Restrictions,Rockingham County Zoning Ord. § 9.11(gg),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Rockingham,2017-01-01,2017,Local Restrictions,Rockingham County Zoning Ord. § 9.11(gg),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Rockingham,2017-01-01,2017,Local Restrictions,Rockingham County Zoning Ord. § 9.11(gg),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Rowan,#N/A,#N/A,Local Restrictions,Rowan County Zoning Ord. § 21-56(6)(c)(2),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Vance,2019-01-01,2019,Local Restrictions,Vance County Code Ords. § 156-089(O),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Vance,2019-01-01,2019,Local Restrictions,Vance County Code Ords. § 156-089(O),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Vance,2019-01-01,2019,Local Restrictions,Vance County Code Ords. § 156-089(O),0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Warren,#N/A,#N/A,Local Restrictions,Warren County Zoning Ord. § 1(H)25,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Warren,#N/A,#N/A,Local Restrictions,Warren County Zoning Ord. § 1(H)25,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Washington,2021-01-01,2021,Local Restrictions,Washington County Zoning Ord. § 13.9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Washington,2021-01-01,2021,Local Restrictions,Washington County Zoning Ord. § 13.10,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Wayne,2014-01-01,2014,Local Restrictions,Wayne County Solar Energy Ord. § 5,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Carolina,Yadkin,2021-01-01,2021,Local Restrictions,Yadkin County Zoning Ord. § 9.5,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,North Carolina , Iredell ,2022-01-01,2022,Local Restrictions," IREDELL COUNTY, N.C., CODE OF ORDINANCES § 3-R63 (last updated Mar. 7, 2022), ",0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,North Carolina , Rowan ,2019-01-01,2019,Local Restrictions," Ben Stansell, Planning board talks through new rules for solar farms, SALISBURY POST, Oct. 27, 2020, ",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,North Carolina ,Ashe ,#N/A,#N/A,Local Restrictions," ASHE COUNTY, N.C., CODE OF ORDINANCES § 163.21, ",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,North Carolina ,Brunswick ,2021-01-01,2021,Local Restrictions," Preston Lennon, Prospect of visible ocean wind farms unites Brunswick towns in opposition, PORT CITY DAILY, Aug. 3, 2021, ",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,North Carolina ,Carteret ,2014-01-01,2014,Local Restrictions," CARTERET COUNTY, N.C., CODE OF ORDINANCES Appx. F § 3.2 (last updated Feb. 10, 2014), ",1,0,1,0,1,1,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,North Carolina ,Craven ,2021-01-01,2021,Local Restrictions," CRAVEN COUNTY, N.C., CODE OF ORDINANCES §§ 41-268, 41-269 (last updated July 6, 2021), ",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,North Carolina ,Currituck ,2017-01-01,2017,Local Restrictions," Dee Langston, Currituck Ends Ban on New Solar Farms, OUTER BANKS VOICE, Jan. 31, 2019, ",0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,North Carolina ,Hertford ,2020-01-01,2020,Local Restrictions," Cal Bryant, Moratorium slows start-up of Hertford Co. solar farms, ROANOKE CHOWAN NEWS-HERALD, Oct. 6, 2020, ",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,North Carolina ,n/a,2017-01-01,2017,State Restrictions," NC Senate, HB 589, July 27, 2017, ",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,North Carolina ,Northampton ,2015-01-01,2015,Local Restrictions," Max Blau, How a North Carolina village came to believe that solar farms were “killing the town”, THE GUARDIAN, Dec. 21, 2015, ",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Dakota,Barnes,#N/A,#N/A,Local Restrictions,Barnes county development code7.1.3,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,North Dakota,Divide,#N/A,#N/A,Local Restrictions,7.13 Solar Energy Facilities,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,North Dakota , Grand Forks ,2023-01-01,2023,Local Restrictions," Joe Banish, Grand Forks County Commission keeps wind farm moratorium in place, GRAND FORKS HERALD, Aug. 15, 2023, ",1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,North Dakota , McLean ,2020-01-01,2020,Local Restrictions," Jeffrey Tomich, How a coal plant closure created wind bans and grid limbo, E&E NEWS REPORTER, July 24, 2020, ",1,1,0,0,0,0,0,0,0,0,1,0,1,1,1,Wind & Solar
+Sabin Center ,North Dakota , Mercer ,2020-01-01,2020,Local Restrictions," Amy R. Sisk, Mercer County to keep wind moratorium in place, THE BISMARK TRIBUNE, July 16, 2020, ",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,North Dakota , Stark ,2021-01-01,2021,Local Restrictions," Stark County, North Dakota, Board of Commissioners, Development Moratorium on Wind Energy (September 13, 2021); James Miller, Stark County development moratorium begins; Dickinson poised to expand zoning dominion by 2 miles, THE DICKISON PRESS, Sept. 13, 2021, ",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,North Dakota ,Catawba ,2022-01-01,2022,Local Restrictions," John Deem, ‘Bigger fights’: Opposition to solar farms growing in NC, WINSTON-SALEM JOURNAL, May 1, 2022, ",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,North Dakota ,Grand Forks ,#N/A,#N/A,Local Restrictions," Grand Forks, N.D., City Code § 18-0306(6), ",0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,North Dakota ,Northampton ,2015-01-01,2015,Local Restrictions," Max Blau, How a North Carolina village came to believe that solar farms were “killing the town”, THE GUARDIAN, Dec. 21, 2015, ",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,North Dakota ,Rowan ,2021-01-01,2021,Local Restrictions," David Whisenant, Rowan County Commissioners say no to massive solar farm in Gold Hill, WBTV, Nov. 16, 2021, ",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,North Dakota ,Yadkin ,2020-01-01,2020,Local Restrictions," Kitsey Burns Harrison, Conditional use permit denied for solar farm near Smithtown, YADKIN RIPPLE, Oct. 13, 2020, ",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Ohio , Allen ,2022-01-01,2022,Local Restrictions," Allen County, Ohio, Board of Commissioners Meeting Minutes at 3 (Apr. 4, 2022), ",0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Ohio , Auglaize ,2022-01-01,2022,Local Restrictions," AUGLAIZE COUNTY, OHIO, RESOLUTION NO. 22-208 (Apr. 26, 2022), ",0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Ohio , Brown ,2022-01-01,2022,Local Restrictions,#N/A,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Ohio , Butler ,2022-01-01,2022,Local Restrictions," Butler County, Ohio, Board of Commissioners Meeting Minutes at 3 (June 23, 2022), http://butlercountyoh.iqm2.com/Citizens/FileOpen.aspx?Type=15&ID=1747&Inline=True; see also Zuckerman, supra. ",0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Ohio , Crawford ,2022-01-01,2022,Local Restrictions," Jeffrey Tomich, Two Great Lakes Counties Reject Wind Development, E&E NEWS ENERGY WIRE, Nov. 14, 2022, ",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Wind
+Sabin Center ,Ohio , Fayette ,2023-01-01,2023,Local Restrictions," Fayette County, Ohio, Board of Commissioner Minutes (Jan. 17, 2023), ",0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Ohio , Hancock ,2022-01-01,2022,Local Restrictions," HANCOCK COUNTY, OHIO, RESOLUTION NO. 150-22 (Apr. 19, 2022), ",0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Ohio , Knox ,2022-01-01,2022,Local Restrictions," Cheryl Splain, Knox County commissioners say no to wind farms, okay solar on case-by-case basis, KNOX PAGES, Aug. 11, 2022, ",0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Ohio , Logan ,2022-01-01,2022,Local Restrictions," Logan County, Ohio, Minutes of the Board of Logan County Commissioners (Aug. 16, 2022), ",0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Ohio , Marion ,2022-01-01,2022,Local Restrictions," Andrew Carter, Marion County Commissioners approve wind energy restrictions for Grand Prairie Twp., MARION STAR, Mar. 19, 2023, ",0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Ohio , Medina ,2022-01-01,2022,Local Restrictions," MEDINA COUNTY, OHIO, RESOLUTION NO. 22-0077 (Jan. 25, 2022), ",0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Ohio , Ottawa ,2022-01-01,2022,Local Restrictions," Sheri Trusty, County Commissioners accept township decisions on large-scale solar, wind farms, THE BEACON, Jan. 11, 2023, ",0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Ohio , Seneca ,2021-01-01,2021,Local Restrictions," Commissioners approve resolution restricting future wind, solar energy projects in Seneca County, TiffinOhio.Net, Nov, 24 2021, ",0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Ohio ,Clermont ,2023-01-01,2023,Local Restrictions," Paula Christian, Clermont County bans large solar and wind farms in seven townships: ‘We like out county the way it is’, WCPO-TV, June 21, 2023, ",0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,Wind & Solar
+Sabin Center ,Ohio ,Columbiana ,2023-01-01,2023,Local Restrictions," Mary Ann Greier, Ban Ok’d on large solar, wind facilities in more Columbiana County townships, SALEM NEWS, Aug. 28, 2023, ",0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,Wind & Solar
+Sabin Center ,Ohio ,Erie ,2023-01-01,2023,Local Restrictions," Tom Jackson, Erie County votes to block new wind farms, big solar projects, SANDUSKY REGISTER, July 27, 2023, ",0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Ohio ,Greene ,2023-01-01,2023,Local Restrictions," London Bishop, Fifth Greene County township declared off-limits from large-scale solar/wind, sixth in the works, DAYTON DAILY NEWS, June 10, 2023, ",0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Ohio ,Madison ,2023-01-01,2023,Local Restrictions," Madison County, Ohio, Restricted Area Resolution (Sept. 12, 2023), ",0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Ohio ,Mahoning ,2023-01-01,2023,Local Restrictions," Ed Runyan, County: No solar, wind farms in Green, VINDICATOR, Nov. 10, 2023, ",0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,Wind & Solar
+Sabin Center ,Ohio ,n/a,2014-01-01,2014,State Restrictions," Ohio H.B. 483 (effective June 16, 2014), http://archives.legislature.state.oh.us/bills.cfm?ID=130_HB_483; Kathiann M. Kowalsi, Industry: Setback changes will end new wind farms in Ohio, ENERGY NEWS NETWORK, June 19, 2014, ",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Ohio ,n/a,2021-01-01,2021,State Restrictions,Ohio Senate Bill 52 of 2021 (“S.B. 52”): S.B. 52 ,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Ohio ,n/a,2022-01-01,2022,Local Restrictions," UNION COUNTY, OHIO, RESOLUTION NO. 22-217 (June 15, 2022), ",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Ohio ,Portage ,2023-01-01,2023,Local Restrictions," Wendy DiAlesandro, Three Portage County townships want to restrict or ban solar and wind farms, PORTAGER, June 9, 2023, ",0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Ohio ,Putnam ,2023-01-01,2023,Local Restrictions," Putnam County, Ohio, Board of Commissioners Meeting Minutes (Sept. 8, 2023), ",0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Ohio ,Wayne ,2023-01-01,2023,Local Restrictions," Bryce Buyakie, Commissioners vote to prohibit utility-grade solar projects, leave door open for changes, DAILY RECORD, July 21, 2023, ",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Oklahoma ,Canadian ,1995-01-01,1995,Local Restrictions," YUKON, OKLA., CODE § 204-173 (1995), ",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Oklahoma ,n/a,2019-01-01,2019,State Restrictions," Oklahoma H.B. 2118 (2019), http://www.oklegislature.gov/BillInfo.aspx?Bill=hb2118&Session=1900; Katelyn Howard, NextEra Energy Cancels Plans for Two Wind Power Projects, KGOU, May 20, 2019, ",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Oklahoma ,n/a,2015-01-01,2015,State Restrictions," Okla. Stat. § 17-160.20(A), ",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Oklahoma ,Rogers and Tulsa Counties,2019-01-01,2019,Local Restrictions," Owasso, Okla., Code § 17.2.3 (2019), ",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+NREL,Oregon,Baker,2021-01-01,2021,Local Restrictions,Baker County Zoning Ord. § 760.03(E)(4),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Oregon ,n/a,2019-01-01,2019,State Restrictions," Sarah Stauffer Curtiss, Oregon’s DLCD Finalizes Solar Siting Rules, STOEL RIVES RENEWABLE LAW BLOG (July 3, 2019), ",0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,Solar
+Sabin Center ,Oregon ,Umatilla ,2022-01-01,2022,Local Restrictions," Umatilla County, Or., Development Code § 152.616(HHH)(6)(a) (last updated July 19, 2022), ",1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Wind
+NREL,Pennsylvania,Clarion,2021-01-01,2021,Local Restrictions,Clarion County Solar Energy Ord. § 3(B),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Pennsylvania,Clarion,2021-01-01,2021,Local Restrictions,Clarion County Solar Energy Ord. § 3(B),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Pennsylvania,Luzerne,2021-01-01,2021,Local Restrictions,Luzerne County Subdiv. & Land use Ord. § 543.3,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Pennsylvania,Luzerne,2021-01-01,2021,Local Restrictions,Luzerne County Subdiv. & Land use Ord. § 543.6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Pennsylvania,Montour,2021-01-01,2021,Local Restrictions,Montour County Ord. 1-2021 § 3.2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Pennsylvania,Montour,2021-01-01,2021,Local Restrictions,Montour County Ord. 1-2021 § 3.2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Pennsylvania,Montour,2021-01-01,2021,Local Restrictions,Montour County Ord. 1-2021 § 3.2,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Pennsylvania ,Lawrence ,2021-01-01,2021,Local Restrictions," Debbie Wachter, Solar Dilemma: Solar energy on farms a continuing dilemma in county, NEW CASTLE NEWS, Oct. 18, 2023, ",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Pennsylvania ,n/a,2018-01-01,2018,State Restrictions," Commonwealth Of Pennsylvania, Pennsylvania Game Commission, Resolution of the Board of Commissioners, April 24, 2018, ",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Pennsylvania ,Northumberland ,2022-01-01,2022,Local Restrictions," Justin Strawser, H.H. Knoebels Sons sues Ralpho Township over solar ordinance, THE DAILY ITEM, Dec. 14, 2022, ",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Rhode Island ,Kent ,2021-01-01,2021,Local Restrictions," Bob Borkowski, Warwick OKs New Solar Regulations, WARWICK POST, Mar. 24, 2022, ",0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Rhode Island ,n/a,2023-01-01,2023,State Restrictions," Rhode Island 2023-S 0684A, 2023-H 5853A; Press Release, State of Rhode Island General Assembly, Sen. DiMario/Rep. Speakman solar siting bill enacted (June 26, 2023), ",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Rhode Island ,Providence ,2020-01-01,2020,Local Restrictions," Wheeler Cowperthwaite, The long road: Cranston Planning Commission seeks three-stage OK on solar farm — again, THE PROVIDENCE JOURNAL, Sept. 12, 2022, ",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Rhode Island ,Providence ,2021-01-01,2021,Local Restrictions," Jacquelyn Moorehead, Foster Planning Board votes to prohibit wind turbines, THE VALLEY BREEZE, Apr. 14, 2021, ",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Wind
+Sabin Center ,Rhode Island ,Washington ,2011-01-01,2011,Local Restrictions," NORTH KINGSTON, R.I., REVISED ORDINANCES § 21-322 (Nov. 21, 2011), ",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+NREL,South Carolina,Abbeville,#N/A,#N/A,Local Restrictions,code of odrinances 3.23 Solar farms,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,South Carolina,Abbeville,#N/A,#N/A,Local Restrictions,code of odrinances 3.23 Solar farms,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,South Carolina,Calhoun,#N/A,#N/A,Local Restrictions,Code of ordinances sec 5-124,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,South Carolina,Calhoun,#N/A,#N/A,Local Restrictions,Code of ordinances sec 5-124,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,South Carolina,Chester,#N/A,#N/A,Local Restrictions,Article VII Solar Farm,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,South Carolina,Darlington,#N/A,#N/A,Local Restrictions,Darlington County Code of Ordinances 19-4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,South Carolina,Darlington,#N/A,#N/A,Local Restrictions,Darlington County Code of Ordinances 19-4,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,South Carolina,Edgefield,#N/A,#N/A,Local Restrictions,Sec. 24-84. - Solar panels,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,South Carolina,Georgetown,2004-01-01,2004,Local Restrictions,art XX 2004,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,South Carolina,Georgetown,2004-01-01,2004,Local Restrictions,art XX 2004,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,South Carolina,Kershaw,#N/A,#N/A,Local Restrictions,"Zoning & Land Development Regulations Article 3, Section 3.3",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,South Carolina,Kershaw,#N/A,#N/A,Local Restrictions,"Zoning & Land Development Regulations Article 3, Section 3.3",0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,South Carolina,Lancaster,#N/A,#N/A,Local Restrictions,5.11.4 solar farms,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,South Carolina,Lancaster,#N/A,#N/A,Local Restrictions,5.11.4 solar farms,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,South Carolina,Marlboro,#N/A,#N/A,Local Restrictions,Ordinance 818 - Conditions for Solar Energy Systems,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,South Carolina,Marlboro,#N/A,#N/A,Local Restrictions,Ordinance 818 - Conditions for Solar Energy Systems,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,South Carolina,Newberry,#N/A,#N/A,Local Restrictions,153.124  Solar farm,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,South Carolina,Newberry,#N/A,#N/A,Local Restrictions,153.124  Solar farm,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,South Carolina ,Calhoun ,2023-01-01,2023,Local Restrictions," Gene Zaleski, Calhoun County Council: Solar farm freeze finalized, TIMES AND DEMOCRAT, Mar. 29, 2023, ",1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,South Dakota,McCook,2020-01-01,2020,Local Restrictions,McCook County Zoning Regs. § 11.19(G),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,South Dakota,McCook,2020-01-01,2020,Local Restrictions,McCook County Zoning Regs. § 11.19(G),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,South Dakota,Pennington,2017-01-01,2017,Local Restrictions,Pennington County Zoning Ord. § 317(A)(7),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,South Dakota,Pennington,2017-01-01,2017,Local Restrictions,Pennington County Zoning Ord. § 317(A)(7),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,South Dakota,Pennington,2017-01-01,2017,Local Restrictions,Pennington County Zoning Ord. § 317(A)(7),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,South Dakota,Pennington,2017-01-01,2017,Local Restrictions,Pennington County Zoning Ord. § 317(A)(7),0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,South Dakota , Hughes ,2017-01-01,2017,Local Restrictions," Hughes County, South Dakota, Resolution No. 2017-04, May 15, 2017, ",1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,South Dakota , Lincoln ,2017-01-01,2017,Local Restrictions," John Hult, Lincoln County votes downwind backers, ARGUS LEADER, July 18, 2017, ",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,South Dakota ,Sanborn ,2016-01-01,2016,Local Restrictions," Evan Hendershot, Letcher Township establishes one-mile wind tower setback, THE DAILY REPUBLIC, June 10, 2016, ",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,South Dakota ,Walworth ,2017-01-01,2017,Local Restrictions," Walworth County, S.D., Zoning Ordinance § 5.24.03(2) (May 10, 2017), ",1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+NREL,Tennessee,Fayette,2021-01-01,2021,Local Restrictions,Fayette County Zoning Res. § 13,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Tennessee,Fayette,2021-01-01,2021,Local Restrictions,Fayette County Zoning Res. § 13,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Tennessee,Greene,2020-01-01,2020,Local Restrictions,Greene County Zoning Ord. § 601.1S(3),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Tennessee,Haywood,2021-01-01,2021,Local Restrictions,Haywood County Zoning Res. § 9.02(D),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Tennessee,Haywood,2021-01-01,2021,Local Restrictions,Haywood County Zoning Res. § 9.02(D),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Tennessee,Jefferson,2016-01-01,2016,Local Restrictions,Jefferson County Zoning Res. § 7.9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Tennessee,Shelby,#N/A,#N/A,Local Restrictions,Shelby County Unified Dev. Code 2.6.2(2),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Tennessee,Washington,2018-01-01,2018,Local Restrictions,Washington County Zoning Res. § 516.1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Tennessee,Washington,2018-01-01,2018,Local Restrictions,Washington County Zoning Ord. § 516.1.1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Tennessee,Washington,2018-01-01,2018,Local Restrictions,Washington County Zoning Ord. § 516.1.1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Tennessee ,Franklin ,2022-01-01,2022,Local Restrictions," Brian Justice, Franklin County gives solar the cold shoulder, THE TULLAHOMA TENNESSEE NEWS, Apr. 28, 2022, ",0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Tennessee ,Greene ,2022-01-01,2022,Local Restrictions," Spencer Morrell, County Commission Approves New Solar Farm Pause, THE GREENVILLE SUN, Aug. 16, 2022, ",0,1,0,0,0,1,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Tennessee ,n/a,2018-01-01,2018,State Restrictions," Tennessee House Bill No. 1731 (Apr. 11, 2018), ",1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Tennessee ,n/a,2017-01-01,2017,State Restrictions," Tennessee General Assembly, HB 1021/SB 1336, ",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+NREL,Texas,San Antonio,2010-01-01,2010,Local Restrictions,San Antonio Unified Dev. Code § 35-398(b),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Texas,San Antonio,2010-01-01,2010,Local Restrictions,San Antonio Unified Dev. Code § 35-398(b),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Texas ,Bell ,2012-01-01,2012,Local Restrictions," NOLANVILLE, TEX., ORDINANCE 6051-12, § 620.1 (2013), as codified at NOLANVILLE, TEX., CODE § 620.1(f), ",0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Texas ,Cameron ,2010-01-01,2010,Local Restrictions," BROWNSVILLE, TEX., ORDINANCE NO. 2010-1518 (Apr. 6, 2010), as codified at BROWNSVILLE, TEX., CODE §§ 18-750 to 18-758 (current as of Sept. 19, 2022), ",0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Texas ,Collin ,2022-01-01,2022,Local Restrictions," MCKINNEY, TEX., ZONING REGULATIONS § 146-140 (current as of Nov. 15, 2022), ",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Texas ,"Collin, Dallas, and Rockwall Counties",2015-01-01,2015,Local Restrictions," GARLAND, TEX., ORDINANCE 6773 (May 19, 2015), as codified at GARLAND, TEX., DEVELOPMENT CODE § 2.70, ",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Texas ,Dallas ,#N/A,#N/A,Local Restrictions," BALCH SPRINGS, TEX., CODE OF ORDINANCES § 90-3.04(A)(28), ",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Texas ,Dallas and Ellis Counties,2010-01-01,2010,Local Restrictions," OVILLA, TEX., ZONING ORDINANCE § 42.4(G) (June 14, 2010), ",0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Texas ,"Dallas, Tarrant, and Ellis Counties",2023-01-01,2023,Local Restrictions," GRAND PRAIRIE, TEX., Unified Development Code art. 4, §§ 4.9.1 to 4.9.3 (Jan. 17, 2023), ",0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Texas ,Ellis ,2019-01-01,2019,Local Restrictions," MIDLOTHIAN, TEX., ORDINANCE 2019-20 § 2, (Apr. 9, 2019), ",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Texas ,Grayson ,2023-01-01,2023,Local Restrictions," DENISON, TEX., CODE § 28.56 (current as of Feb. 16, 2023), ",1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Texas ,Kleburg ,2014-01-01,2014,Local Restrictions," KINGSVILLE, TEX., ORDINANCE 2014-24, § I (Apr. 23, 2014), ",0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Texas ,Parker ,2022-01-01,2022,Local Restrictions," WEATHERFORD, TEX., CODE § 12-5-106 (current as of Sept. 15, 2022), ",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Texas ,Tarrant ,2022-01-01,2022,Local Restrictions," BENBROOK, TEX., CODE § 17.84.130 (current as of Oct. 18, 2022), ",0,0,1,0,1,1,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Texas ,Tarrant and Johnson Counties,2010-01-01,2010,Local Restrictions," BURLESON, TEX., ORDINANCE NO. B-796-10, § 1(11-104), (Oct. 18, 2010), ",1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Texas ,Waller and Harris Counties,2010-01-01,2010,Local Restrictions," WALLER, TEX., ORDINANCE NO. 481 § 4, (Oct. 18, 2010), as codified at WALLER, TEX., CODE §§ 14-400 TO 14-402 (current as of Feb. 21, 2017), ",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+NREL,Utah,Duchesne,2018-01-01,2018,Local Restrictions,Duchesne County Zoning Ord. § 8-9-15.3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Utah,Duchesne,2018-01-01,2018,Local Restrictions,Duchesne County Zoning Ord. § 8-9-15.3,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Utah,Duchesne,2018-01-01,2018,Local Restrictions,Duchesne County Zoning Ord. § 8-9-15.3,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Utah,Duchesne,2018-01-01,2018,Local Restrictions,Duchesne County Zoning Ord. § 8-9-15.3,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Utah,Iron,2010-01-01,2010,Local Restrictions,Iron County Code Ords. § 17.33.030,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Utah,Iron,2010-01-01,2010,Local Restrictions,Iron County Code Ords. § 17.33.030,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Utah,Iron,2010-01-01,2010,Local Restrictions,Iron County Code Ords. § 17.33.030,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Utah,Iron,2010-01-01,2010,Local Restrictions,Iron County Code Ords. § 17.33.030,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Utah ,Kane ,2013-01-01,2013,Local Restrictions,Kane County Code Ords. § 9-24-3,1,0,1,0,1,1,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Vermont ,Bennington ,2023-01-01,2023,Local Restrictions," Kevin McCallum, Wind Power Develop Abandons Proposed Stamford Project, SEVEN DAYS VERMONT, Dec. 12, 2023, ",0,0,0,0,0,1,0,0,0,0,1,0,1,1,1,Wind & Solar
+Sabin Center ,Vermont ,Orleans ,2015-01-01,2015,Local Restrictions," Northeastern Vermont Development Association, Wind Study Report, August 21, 2014 (amended January 22, 2015), http://www.nvda.net/files/Wind%20Study%20-%20Final%20Report%20-3-27-15.pdf; John Herrick, NEK development officials vote to oppose large wind projects, VT DIGGER, Jan. 26, 2015, ",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+NREL,Virginia,Alleghany,#N/A,#N/A,Local Restrictions,Sec. 66-755. - Development standards for utility-scale solar generation facilities,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Alleghany,#N/A,#N/A,Local Restrictions,Sec. 66-755. - Development standards for utility-scale solar generation facilities,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Amelia,2022-01-01,2022,Local Restrictions,Amelia County Land Use. Ords. § 325-34.2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Amelia,2022-01-01,2022,Local Restrictions,Amelia County Land Use. Ords. § 325-34.2,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Amelia,2022-01-01,2022,Local Restrictions,Amelia County Land Use. Ords. § 325-34.2,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,Solar
+NREL,Virginia,Amelia,2022-01-01,2022,Local Restrictions,Amelia County Land Use. Ords. § 325-34.2,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Amherst,#N/A,#N/A,Local Restrictions,923. - Solar generation facilities. Zoning code,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Amherst,#N/A,#N/A,Local Restrictions,923. - Solar generation facilities. Zoning code,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Appomattox,#N/A,#N/A,Local Restrictions,chapt. 19.6 zoning,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Augusta,2021-01-01,2021,Local Restrictions,Augusta County Zoning Ord. § 25-70.8,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Augusta,2021-01-01,2021,Local Restrictions,Augusta County Zoning Ord. § 25-70.8,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Augusta,2021-01-01,2021,Local Restrictions,Augusta County Zoning Ord. § 25-70.8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Brunswick,#N/A,#N/A,Local Restrictions,ARTICLE 23. - SOLAR FACILITIES,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Brunswick,#N/A,#N/A,Local Restrictions,ARTICLE 23. - SOLAR FACILITIES,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Brunswick,#N/A,#N/A,Local Restrictions,ARTICLE 23. - SOLAR FACILITIES,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Caroline,2021-01-01,2021,Local Restrictions,Caroline County Zoning Ord. § 23.9,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,Solar
+NREL,Virginia,Caroline,2021-01-01,2021,Local Restrictions,Caroline County Zoning Ord. § 23.9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Caroline,2021-01-01,2021,Local Restrictions,Caroline County Zoning Ord. § 23.9,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Charlotte,#N/A,#N/A,Local Restrictions,sec 10-23 solar energy systems,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Charlotte,#N/A,#N/A,Local Restrictions,sec 10-23 solar energy systems,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Charlotte,#N/A,#N/A,Local Restrictions,sec 10-23 solar energy systems,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Clarke,#N/A,#N/A,Local Restrictions,3-C-2-gg Solar Power Plant,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Clarke,#N/A,#N/A,Local Restrictions,3-C-2-gg Solar Power Plant,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Dinwiddle,#N/A,#N/A,Local Restrictions,Division 18 Utility scale solar energy district,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Gloucester,#N/A,#N/A,Local Restrictions,Sec. 9-28. - Solar energy facilities.,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Greensville,#N/A,#N/A,Local Restrictions,Art 24 solar facilities,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Greensville,#N/A,#N/A,Local Restrictions,Art 24 solar facilities,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,Solar
+NREL,Virginia,Greensville,#N/A,#N/A,Local Restrictions,Art 24 solar facilities,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Greensville,#N/A,#N/A,Local Restrictions,Art 24 solar facilities,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Halifax,#N/A,#N/A,Local Restrictions,Art VII solar energy facilities,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Halifax,#N/A,#N/A,Local Restrictions,Art VII solar energy facilities,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Henry,#N/A,#N/A,Local Restrictions,Art XVIII solar energy facilities,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Henry,#N/A,#N/A,Local Restrictions,Art XVIII solar energy facilities,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Highland,2020-01-01,2020,Local Restrictions,715.03 Utility-scale Solar Energy System,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Highland,2020-01-01,2020,Local Restrictions,715.03 Utility-scale Solar Energy System,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Highland,2020-01-01,2020,Local Restrictions,715.03 Utility-scale Solar Energy System,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Highland,2020-01-01,2020,Local Restrictions,715.03 Utility-scale Solar Energy System,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Highland,2020-01-01,2020,Local Restrictions,715.03 Utility-scale Solar Energy System,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Highland,2020-01-01,2020,Local Restrictions,715.03 Utility-scale Solar Energy System,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,Solar
+NREL,Virginia,King George,#N/A,#N/A,Local Restrictions,Sec. 4.16. - Solar farm.,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,King Williams,#N/A,#N/A,Local Restrictions,ARTICLE XVI: SOLAR FACILITIES,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,King Williams,#N/A,#N/A,Local Restrictions,ARTICLE XVI: SOLAR FACILITIES,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,King Williams,#N/A,#N/A,Local Restrictions,ARTICLE XVI: SOLAR FACILITIES,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Lancaster,#N/A,#N/A,Local Restrictions,28-5. - Utility Scale Solar.,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Lancaster,#N/A,#N/A,Local Restrictions,28-5. - Utility Scale Solar.,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Lancaster,#N/A,#N/A,Local Restrictions,28-5. - Utility Scale Solar.,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Louisa,#N/A,#N/A,Local Restrictions,Sec. 86-393. – Processing and performance standards for utility-scale solar generation facilities.,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Louisa,#N/A,#N/A,Local Restrictions,Sec. 86-393. – Processing and performance standards for utility-scale solar generation facilities.,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Northampton,#N/A,#N/A,Local Restrictions,§ 154.2.178  SOLAR ENERGY DISTRICT,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Northampton,#N/A,#N/A,Local Restrictions,§ 154.2.178  SOLAR ENERGY DISTRICT,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Northumberland,#N/A,#N/A,Local Restrictions,sec 148-155 solar energy facilities,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Nottoway,#N/A,#N/A,Local Restrictions,sec. 1-19-4 development standards for solar energy uses,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Pittsylvania,#N/A,#N/A,Local Restrictions,SEC. 35-141. SOLAR ENERGY FACILITIES.,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Pittsylvania,#N/A,#N/A,Local Restrictions,SEC. 35-141. SOLAR ENERGY FACILITIES.,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Pittsylvania,#N/A,#N/A,Local Restrictions,SEC. 35-141. SOLAR ENERGY FACILITIES.,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,Solar
+NREL,Virginia,Prince Edward,#N/A,#N/A,Local Restrictions,Prince Edward County Code Ords. appdx. B § 7-110,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Prince Edward,2020-01-01,2020,Local Restrictions,Prince Edward County Code Ords. appdx. B § 7-110,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Prince Edward,2020-01-01,2020,Local Restrictions,Prince Edward County Code Ords. appdx. B § 7-110,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Prince Edward,2020-01-01,2020,Local Restrictions,Prince Edward County Code Ords. appdx. B § 7-110,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Prince George,#N/A,#N/A,Local Restrictions,Prince George County Zoning Ord. § 90-16,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Richmond,#N/A,#N/A,Local Restrictions,"4-21  SOLAR POWER FACILITY, LARGE PHOTOVOLTAIC",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Roanoke,#N/A,#N/A,Local Restrictions,Sec. 30-100-13. - Solar energy systems.,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Rockingham,#N/A,#N/A,Local Restrictions,sec. 17-607,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Shenandoah,#N/A,#N/A,Local Restrictions,Art XXII Solar facilities,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Southampton,#N/A,#N/A,Local Restrictions,Sec. 18-4309.,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Virginia,Southampton,#N/A,#N/A,Local Restrictions,Sec. 18-4309.,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Virginia , Accomack ,2017-01-01,2017,Local Restrictions," Accomack County, Va., Ordinance of 01-19-2017, ",0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Virginia , Brunswick ,2023-01-01,2023,Local Restrictions," Sylvia Allen, Supervisors amend solar ordinance, BRUNSWICK TIMES-GAZETTE, March 28, 2023, ",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,Solar
+Sabin Center ,Virginia , Charlotte ,2022-01-01,2022,Local Restrictions," Charlotte Co. pauses further solar projects, SOVANOW.COM, Aug. 24, 2022, ",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Virginia , Culpeper ,2023-01-01,2023,Local Restrictions," Allison Brophy Champion, Culpeper County limits solar energy projects to 300 acres, CULPEPER STAR EXPONENT, Feb. 8, 2023, ",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Virginia , Fauquier ,2020-01-01,2020,Local Restrictions," Fauquier County, Virginia, Solar Ordinance, ",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Virginia , Franklin ,2023-01-01,2023,Local Restrictions," FRANKLIN COUNTY, VA., ORDINANCE NO. 11-02-2023 (Feb. 21, 2023), ",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Virginia , Greensville ,2022-01-01,2022,Local Restrictions," William Pitts, Greensville County sets limits on new solar facilities, INDEPENDENT-MESSENGER, Mar. 14, 2022 (updated Mar. 15, 2022), ",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Virginia , Halifax ,2023-01-01,2023,Local Restrictions,#N/A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Virginia , Henry ,2020-01-01,2020,Local Restrictions," HENRY COUNTY, VA., CODE OF ORDINANCES § 21-1806(j) (adopted Mar. 24, 2020), ",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Virginia , Isle of Wight ,2023-01-01,2023,Local Restrictions," Stephen Faleski, Isle of Wight approves 2% cap on solar farm acreage, SMITHFIELD TIMES, May 22, 2023, ",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Virginia , James City ,2023-01-01,2023,Local Restrictions," David Macaulay, James City hopes to have new policy on solar farms by end of year, VIRGINIA GAZETTE, Apr. 15, 2023, ",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Virginia , Louisa ,2022-01-01,2022,Local Restrictions," LOUISA COUNTY, VA., CODE § 86-45, ",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Virginia , Madison ,2019-01-01,2019,Local Restrictions," MADISON COUNTY, VA., CODE OF ORDINANCES § 14-19-3(A)(1), ",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Virginia , Page ,2022-01-01,2022,Local Restrictions," PAGE COUNTY, VA., CODE §§ 134-7(J)-(K) (June 28, 2022), ",1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,Solar
+Sabin Center ,Virginia , Patrick ,2007-01-01,2007,Local Restrictions," PATRICK COUNTY, VA., AN ORDINANCE ENTITLED PROHIBITION OF TALL STRUCTURES (Feb. 12, 2007), ",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Virginia , Pittsylvania ,2023-01-01,2023,Local Restrictions," Diana McFarland, PittCo further restricts solar, CHATHAM STAR TRIBUNE, Mar. 30, 2023, ",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Virginia , Prince George ,2020-01-01,2020,Local Restrictions," Prince George County, Va., Solar Energy Facility Siting Policy (Aug. 11, 2020), ",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Virginia , Rockingham ,2023-01-01,2023,Local Restrictions," ROCKINGHAM COUNTY, VA., CODE § 17-607, Solar energy facility, large (a) (as of Mar. 21, 2023), ",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Virginia , Shenandoah ,2023-01-01,2023,Local Restrictions," Alex Bridges, Shenandoah County board OKs new solar farm rules, THE NORTHERN VIRGINIA DAILY, Apr. 26, 2023, ",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,Solar
+Sabin Center ,Virginia , Southampton ,2022-01-01,2022,Local Restrictions," Titus Mohler, Southampton County supervisors approve new solar ordinance, Tidewater News, Sept. 10, 2022, ",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Virginia ,Augusta ,2021-01-01,2021,Local Restrictions," Augusta County, Va., Comprehensive Plan Solar Update, July 28, 2021, ",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,Solar
+Sabin Center ,Virginia ,Buckingham ,2023-01-01,2023,Local Restrictions," Rachel Austin, What does the new Buckinham County solar policy look like?, FARMVILLE HERALD, Dec. 19, 2023, ",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Virginia ,Lunenburg ,2023-01-01,2023,Local Restrictions," Crystal Vandegrift, Board gives solar projects red light, KENBRIDGE VICTORIA DISPATCH, July 21, 2023, ",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,Solar
+Sabin Center ,Virginia ,Mecklenburg ,2023-01-01,2023,Local Restrictions," Mecklenburg County tightens requirements for solar projects, SOVANOW.COM, Apr. 13, 2023, ",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Virginia ,Warren ,2009-01-01,2009,Local Restrictions," WARREN COUNTY, VA., CODE OF ORDINANCES § 180-59.1 (added May 19, 2009), ",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+NREL,Washington,Asotin,#N/A,#N/A,Local Restrictions,Asotin County Zoning Ord. § 17.08.070,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Washington,Grant,2021-01-01,2021,Local Restrictions,Grant County Ord. No. 21-080-CC,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,Solar
+NREL,Washington,Kittitas,2018-01-01,2018,Local Restrictions,Kittitas County Zoning Ord. § 17.61C.090,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Washington,Kittitas,2018-01-01,2018,Local Restrictions,Kittitas County Zoning Ord. § 17.61C.090,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Washington,Klickitat,2010-01-01,2010,Local Restrictions,Klickitat County Code Ords. § 19.39:8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Washington ,Grant,2021-01-01,2021,Local Restrictions," Grant County, Wash., Draft Ordinance to Further Extend Moratorium, ",0,1,0,0,0,1,0,0,0,0,0,0,1,1,1,Wind & Solar
+Sabin Center ,Washington ,Kittitas,2017-01-01,2017,Local Restrictions," Daily Record Editorial Board, Tackling reasons behind solar moratorium, DAILY RECORD, July 12, 2017, ",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Washington ,Yakima ,2022-01-01,2022,Local Restrictions," Phil Ferolito, Yakima County Commissioners extend moratorium on solar farms, YAKIMA HERALD-REPUBLIC, Mar. 1, 2023, ",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,West Virginia ,n/a,2020-01-01,2020,State Restrictions,Senate Bill 583 of 2020 ,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,Solar
+NREL,Wisconsin,Green,#N/A,#N/A,Local Restrictions,Green County Zoning Regs. § 4-12-3(B),1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Wisconsin,Green,#N/A,#N/A,Local Restrictions,Green County Zoning Regs. § 4-12-3(B),0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Wisconsin,Walworth,#N/A,#N/A,Local Restrictions,Walworth County Code Ords. § 65-121,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Wisconsin,Waushara,2020-01-01,2020,Local Restrictions,Waushara County Zoning Ord. § 58-236,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Wisconsin , Manitowoc ,2013-01-01,2013,Local Restrictions," Cindy Hodgson, Country Board Adopts Wind Farm Ordinances, HTR MEDIA (Mar. 21, 2013), ",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Wisconsin ,Clark ,2023-01-01,2023,Local Restrictions," Town of Green Grove, Wisconsin, Ordinance No. 2023-0509 (May 9, 2023), ",1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Wisconsin ,Columbia ,2023-01-01,2023,Local Restrictions," Town of Courtland, Wisconsin, Solar Energy Systems Licensing Ordinance (June 21, 2023), ",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Wisconsin ,Dane ,2022-01-01,2022,Local Restrictions," TOWN OF DUNN, WIS., ORDINANCE 11-25 Sec. 11-25-7(c)(2) (2022), ",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Wisconsin ,Dane ,2021-01-01,2021,Local Restrictions," TOWN OF WESTPORT, WIS., CODE OF ORDINANCES § 7-13-7(i)-(j), ",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,Solar
+Sabin Center ,Wisconsin ,Eau Claire ,2021-01-01,2021,Local Restrictions," Lincoln Township, Temporary Moratorium on Development of Wind Energy Systems, Ordinance No. 2021.21, May 10, 2021, ",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Wisconsin ,Marathon ,2023-01-01,2023,Local Restrictions," Town of Cleveland, Wisconsin, Ordinance No. 2023-1 (June 6, 2023), ",1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Wisconsin ,Marathon ,2023-01-01,2023,Local Restrictions," Town of Eau Pleine, Wisconsin, Ordinance No. 2023-1 (June 13, 2023), ",1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Wisconsin ,Marathon ,2023-01-01,2023,Local Restrictions," Town of Johnson, Wisconsin, Ordinance No. 2023-__ (Aug., 2023), ",1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Wisconsin ,Marathon ,2023-01-01,2023,Local Restrictions," Town of Cassel, Wisconsin, Ordinance No. 2023-1 (May 8, 2023), ",1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Wisconsin ,Marathon ,2023-01-01,2023,Local Restrictions," Town of Day, Wisconsin, Ordinance No. 2023-__ (May 10, 2023), ",1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Wisconsin ,Marathon ,2023-01-01,2023,Local Restrictions," Town of Frankfort, Wisconsin, Ordinance No. 2023-0508-A (May 8, 2023), ",1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Wisconsin ,Marathon ,2023-01-01,2023,Local Restrictions," Town of Holton, Wisconsin, Ordinance No. 2023-02 (May 10, 2023), ",1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Wisconsin ,Marathon ,2023-01-01,2023,Local Restrictions," Town of Rib Falls, Wisconsin, Ordinance No. Chapter 25 (May 9, 2023), ",1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Wind
+Sabin Center ,Wisconsin ,Rock ,2007-01-01,2007,Local Restrictions," Wisconsin Public Service Commission, Wind Siting – Frequently Asked Questions at 3, ",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wind
+NREL,Wyoming,Albany,#N/A,#N/A,Local Restrictions,8. Setbacks for Solar Energy Facilities.,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Wyoming,Converse,#N/A,#N/A,Local Restrictions,W.S. 18-5-504,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Wyoming,Sheridan,#N/A,#N/A,Local Restrictions,RULES AND REGULATIONS GOVERNING THE PERMITING OF COMMERICIAL SOLAR ENERGY FACILITIES,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Wyoming,Sheridan,#N/A,#N/A,Local Restrictions,RULES AND REGULATIONS GOVERNING THE PERMITING OF COMMERICIAL SOLAR ENERGY FACILITIES,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
+NREL,Wyoming,Sweetwater,2019-01-01,2019,Local Restrictions,Sec 11. Solar Energy System – On-Site,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,Solar
+NREL,Wyoming,Sweetwater,2019-01-01,2019,Local Restrictions,Sec 11. Solar Energy System – On-Site,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Solar
