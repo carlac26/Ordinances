@@ -1,0 +1,181 @@
+"year","ordinance","count"
+2009,"Setback_n",3
+2009,"moratorium_n",0
+2009,"noise_n",0
+2009,"capacity_n",0
+2009,"height_n",4
+2009,"utility_n",1
+2009,"agricultur_n",0
+2009,"cover_n",0
+2009,"density_n",0
+2009,"continuous operation_n",0
+2009,"ban_n",1
+2009,"visual impact_n",0
+2010,"Setback_n",2
+2010,"moratorium_n",0
+2010,"noise_n",2
+2010,"capacity_n",0
+2010,"height_n",4
+2010,"utility_n",1
+2010,"agricultur_n",1
+2010,"cover_n",0
+2010,"density_n",0
+2010,"continuous operation_n",0
+2010,"ban_n",0
+2010,"visual impact_n",0
+2011,"Setback_n",3
+2011,"moratorium_n",2
+2011,"noise_n",1
+2011,"capacity_n",0
+2011,"height_n",3
+2011,"utility_n",0
+2011,"agricultur_n",0
+2011,"cover_n",0
+2011,"density_n",0
+2011,"continuous operation_n",0
+2011,"ban_n",0
+2011,"visual impact_n",0
+2012,"Setback_n",3
+2012,"moratorium_n",0
+2012,"noise_n",0
+2012,"capacity_n",0
+2012,"height_n",2
+2012,"utility_n",2
+2012,"agricultur_n",0
+2012,"cover_n",0
+2012,"density_n",0
+2012,"continuous operation_n",0
+2012,"ban_n",0
+2012,"visual impact_n",0
+2013,"Setback_n",5
+2013,"moratorium_n",1
+2013,"noise_n",2
+2013,"capacity_n",0
+2013,"height_n",2
+2013,"utility_n",3
+2013,"agricultur_n",0
+2013,"cover_n",0
+2013,"density_n",0
+2013,"continuous operation_n",0
+2013,"ban_n",1
+2013,"visual impact_n",1
+2014,"Setback_n",6
+2014,"moratorium_n",0
+2014,"noise_n",3
+2014,"capacity_n",1
+2014,"height_n",4
+2014,"utility_n",2
+2014,"agricultur_n",0
+2014,"cover_n",0
+2014,"density_n",0
+2014,"continuous operation_n",0
+2014,"ban_n",0
+2014,"visual impact_n",2
+2015,"Setback_n",14
+2015,"moratorium_n",3
+2015,"noise_n",4
+2015,"capacity_n",2
+2015,"height_n",7
+2015,"utility_n",0
+2015,"agricultur_n",0
+2015,"cover_n",1
+2015,"density_n",0
+2015,"continuous operation_n",0
+2015,"ban_n",0
+2015,"visual impact_n",1
+2016,"Setback_n",16
+2016,"moratorium_n",12
+2016,"noise_n",3
+2016,"capacity_n",1
+2016,"height_n",12
+2016,"utility_n",2
+2016,"agricultur_n",0
+2016,"cover_n",0
+2016,"density_n",0
+2016,"continuous operation_n",0
+2016,"ban_n",0
+2016,"visual impact_n",0
+2017,"Setback_n",24
+2017,"moratorium_n",10
+2017,"noise_n",0
+2017,"capacity_n",0
+2017,"height_n",12
+2017,"utility_n",3
+2017,"agricultur_n",2
+2017,"cover_n",0
+2017,"density_n",0
+2017,"continuous operation_n",0
+2017,"ban_n",1
+2017,"visual impact_n",1
+2018,"Setback_n",49
+2018,"moratorium_n",6
+2018,"noise_n",8
+2018,"capacity_n",0
+2018,"height_n",30
+2018,"utility_n",6
+2018,"agricultur_n",0
+2018,"cover_n",1
+2018,"density_n",0
+2018,"continuous operation_n",0
+2018,"ban_n",4
+2018,"visual impact_n",0
+2019,"Setback_n",34
+2019,"moratorium_n",12
+2019,"noise_n",10
+2019,"capacity_n",1
+2019,"height_n",24
+2019,"utility_n",11
+2019,"agricultur_n",4
+2019,"cover_n",5
+2019,"density_n",0
+2019,"continuous operation_n",1
+2019,"ban_n",6
+2019,"visual impact_n",2
+2020,"Setback_n",41
+2020,"moratorium_n",15
+2020,"noise_n",12
+2020,"capacity_n",2
+2020,"height_n",28
+2020,"utility_n",13
+2020,"agricultur_n",3
+2020,"cover_n",5
+2020,"density_n",1
+2020,"continuous operation_n",0
+2020,"ban_n",5
+2020,"visual impact_n",0
+2021,"Setback_n",138
+2021,"moratorium_n",27
+2021,"noise_n",19
+2021,"capacity_n",2
+2021,"height_n",103
+2021,"utility_n",12
+2021,"agricultur_n",6
+2021,"cover_n",0
+2021,"density_n",1
+2021,"continuous operation_n",0
+2021,"ban_n",7
+2021,"visual impact_n",0
+2022,"Setback_n",44
+2022,"moratorium_n",33
+2022,"noise_n",13
+2022,"capacity_n",3
+2022,"height_n",27
+2022,"utility_n",28
+2022,"agricultur_n",10
+2022,"cover_n",3
+2022,"density_n",3
+2022,"continuous operation_n",0
+2022,"ban_n",4
+2022,"visual impact_n",6
+2023,"Setback_n",24
+2023,"moratorium_n",34
+2023,"noise_n",13
+2023,"capacity_n",1
+2023,"height_n",12
+2023,"utility_n",19
+2023,"agricultur_n",7
+2023,"cover_n",4
+2023,"density_n",0
+2023,"continuous operation_n",0
+2023,"ban_n",8
+2023,"visual impact_n",1
