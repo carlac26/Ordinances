@@ -11,38 +11,41 @@ pacman::p_load(MASS, readxl, tseries, car, tile, simcf, # data refinement
 #Ordinance Dataset---------------------------------------------
 #import csv , df <- names imported dataset 
 ##read_csv(imports csv input csv name here usually need full path name but file is already in my environment so i dont need it)
-df <- read_csv("ordinances_r.csv")
+#df <- read_csv("ordinances_r.csv")
 #view() shows dataset
 #View(df)
 #add dates from mit dataset in
-mit <- read_csv("solarord_long_revised.csv") 
+#mit <- read_csv("solarord_long_revised.csv") 
 
-mit <- mit %>%
- # rename(County = county_name, State = state_name) 
-  select(County,State, year, Name)
+#mit <- mit %>%
+ #rename(County = county_name, State = state_name, Name = citation) %>%
+  #select(County,State, year, Name)
   
 
 
 #using package lubridate names Date as a date column, ymd is format date is in
 #need to use this exact notation of dataframe$columnname so it changes the column in the data set
-df$Date <- ymd(df$Date)
+#df$Date <- ymd(df$Date)
 
 #manipulate dataset into time series formate - remove "dummy" variables
 ##name new set time_series
-df <- df %>%
+#df <- df %>%
 #recognize year column as date column in the year format 
-  mutate(year = lubridate::year(Date)) 
+  #mutate(year = lubridate::year(Date)) 
 
 
-revised_df <- df %>%
-  left_join( mit, join_by(State, County, Name) )%>%
-  mutate(year = ifelse(
-    Source == "NREL" & !is.na(year.y), year.y, year.x),
-    year.x = NULL, year.y = NULL , Year = NULL, Date = NULL) %>%
-  distinct()
+#revised_df <- df %>%
+ # left_join( mit, join_by(State, County, Name) )%>%
+  #mutate(year = ifelse(
+   # Source == "NREL" & !is.na(year.y), year.y, year.x),
+    #year.x = NULL, year.y = NULL , Year = NULL, Date = NULL) %>%
+  #distinct()
     
 
 #write_csv(revised_df, "updatedyearordinance.csv")
+
+revised_df <- read_csv("updatedyearordinance.csv")
+
 
 ordinancesdf <- revised_df %>%
 #select only specific columns needed for data visualization, the ":" means select all columns between x:y 
@@ -55,29 +58,35 @@ ordinancesdf <- revised_df %>%
     across(Setback:"visual impact",
            list( n = ~ sum(.x, na.rm = TRUE))))
 
+# Remove the '_n' from the end of column names
+colnames(ordinancesdf) <- gsub("_n$", "", colnames(ordinancesdf))
 
 #write_csv(ordinancesdf, "ordinancetypebyyr.csv")
 
 ################# Co-occurance Matrix ########################
 
-# Remove the '_n' from the end of column names
-colnames(ordinancesdf) <- gsub("_n$", "", colnames(ordinancesdf))
 
 # Drop the 'year' column as it's not part of the ordinance data
-matrixdata <- ordinancesdf[ , !(names(ordinancesdf) %in% c("year"))]
+matrixdata <- revised_df %>%
+  select(6:17)
 
+corrmatrixdf <- ordinancesdf %>%
+  select(!year)
 # Convert the data frame to a matrix
 ordinance_matrix <- as.matrix(matrixdata)
 
+corr_matrix <- as.matrix((corrmatrixdf>0)+0)
 # Create the co-occurrence matrix by multiplying the transposed matrix with the original
 co_occurrence_matrix <- t(ordinance_matrix) %*% ordinance_matrix
+
+ordinance_matrix.cor = cor(ordinance_matrix)
 
 # Print the co-occurrence matrix
 print(co_occurrence_matrix)
 #save matrix
 
 #write.csv(co_occurrence_matrix,file= "co-occurance-matrix.csv", row.names = TRUE)
-
+#write.csv(ordinance_matrix.cor,file= "correlation-matrix.csv", row.names = TRUE)
 #######histogram######
 
 # Sum the occurrences of each ordinance type across all years
