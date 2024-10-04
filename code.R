@@ -18,7 +18,7 @@ pacman::p_load(MASS, readxl, tseries, car, tile, simcf, # data refinement
 #mit <- read_csv("solarord_long_revised.csv") 
 
 #mit <- mit %>%
- #rename(County = county_name, State = state_name, Name = citation) %>%
+ #rename(County = County, State = state_name, Name = citation) %>%
   #select(County,State, year, Name)
   
 
@@ -46,6 +46,76 @@ pacman::p_load(MASS, readxl, tseries, car, tile, simcf, # data refinement
 
 revised_df <- read_csv("updatedyearordinance.csv")
 
+######clean duplicates ######
+namecol <- revised_df %>%
+  select(Name)%>%
+  distinct() 
+
+a <- replace(revised_df, revised_df==0, NA)
+  
+  setback <- a %>% 
+    select(Name, Setback) %>%
+    drop_na(Setback) %>%
+  left_join(namecol, by= "Name") 
+  
+  setback <- a %>% 
+    select(Name, Setback) %>%
+    drop_na(Setback) %>%
+    left_join(namecol, by= "Name") 
+
+########### Full County + Year Dataset####
+  
+  
+  data <- read_excel("county_list.xlsx")
+  
+  year <- c(rep(2010,3142), rep(2011,3142), rep(2012,3142),
+            rep(2013,3142), rep(2014,3142), rep(2015,3142),
+            rep(2016,3142), rep(2017,3142), rep(2018,3142),
+            rep(2019,3142), rep(2020,3142), rep(2021,3142),
+            rep(2022,3142), rep(2023,3142), rep(2024, 3142))
+  
+  fulldata <- rbind(data,data,data,data,data,
+                    data,data,data,data,data,
+                    data,data,data,data,data)
+  
+  fulldata$year <- year
+#state refined 
+unique(revised_df$State) %>% sort()  
+
+revised_df$State[revised_df$State=="MISSOURI"] <- "Missouri"
+
+revised_df$State[revised_df$State=="ARIZONA"] <- "Arizona"
+
+revised_df$State[revised_df$State=="ALABAMA"] <- "Alabama"
+
+revised_df$State[revised_df$State=="Forida"] <- "Florida"
+#County Refined
+revised_df$County[revised_df$County=="n/a"] <- "N/A" 
+revised_df$County[revised_df$County=="N/a"] <- "N/A" 
+
+revised_df$County[revised_df$County=="Dekalb"] <- "DeKalb" 
+revised_df$County[revised_df$County=="DeWitt"] <- "De Witt" 
+revised_df$County[revised_df$County=="Koscuisko"] <- "Kosciusko"
+revised_df$County[revised_df$County=="Chautaqua"] <- "Chautauqua"
+revised_df$County[revised_df$County=="Lac Qui Parle"] <- "Lac qui Parle"
+revised_df$County[revised_df$County=="FIllmore"] <- "Fillmore"
+revised_df$County[revised_df$County=="Notrona"] <- "Natrona"
+revised_df$County[revised_df$County=="Gadsen"] <- "Gadsden"
+# Oglethorpe, GA (2023) -> right-censored
+revised_df$County[revised_df$County=="DeWitt"] <- "De Witt" 
+revised_df$County[revised_df$County=="Dearborne"] <- "Dearborn" 
+revised_df$County[revised_df$County=="Koscuisko"] <- "Kosciusko"
+revised_df$County[revised_df$County=="Saint Joseph"] <- "St. Joseph"
+revised_df$County[revised_df$County=="Fredrick"] <- "Frederick"
+revised_df$County[revised_df$County=="Queen Annes"] <- "Queen Anne's"
+revised_df$County[revised_df$County=="Gladwind"] <- "Gladwin"
+# Granville, NC (2009) -> excluded from the analysis (left the risk set)
+# Linclon, NC (2009) -> excluded from the analysis (left the risk set)
+revised_df$County[revised_df$County=="Dinwiddle"] <- "Dinwiddie"
+revised_df$County[revised_df$County=="Dinwiddle"] <- "Dinwiddie"
+revised_df$County[revised_df$County=="King Williams"] <- "King William"
+
+ordinances_unique <- revised_df %>% select(State, County, year) %>% unique()
 
 ordinancesdf <- revised_df %>%
 #select only specific columns needed for data visualization, the ":" means select all columns between x:y 
@@ -61,6 +131,8 @@ ordinancesdf <- revised_df %>%
 # Remove the '_n' from the end of column names
 colnames(ordinancesdf) <- gsub("_n$", "", colnames(ordinancesdf))
 
+
+
 #write_csv(ordinancesdf, "ordinancetypebyyr.csv")
 
 ################# Co-occurance Matrix ########################
@@ -70,23 +142,29 @@ colnames(ordinancesdf) <- gsub("_n$", "", colnames(ordinancesdf))
 matrixdata <- revised_df %>%
   select(6:17)
 
-corrmatrixdf <- ordinancesdf %>%
+df_yr <- ordinancesdf %>%
   select(!year)
 # Convert the data frame to a matrix
 ordinance_matrix <- as.matrix(matrixdata)
 
-corr_matrix <- as.matrix((corrmatrixdf>0)+0)
+matrix_yr_binary <- as.matrix((df_yr>0)+0)
+matrix_yr <- as.matrix(df_yr)
 # Create the co-occurrence matrix by multiplying the transposed matrix with the original
 co_occurrence_matrix <- t(ordinance_matrix) %*% ordinance_matrix
 
 ordinance_matrix.cor = cor(ordinance_matrix)
+ordinance_matrix.cor_spearman = cor(ordinance_matrix,method = "spearman")
+ordinance_matrix.cor_spearman = cor(ordinance_matrix,method = "spearman")
+
+#matrix showing correlations by year 
+cor_matrix_yr_s = cor(matrix_yr,method = "spearman")
 
 # Print the co-occurrence matrix
 print(co_occurrence_matrix)
 #save matrix
 
 #write.csv(co_occurrence_matrix,file= "co-occurance-matrix.csv", row.names = TRUE)
-#write.csv(ordinance_matrix.cor,file= "correlation-matrix.csv", row.names = TRUE)
+#write.csv(cor_matrix_yr_s,file= "correlation-matrix-yr-spearman.csv", row.names = TRUE)
 #######histogram######
 
 # Sum the occurrences of each ordinance type across all years
@@ -213,22 +291,5 @@ state_df <- df %>%
 
 
 #write.csv(state_df,"~/R/Solar ordinances/state_df.csv", row.names = FALSE)
-
-######### Full County + Year Dataset
-
-
-data <- read_excel("county_list.xlsx")
-
-year <- c(rep(2010,3142), rep(2011,3142), rep(2012,3142),
-          rep(2013,3142), rep(2014,3142), rep(2015,3142),
-          rep(2016,3142), rep(2017,3142), rep(2018,3142),
-          rep(2019,3142), rep(2020,3142), rep(2021,3142),
-          rep(2022,3142), rep(2023,3142), rep(2024, 3142))
-
-fulldata <- rbind(data,data,data,data,data,
-                  data,data,data,data,data,
-                  data,data,data,data,data)
-
-fulldata$year <- year
 
 
